@@ -1,0 +1,4896 @@
+%PDF-1.4
+%ø˜¢˛
+1 0 obj
+<< /Names 3 0 R /Outlines 4 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 5 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Author (Ammar ElSalanty) /CreationDate (D:20260919000000) /Creator (Altium Designer) /Keywords (Altium) /Producer (llPDFLib 3.x) /Subject () /Title (New Output) >>
+endobj
+3 0 obj
+<< /JavaScript 6 0 R >>
+endobj
+4 0 obj
+<< /Count 404 /First 7 0 R /Last 8 0 R /Type /Outlines >>
+endobj
+5 0 obj
+<< /Count 1 /Kids [ 9 0 R ] /Type /Pages >>
+endobj
+6 0 obj
+<< /Names [ (_FindWord) 10 0 R (_HighlightRect) 11 0 R (ShowCompProps_9146B2ADD2E541C7A8055E1ABC7FBE93) 12 0 R (ShowCompProps_7331DD48A12D4A9A81C3DE46F987CE1E) 13 0 R (ShowCompProps_7B0392CE4EFB4EEBAE22173632413609) 14 0 R (ShowCompProps_97DE36E0B4C64D0E9361F7A394D78669) 15 0 R (ShowCompProps_F5FA0FC4E50C4D09891489D981F2BDA6) 16 0 R (ShowCompProps_523AD3B763134E8EB185FE94C8DE564E) 17 0 R (ShowCompProps_0328508FFB97402EA1F52E7548414349) 18 0 R (ShowCompProps_0D3010F9B9AF4F92A81C700F99A5B460) 19 0 R (ShowCompProps_48989343DC86444D8053EE89F3C46D70) 20 0 R (ShowCompProps_69BB8B317C994ADF9822A91B6BBC443D) 21 0 R (ShowCompProps_5BADE2CB7A7F4AA49516C76D76918736) 22 0 R (ShowCompProps_4AFB9BBA27194F53B224F0A41D112E89) 23 0 R (ShowCompProps_3EE8A1D378FE4007A01DF52772B774B4) 24 0 R (ShowCompProps_A37BEE715E8F4BBD804C82F7CEE374F4) 25 0 R (ShowCompProps_036200A9A371453FB821E197E7B05B39) 26 0 R (ShowCompProps_A3E91BEB369A4137BE94AA46B549F3A1) 27 0 R (ShowCompProps_31E5DC1209E44AEFB042F1302A64BBA4) 28 0 R (ShowCompProps_9F195DAA5CEF4A938B5AB6A3190D2791) 29 0 R (ShowCompProps_D6FEBE380C174F519AB2752037C04A76) 30 0 R (ShowCompProps_5473FE6104054B3E84FB6E039804A6CF) 31 0 R (ShowCompProps_B5E74C7E0C7D4E24A2284F6978DBFFEB) 32 0 R (ShowCompProps_68E52EB412C2415C8167A1F457D089FE) 33 0 R (ShowCompProps_12DCB2CC3D974545818E4486308091A1) 34 0 R (ShowCompProps_384C384CFF154C01945E6F028F5E874F) 35 0 R (ShowCompProps_481CF4F241A648C992306BA861AD5D6C) 36 0 R (ShowCompProps_3E49217DEC1F4ACEB07C9DC9E5C9150C) 37 0 R (ShowCompProps_CDDA801DA58E4275B234E02B497CBA4E) 38 0 R (ShowCompProps_E0E09A31C46B4C808023F138E93BB924) 39 0 R ] >>
+endobj
+7 0 obj
+<< /A 40 0 R /Count -1 /First 41 0 R /Last 41 0 R /Next 8 0 R /Parent 4 0 R /Title <feff0053006300680065006d00610074006900630020005000720069006e007400730020006f006600200052006f006f006d00200043006f006e00740072006f006c002e0053006300680044006f00630028002200530065006c0065006300740065006400200044006f00630075006d0065006e007400220029> >>
+endobj
+8 0 obj
+<< /A 42 0 R /Parent 4 0 R /Prev 7 0 R /Title <feff00420069006c006c0020006f00660020004d006100740065007200690061006c0073> >>
+endobj
+9 0 obj
+<< /Annots [ 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R ] /Contents [ 71 0 R ] /Group << /CS /DeviceRGB /S /Transparency >> /MediaBox [ 0 0 842 595 ] /Parent 5 0 R /Resources 72 0 R /Type /Page >>
+endobj
+10 0 obj
+<< /JS (function _FindWord\(pageIndex, wordToFind\){this.selectPageNthWord\(pageIndex, 0, bScroll=false\);\r\nvar numWords = this.getPageNumWords\(pageIndex\);\r\nfor \(var nWord = 0; nWord < numWords; nWord++\)\r\n{\r\n    var matchWord = this.getPageNthWord\(pageIndex, nWord, true\);\r\n    if \( matchWord == wordToFind\)\r\n    {\r\n        this.selectPageNthWord\(pageIndex, nWord, bScroll=false\);\r\n        break;\r\n    }\r\n}}) /S /JavaScript >>
+endobj
+11 0 obj
+<< /JS (function _HighlightRect\(pageIndex, left, top, right, bottom\){this.selectPageNthWord\(pageIndex, 0, bScroll=false\);                                                 \r\nvar lastDist = -1.0;                                                                                 \r\nvar lastIndex = -1;                                                                                  \r\nvar matInv = \(new Matrix2D\).fromRotated\(this, pageIndex\).invert\(\);                                   \r\nfor \(var i = 0; i < this.getPageNumWords\(pageIndex\); i++\) {                                          \r\n    var quads = matInv.transform\(this.getPageNthWordQuads\(pageIndex, i\)\).toString\(\).split\(","\);      \r\n    var qLeft = Math.min\(Math.min\(quads[0], quads[2]\), Math.min\(quads[4], quads[6]\)\);                \r\n    var qRight = Math.max\(Math.max\(quads[0], quads[2]\), Math.max\(quads[4], quads[6]\)\);               \r\n    var qTop = Math.min\(Math.min\(quads[1], quads[3]\), Math.min\(quads[5], quads[7]\)\);                 \r\n    var qBottom = Math.max\(Math.max\(quads[1], quads[3]\), Math.max\(quads[5], quads[7]\)\);              \r\n    if \(\(left >= qRight\) || \(right <= qLeft\) || \(top >= qBottom\) || \(bottom <= qTop\)\) continue;      \r\n    var dist =   Math.abs\(left - qLeft\) + Math.abs\(right - qRight\)                                   \r\n               + Math.abs\(top - qTop\) + Math.abs\(bottom - qBottom\);                                  \r\n    if \(\(lastDist >= 0\) && \(lastDist <= dist\)\) continue;                                             \r\n    lastDist = dist;                                                                                 \r\n    lastIndex = i;                                                                                   \r\n}                                                                                                    \r\nif \(lastIndex >= 0\) this.selectPageNthWord\(pageIndex, lastIndex, bScroll=false\);                     }) /S /JavaScript >>
+endobj
+12 0 obj
+<< /JS (function ShowCompProps_9146B2ADD2E541C7A8055E1ABC7FBE93\(\){var sChoice = app.popUpMenu\("Capacitor Type: ","Case/Package: ","Comment: 0.1uF 1206","Component Kind: Standard","Description: 1206 0.1uF Capacitor","Footprint: 0.1uF 1206-Footprint-1","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-001-00083-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Ripple Current: ","Ripple Current \(AC\): ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+13 0 obj
+<< /JS (function ShowCompProps_7331DD48A12D4A9A81C3DE46F987CE1E\(\){var sChoice = app.popUpMenu\("Capacitor Type: ","Case/Package: ","Comment: 0.1uF 1206","Component Kind: Standard","Description: 1206 0.1uF Capacitor","Footprint: 0.1uF 1206-Footprint-1","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-001-00083-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Ripple Current: ","Ripple Current \(AC\): ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+14 0 obj
+<< /JS (function ShowCompProps_7B0392CE4EFB4EEBAE22173632413609\(\){var sChoice = app.popUpMenu\("Capacitor Type: ","Case/Package: ","Comment: 0.1uF 1206","Component Kind: Standard","Description: 1206 0.1uF Capacitor","Footprint: 0.1uF 1206-Footprint-1","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-001-00083-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Ripple Current: ","Ripple Current \(AC\): ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+15 0 obj
+<< /JS (function ShowCompProps_97DE36E0B4C64D0E9361F7A394D78669\(\){var sChoice = app.popUpMenu\("Capacitor Type: ","Case/Package: ","Comment: 0.1uF 1206","Component Kind: Standard","Description: 1206 0.1uF Capacitor","Footprint: 0.1uF 1206-Footprint-1","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-001-00083-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Ripple Current: ","Ripple Current \(AC\): ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+16 0 obj
+<< /JS (function ShowCompProps_F5FA0FC4E50C4D09891489D981F2BDA6\(\){var sChoice = app.popUpMenu\("Capacitor Type: ","Case/Package: ","Comment: 0.1uF 1206","Component Kind: Standard","Description: 1206 0.1uF Capacitor","Footprint: 0.1uF 1206-Footprint-1","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-001-00083-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Ripple Current: ","Ripple Current \(AC\): ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+17 0 obj
+<< /JS (function ShowCompProps_523AD3B763134E8EB185FE94C8DE564E\(\){var sChoice = app.popUpMenu\("Capacitor Type: ","Case/Package: ","Comment: 0.1uF 1206","Component Kind: Standard","Description: 1206 0.1uF Capacitor","Footprint: 0.1uF 1206-Footprint-1","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-001-00083-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Ripple Current: ","Ripple Current \(AC\): ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+18 0 obj
+<< /JS (function ShowCompProps_0328508FFB97402EA1F52E7548414349\(\){var sChoice = app.popUpMenu\("Capacitor Type: ","Case/Package: ","Comment: 0.1uF 1206","Component Kind: Standard","Description: 1206 0.1uF Capacitor","Footprint: 0.1uF 1206-Footprint-1","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-001-00083-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Ripple Current: ","Ripple Current \(AC\): ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+19 0 obj
+<< /JS (function ShowCompProps_0D3010F9B9AF4F92A81C700F99A5B460\(\){var sChoice = app.popUpMenu\("Capacitor Type: ","Case/Package: ","Comment: 100uF Capacitor","Component Kind: Standard","Description: 100uF Capacitor Electrolytic","Footprint: 100uF Capacitor","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-001-00084-1","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Ripple Current: ","Ripple Current \(AC\): ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+20 0 obj
+<< /JS (function ShowCompProps_48989343DC86444D8053EE89F3C46D70\(\){var sChoice = app.popUpMenu\("Case/Package: None","Check_prices: https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda","Comment: LHN974_RED_LED_1206","Component Kind: Standard","Component Type: Standard","Description: 2.6 V Red LED SMD","Design Item ID: LHN974_RED_LED_1206","Footprint: LEDC3216X120N","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-004-00031-1","MF: Osram","MP: LHN974 RED LED 1206","PCB3D: ","Pin Info: ","Pins: 2","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap","Source: LHN974_RED_LED_1206.SchLib","Value: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+21 0 obj
+<< /JS (function ShowCompProps_69BB8B317C994ADF9822A91B6BBC443D\(\){var sChoice = app.popUpMenu\("Case/Package: ","Colour: ","Comment: LHN974_GREEN_LED_1206","Component Kind: Standard","Description: 2.6 V Green LED SMD","Footprint: LHN974_GREEN_LED_1206-Footprint-1","Forward Current: ","Forward Voltage: ","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-007-00037-1","Max Operating Temperature: ","Max Power Dissipation: ","Min Operating Temperature: ","Mounting Technology: ","Nominal Vf: ","PCB3D: ","Pin Info: ","Pins: ","RoHS Compliant: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+22 0 obj
+<< /JS (function ShowCompProps_5BADE2CB7A7F4AA49516C76D76918736\(\){var sChoice = app.popUpMenu\("Case/Package: ","Colour: ","Comment: LHN974_GREEN_LED_1206","Component Kind: Standard","Description: 2.6 V Green LED SMD","Footprint: LHN974_GREEN_LED_1206-Footprint-1","Forward Current: ","Forward Voltage: ","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-007-00037-1","Max Operating Temperature: ","Max Power Dissipation: ","Min Operating Temperature: ","Mounting Technology: ","Nominal Vf: ","PCB3D: ","Pin Info: ","Pins: ","RoHS Compliant: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+23 0 obj
+<< /JS (function ShowCompProps_4AFB9BBA27194F53B224F0A41D112E89\(\){var sChoice = app.popUpMenu\("Case/Package: None","Check_prices: https://www.snapeda.com/parts/HDSP-511Y/Broadcom/view-part/?ref=eda","Comment: 7 Segment","Component Kind: Standard","Component Type: Standard","Description: Display Modules - LED Character and Numeric Yellow 7-Segment 1 Character Common Anode 2.15V 20mA 0.673 H x 0.488 W x 0.315 D \(17.10mm x 12.40mm x 8.00mm\) 10-DIP \(0.600, 15.24mm\)","Design Item ID: HDSP-511Y","Footprint: LED_HDSP-511Y","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-007-00036-4","MF: Broadcom Limited","MP: HDSP-511Y","PCB3D: ","Pin Info: ","Pins: 10","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/HDSP-511Y/Broadcom/view-part/?ref=snap","Source: HDSP-511Y.SchLib","Value: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+24 0 obj
+<< /JS (function ShowCompProps_3EE8A1D378FE4007A01DF52772B774B4\(\){var sChoice = app.popUpMenu\("Case/Package: None","Centerline_Pitch: 2.54 mm[.1 in]","Comment: 87220-3","Component Kind: Standard","Component Type: Standard","Connector Type: ","Description: Header; Standard; PC Board; Single; 3; 0.025 in.; 0.125 in.; Square; 0.1 in.","Design Item ID: 87220-3","Digi-Key_Part_Number: A26544-ND","Digi-Key_Purchase_URL: https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/87220-3/A26544-ND/298245?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol","EU_RoHS_Compliance: Compliant","Footprint: TE_87220-3","Gender: ","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-002-00072-5","Max Current Rating: ","Max Operating Temperature: ","MF: TE Connectivity","Min Operating Temperature: ","Mounting Technology: ","MP: 87220-3","Number_of_Positions: 3","PCB3D: ","Pin Info: ","Pins: 3","Product_Type: Connector","RoHS Compliant: ","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/87220-3/TE%20Connectivity%20AMP%20Connectors/view-part/499136/?ref=snap","Source: SnapEDAsch.SchLib","TE_purchase_URL: https://www.te.com/usa-en/product-87220-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+25 0 obj
+<< /JS (function ShowCompProps_A37BEE715E8F4BBD804C82F7CEE374F4\(\){var sChoice = app.popUpMenu\("Case/Package: None","Check_prices: https://www.snapeda.com/parts/DCJ200-10-A-K1-K/Global+Connector+Technology/view-part/?ref=eda","Comment: DCJ200-10-A-XX-K_REVA","Component Kind: Standard","Component Type: Standard","Description: Power Barrel Connector Jack 2.05mm ID \(0.081\), 5.50mm OD \(0.217\) Through Hole, Right Angle","Design Item ID: DCJ200-10-A-XX-K_REVA","Footprint: GCT_DCJ200-10-A-XX-K_REVA","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-002-00071-1","MF: Global Connector Technology","MP: DCJ200-10-A-K1-K","PCB3D: ","Pin Info: ","Pins: 3","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/DCJ200-10-A-K1-K/Global+Connector+Technology/view-part/?ref=snap","Source: DCJ200-10-A-XX-K_REVA.SchLib","Value: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+26 0 obj
+<< /JS (function ShowCompProps_036200A9A371453FB821E197E7B05B39\(\){var sChoice = app.popUpMenu\("Case/Package: None","Centerline_Pitch: 2.54 mm[.1 in]","Comment: 87220-3","Component Kind: Standard","Component Type: Standard","Connector Type: ","Description: Header; Standard; PC Board; Single; 3; 0.025 in.; 0.125 in.; Square; 0.1 in.","Design Item ID: 87220-3","Digi-Key_Part_Number: A26544-ND","Digi-Key_Purchase_URL: https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/87220-3/A26544-ND/298245?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol","EU_RoHS_Compliance: Compliant","Footprint: TE_87220-3","Gender: ","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-002-00072-5","Max Current Rating: ","Max Operating Temperature: ","MF: TE Connectivity","Min Operating Temperature: ","Mounting Technology: ","MP: 87220-3","Number_of_Positions: 3","PCB3D: ","Pin Info: ","Pins: 3","Product_Type: Connector","RoHS Compliant: ","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/87220-3/TE%20Connectivity%20AMP%20Connectors/view-part/499136/?ref=snap","Source: SnapEDAsch.SchLib","TE_purchase_URL: https://www.te.com/usa-en/product-87220-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+27 0 obj
+<< /JS (function ShowCompProps_A3E91BEB369A4137BE94AA46B549F3A1\(\){var sChoice = app.popUpMenu\("Case/Package: 1206","Comment: 1206 1k SMD Resistor","Component Kind: Standard","Description: Chip Resistor, 1k Ohm, +/- 1%, 0.25 W, -55 to 155 degC, 1206 \(3216 Metric\)","Footprint: RESC3116X70X50ML13T20","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-009-00011-8","Max Operating Temperature: 155\\u00B0C","Min Operating Temperature: -55\\u00B0C","Mounting Technology: SM","PCB3D: ","Pin Info: ","Pins: 2","Power: 250mW","RoHS Compliant: True","Signal Integrity: ","Simulation: ","Tolerance: 1%","Value: 1k","Voltage Rating: 200V"\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+28 0 obj
+<< /JS (function ShowCompProps_31E5DC1209E44AEFB042F1302A64BBA4\(\){var sChoice = app.popUpMenu\("Case/Package: 1206","Comment: 1206 470R Resistor","Component Kind: Standard","Description: 1206 470R Resistor","Footprint: RES 1206","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-009-00177-6","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: SMD","PCB3D: ","Pin Info: ","Pins: ","Power: ","Purchase Link: https://uge-one.com/product/smd-chip-resistor-size-1206-470r-ohm/","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: 470","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+29 0 obj
+<< /JS (function ShowCompProps_9F195DAA5CEF4A938B5AB6A3190D2791\(\){var sChoice = app.popUpMenu\("Case/Package: 1206","Comment: 1206 470R Resistor","Component Kind: Standard","Description: 1206 470R Resistor","Footprint: RES 1206","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-009-00177-6","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: SMD","PCB3D: ","Pin Info: ","Pins: ","Power: ","Purchase Link: https://uge-one.com/product/smd-chip-resistor-size-1206-470r-ohm/","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: 470","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+30 0 obj
+<< /JS (function ShowCompProps_D6FEBE380C174F519AB2752037C04A76\(\){var sChoice = app.popUpMenu\("Case/Package: 1206","Comment: 1206 470R Resistor","Component Kind: Standard","Description: 1206 470R Resistor","Footprint: RES 1206","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-009-00177-6","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: SMD","PCB3D: ","Pin Info: ","Pins: ","Power: ","Purchase Link: https://uge-one.com/product/smd-chip-resistor-size-1206-470r-ohm/","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: 470","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+31 0 obj
+<< /JS (function ShowCompProps_5473FE6104054B3E84FB6E039804A6CF\(\){var sChoice = app.popUpMenu\("Case/Package: 1206","Comment: 1206 270R Resistor","Component Kind: Standard","Description: ","Footprint: 1206 RES","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-009-00180-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Power: ","Purchase Link: https://uge-one.com/product/smd-chip-resistor-size-1206-270r-ohm/?srsltid=AfmBOoo9PGpnQm30a52vsICWE9RUbA7zrrGcbssDIAPgOPSTj79WYhPm","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: 270","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+32 0 obj
+<< /JS (function ShowCompProps_B5E74C7E0C7D4E24A2284F6978DBFFEB\(\){var sChoice = app.popUpMenu\("Case/Package: 1206","Comment: 1206 270R Resistor","Component Kind: Standard","Description: ","Footprint: 1206 RES","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-009-00180-2","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","Power: ","Purchase Link: https://uge-one.com/product/smd-chip-resistor-size-1206-270r-ohm/?srsltid=AfmBOoo9PGpnQm30a52vsICWE9RUbA7zrrGcbssDIAPgOPSTj79WYhPm","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Tolerance: ","Value: 270","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+33 0 obj
+<< /JS (function ShowCompProps_68E52EB412C2415C8167A1F457D089FE\(\){var sChoice = app.popUpMenu\("Case/Package: None","Centerline_Pitch: 2.54 mm[.1 in]","Comment: 87220-3","Component Kind: Standard","Component Type: Standard","Connector Type: ","Description: Header; Standard; PC Board; Single; 3; 0.025 in.; 0.125 in.; Square; 0.1 in.","Design Item ID: 87220-3","Digi-Key_Part_Number: A26544-ND","Digi-Key_Purchase_URL: https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/87220-3/A26544-ND/298245?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol","EU_RoHS_Compliance: Compliant","Footprint: TE_87220-3","Gender: ","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-002-00072-5","Max Current Rating: ","Max Operating Temperature: ","MF: TE Connectivity","Min Operating Temperature: ","Mounting Technology: ","MP: 87220-3","Number_of_Positions: 3","PCB3D: ","Pin Info: ","Pins: 3","Product_Type: Connector","RoHS Compliant: ","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/87220-3/TE%20Connectivity%20AMP%20Connectors/view-part/499136/?ref=snap","Source: SnapEDAsch.SchLib","TE_purchase_URL: https://www.te.com/usa-en/product-87220-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+34 0 obj
+<< /JS (function ShowCompProps_12DCB2CC3D974545818E4486308091A1\(\){var sChoice = app.popUpMenu\("Case/Package: None","Centerline_Pitch: 2.54 mm[.1 in]","Comment: 87220-3","Component Kind: Standard","Component Type: Standard","Connector Type: ","Description: Header; Standard; PC Board; Single; 3; 0.025 in.; 0.125 in.; Square; 0.1 in.","Design Item ID: 87220-3","Digi-Key_Part_Number: A26544-ND","Digi-Key_Purchase_URL: https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/87220-3/A26544-ND/298245?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol","EU_RoHS_Compliance: Compliant","Footprint: TE_87220-3","Gender: ","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-002-00072-5","Max Current Rating: ","Max Operating Temperature: ","MF: TE Connectivity","Min Operating Temperature: ","Mounting Technology: ","MP: 87220-3","Number_of_Positions: 3","PCB3D: ","Pin Info: ","Pins: 3","Product_Type: Connector","RoHS Compliant: ","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/87220-3/TE%20Connectivity%20AMP%20Connectors/view-part/499136/?ref=snap","Source: SnapEDAsch.SchLib","TE_purchase_URL: https://www.te.com/usa-en/product-87220-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+35 0 obj
+<< /JS (function ShowCompProps_384C384CFF154C01945E6F028F5E874F\(\){var sChoice = app.popUpMenu\("Case/Package: None","Check_prices: https://www.snapeda.com/parts/1825910-6/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda","Comment: 1825910-6","Component Kind: Standard","Component Type: Standard","Current Rating: ","Description: Switch Push Button OFF \(ON\) SPST Round Button 0.05A 24VDC Momentary Contact PC Pins Thru-Hole","Design Item ID: 1825910-6","Digi-Key_Part_Number: 450-1650-ND","Footprint: SW_1825910-6-4","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-011-00013-2","Max Current Rating: ","Max Operating Temperature: ","MF: TE Connectivity","Min Operating Temperature: ","Mounting Technology: ","MP: 1825910-6","PCB3D: ","Pin Info: ","Pins: 4","Purchase-URL: https://pricing.snapeda.com/search/part/1825910-6/?ref=eda","RoHS Compliant: ","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/1825910-6/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap","Source: 1825910-6.SchLib","Throw Configuration: ","Value: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+36 0 obj
+<< /JS (function ShowCompProps_481CF4F241A648C992306BA861AD5D6C\(\){var sChoice = app.popUpMenu\("Case/Package: ","Comment: Block Rocker Switch","Component Kind: Standard","Current Rating: ","Description: 6A Switch","Footprint: Block Rocker Switch","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-011-00014-4","Max Current Rating: ","Max Operating Temperature: ","Min Operating Temperature: ","Mounting Technology: ","PCB3D: ","Pin Info: ","Pins: ","RoHS Compliant: ","Signal Integrity: ","Simulation: ","Throw Configuration: ","Voltage Rating: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+37 0 obj
+<< /JS (function ShowCompProps_3E49217DEC1F4ACEB07C9DC9E5C9150C\(\){var sChoice = app.popUpMenu\("Case/Package: None","Check_prices: https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=eda","Comment: ESP32-DEVKITC-32D","Component Kind: Standard","Component Type: Standard","Description: WiFi Development Tools \(802.11\) ESP32 General Development Kit, ESP32-WROOM-32D on the board","Design Item ID: ESP32-DEVKITC-32D","Footprint: MODULE_ESP32-DEVKITC-32D","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-020-00023-1","MF: Espressif Systems","MP: ESP32-DEVKITC-32D","PCB3D: ","Pin Info: ","Pins: 38","Signal Integrity: ","Simulation: ","SnapEDA_Link: https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=snap","Source: ESP32-DEVKITC-32D.SchLib","Value: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+38 0 obj
+<< /JS (function ShowCompProps_CDDA801DA58E4275B234E02B497CBA4E\(\){var sChoice = app.popUpMenu\("Case/Package: TO-220","Comment: L7805CV","Component Kind: Standard","Datasheet URL: https://datasheet.ciiva.com/15111/getdatasheetpartid-44136-15111027.pdf","Datasheet Version: Rev 30, 09/2012","Description: Positive Voltage Regulator IC, 1.5 A, 5 V, 0 to 125 degC, 3-Pin TO-220, RoHS, Tube","Dropout Voltage: 2V","Footprint: TO220","Frequency: ","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-019-00018-4","Manufacturer: STMicroelectronics","Manufacturer URL: http://www.st.com/","Max Input Voltage: 35V","Max Operating Temperature: 125\\u00B0C","Max Ouput Current: 1.5A","Max Power Dissipation: ","Max Supply Voltage: 20V","Min Input Voltage: 7V","Min Operating Temperature: 0\\u00B0C","Min Supply Voltage: 8V","Mounting Technology: TH","Nominal Output Voltage: 5V","Nominal Supply Current: ","Output Current: 1.5A","Output Voltage: 5V","Outputs: 1","Package Quantity: 50","Packaging: Rail/Tube","PCB3D: ","Pin Info: ","Pins: 3","Purchase Link: https://uge-one.com/product/voltage-regulator-7805-to220-5v/?srsltid=AfmBOoqzZjit_tKWjTza219n5rxXiqk2hNcXyVwtC6MCfA-nw04P7VhG","RoHS Compliant: True","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+39 0 obj
+<< /JS (function ShowCompProps_E0E09A31C46B4C808023F138E93BB924\(\){var sChoice = app.popUpMenu\("Case/Package: TO-220","Comment: L7805CV","Component Kind: Standard","Datasheet URL: https://datasheet.ciiva.com/15111/getdatasheetpartid-44136-15111027.pdf","Datasheet Version: Rev 30, 09/2012","Description: Positive Voltage Regulator IC, 1.5 A, 5 V, 0 to 125 degC, 3-Pin TO-220, RoHS, Tube","Dropout Voltage: 2V","Footprint: TO220","Frequency: ","Ibis Model: ","Library Name: American University in Cairo","Library Reference: CMP-019-00018-4","Manufacturer: STMicroelectronics","Manufacturer URL: http://www.st.com/","Max Input Voltage: 35V","Max Operating Temperature: 125\\u00B0C","Max Ouput Current: 1.5A","Max Power Dissipation: ","Max Supply Voltage: 20V","Min Input Voltage: 7V","Min Operating Temperature: 0\\u00B0C","Min Supply Voltage: 8V","Mounting Technology: TH","Nominal Output Voltage: 5V","Nominal Supply Current: ","Output Current: 1.5A","Output Voltage: 5V","Outputs: 1","Package Quantity: 50","Packaging: Rail/Tube","PCB3D: ","Pin Info: ","Pins: 3","Purchase Link: https://uge-one.com/product/voltage-regulator-7805-to220-5v/?srsltid=AfmBOoqzZjit_tKWjTza219n5rxXiqk2hNcXyVwtC6MCfA-nw04P7VhG","RoHS Compliant: True","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};}) /S /JavaScript >>
+endobj
+40 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+41 0 obj
+<< /A 73 0 R /Count -2 /First 74 0 R /Last 75 0 R /Parent 7 0 R /Title <feff0052006f006f006d00200043006f006e00740072006f006c002e0053006300680044006f0063> >>
+endobj
+42 0 obj
+<< /D [ 76 0 R /FitR 0 612 792 0 ] /S /GoTo >>
+endobj
+43 0 obj
+<< /A 77 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 170 229 189 239 ] /Subtype /Link /Type /Annot >>
+endobj
+44 0 obj
+<< /A 78 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 165 163 184 173 ] /Subtype /Link /Type /Annot >>
+endobj
+45 0 obj
+<< /A 79 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 65 346 84 355 ] /Subtype /Link /Type /Annot >>
+endobj
+46 0 obj
+<< /A 80 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 288 449 298 468 ] /Subtype /Link /Type /Annot >>
+endobj
+47 0 obj
+<< /A 81 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 387 449 398 468 ] /Subtype /Link /Type /Annot >>
+endobj
+48 0 obj
+<< /A 82 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 349 449 359 468 ] /Subtype /Link /Type /Annot >>
+endobj
+49 0 obj
+<< /A 83 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 443 449 453 468 ] /Subtype /Link /Type /Annot >>
+endobj
+50 0 obj
+<< /A 84 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 360 382 370 401 ] /Subtype /Link /Type /Annot >>
+endobj
+51 0 obj
+<< /A 85 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 143 137 172 150 ] /Subtype /Link /Type /Annot >>
+endobj
+52 0 obj
+<< /A 86 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 143 103 172 117 ] /Subtype /Link /Type /Annot >>
+endobj
+53 0 obj
+<< /A 87 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 143 76 172 89 ] /Subtype /Link /Type /Annot >>
+endobj
+54 0 obj
+<< /A 88 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 60 173 117 279 ] /Subtype /Link /Type /Annot >>
+endobj
+55 0 obj
+<< /A 89 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 425 256 459 279 ] /Subtype /Link /Type /Annot >>
+endobj
+56 0 obj
+<< /A 90 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 289 393 316 410 ] /Subtype /Link /Type /Annot >>
+endobj
+57 0 obj
+<< /A 91 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 325 256 359 279 ] /Subtype /Link /Type /Annot >>
+endobj
+58 0 obj
+<< /A 92 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 342 205 366 208 ] /Subtype /Link /Type /Annot >>
+endobj
+59 0 obj
+<< /A 93 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 110 78 134 81 ] /Subtype /Link /Type /Annot >>
+endobj
+60 0 obj
+<< /A 94 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 48 156 52 180 ] /Subtype /Link /Type /Annot >>
+endobj
+61 0 obj
+<< /A 95 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 59 156 63 180 ] /Subtype /Link /Type /Annot >>
+endobj
+62 0 obj
+<< /A 96 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 110 139 134 142 ] /Subtype /Link /Type /Annot >>
+endobj
+63 0 obj
+<< /A 97 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 110 106 134 109 ] /Subtype /Link /Type /Annot >>
+endobj
+64 0 obj
+<< /A 98 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 192 251 227 273 ] /Subtype /Link /Type /Annot >>
+endobj
+65 0 obj
+<< /A 99 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 192 185 227 207 ] /Subtype /Link /Type /Annot >>
+endobj
+66 0 obj
+<< /A 100 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 292 190 338 212 ] /Subtype /Link /Type /Annot >>
+endobj
+67 0 obj
+<< /A 101 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 325 404 360 413 ] /Subtype /Link /Type /Annot >>
+endobj
+68 0 obj
+<< /A 102 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 93 367 184 477 ] /Subtype /Link /Type /Annot >>
+endobj
+69 0 obj
+<< /A 103 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 297 460 355 488 ] /Subtype /Link /Type /Annot >>
+endobj
+70 0 obj
+<< /A 104 0 R /Border [ ] /C [ 1 1 0 ] /F 0 /Rect [ 397 460 454 488 ] /Subtype /Link /Type /Annot >>
+endobj
+71 0 obj
+<< /Filter /FlateDecode /Length 2398 >>
+stream
+xúÌ\Mo€FΩ–‡1=îŸÔèc;Å[vd9˛E{(PÈ°á˛˙Æ¥§%ëÛñÎ°Y_l ∞!ÿ/≥è≥˚ffg¯cΩ˙—|º˙"öãøöoÎ’ß›z•õ›ﬂÎïî≤Mˇd≥˚wΩRçhÖ∫˘π˚ÆÈ?™Fi›:iö›üÎ’«/°IÒ˚zı·˛Í≥≤˘©Ÿ˝ë¿Ñ8‡TB9ÜŒÄä‘¶ıJ©√'ÓÄ'3úl\2‘Ì—|£åhÉQCC?ﬂ}¶ÕåæU=*e•≥ŸJÈ< @q	»&üCg@ö Â[Ô}@»LÄÙ@£¶_ﬁ»ÓìÉu∂≥“6∫…Î7ç6±çJÎ◊`˝¿yıÁ¿éÒ¯˚≈kÎ¿‚5	Í⁄hå9|2¶È@M’ﬂ8’Îàµ¥ˆ6jg¯å´:\’¯WÑ∆ÿ‰"&í¿4F∂Œ9¯ƒfRcGjllB˚]Bˆ≠’ñ ¬–Œ*Z#;\Ç	ÂÓÇ6
+∏HÖE°[ùæzö
+À	mıéÂ∑HÑca„éAÑ1~Çœ""„â<"L¶∏DÑÁxÑ3"t¥Äà à®ƒÊ7£Ò‹ Kπ;l9zıÅ>rBR'	œqŸ+Ñ‘@!.§ÿ\~ea=∆Œà˜wíCe§,\ ßUmÏ»bú '\(»¬vf·;#ŒfA¿êüJ_∏ÇûÌ
+'–qPó2æâ \º†iS‚dÑœJò.™U
+¯¡åò´±œ#Ê="˝∏¶]›Àtƒ Á.ﬂåA‡QãHÿHÎwΩç÷i!¨GtnàH+JıÉÒaH“ı&¶ÄlÄiDmè!aQà!¢Ùw≈‡5ÒÆQAÄCÈlé«a™Q›·¨<ÿîW€ø˚ı¥/´·œ
+∂f=®$@ÈÌôú@6⁄O0ú—iÉ˜c˜qm∞ùJaiíØ·¡ßDõ¬ÉŒ˛:ÂäQ”∫rO¿Z´uå–jöÏ¢æ®–ÈãI˚çòkPè≠ÍQ){']˘ˆnwu∑àÎj¸s_~F•iÆGï$*»Œf'=πáÊ}¥Q˝—Çπ-∑Í•mCg@F—GõêΩLâH{ŸñUõëRî„∏-*zÖì¿ìV„ 1√qJ^≤´˘OÉ∫Vzï1c∆t®kbs”îÈIyßâµ£RG%Æ◊œ∏çïŒY’ElÄ-™nîå<ƒ≈≈£ÍF%Ó`ÒÃíÜ”SãßπZ∑á©Ï’4j˝~ê»nQ)£ŒÒ˜IÌ˘ Ïú*IÀ>ÓÑ™e§BTE‰∆ãıÙªÂªÉπÙ„Ar˙ˇÖ0ê±?˜X˛√Âˆ˚‘÷‡ü…`èä"≈Z‘Û|¶G•µ5≈‚*:¢a;]Aó	¯LÉO2Çfx±Rã/#Aíöz‘)Të€c¯I’Î3—{∆A!¶Ég%}*N≈1O‹bÑB$?qã« Ò¸òÿ#Ú™œàÑçt5Bá6ÑA¥ïsÖ¥+$8v0»•E≠2ìÜ¬‹È·	ÓÜ)r=˝ªCEæröÆµ…>k§>˚<‡4œ#Lç}È%Õ¬£◊0ÚL)àq)pÏRH„,-Ì{¶·hxq-∏=+ÄeHPT´Ö4q	™j’êz	 jµê:å!AÄS©∆ê h®ÖT~	Jkµü#§CÇ⁄Z5¶t&Øuƒ&ØÓâ*“Ï†JÃ”œìﬁB^KÖ„V§:p∞ôj°xÇ,ß“Ùî6óL;¨÷t˙e:tz≥’öû¢d:ÿv*=˛Ù¬Øov*Íjw	Æ52òzQ!@®˘•ﬁÙíi®@µËc	“PÇj1«§°UcéDHC™≈´êÜ*Tç9í!e®s¨CÈê<âÙ ò#!“Pà™A«J§°’Éé§HC)™këÜZTJàëÜbtR*ù-E5“Pç™M.…ëÜrTk|Iè4‘£j„KÇ§° ’_R$ç©‹“⁄aåt∫˘6K4≠Èã»‘Ωœ∏CzDIñiï◊π–'3™CNﬂ”'9ëMé`\ÚƒHÒs¨©õ∫˛R¶d5„¶NÁög¢9Ä;îG¶¡”4£Xbäf3M3å$&¨6FN[M”\Ùf#‚Õº‡ûº}ß.˜g÷–ÍÎ\å*«Dmc¢"„∫z∏Òö*»lnÙwö€≈zøój]˙v|±{QFb3ôŒº—Nv›Âìˆdtscø3|Çﬂkœh]/5¨øºŸ∑‘‚À™Œé*ø‡†·Ë|I›YäV‘±âiﬂ\Å¨$on"ÌJˆoº˛%≈IÎæw9xpy∑wã¨¥∆“Ù”„nó¡´Õ˝„Óˇæ'^6ï9u∏1=/˚àÇ‰ÂÎÕÂèjñm8&áí–Wûcå]5 /5”ƒ*1mJ„5åqï“ê Àá>Ü√$ÛZÛ9cK?,8R¿Í-5ÎÛJ¯¨˛›a9öt‰åÍ^Ø‹¯¯6]zT\©Ìç’úC∂°ÏwâÆî%.ÃX∑+w*KÁ,a± 6≈bÕ¬ÉØﬂ&‡NN™kUt?=}∑πÈÏΩ∫ùyä!öËc_†À!-9*Zä2ÖPΩ≥Ò¡ôüä>öü{ÌñVŒî„0à@∂æf˜)cqêÃ•¥≤;û3ﬁ7
+o–ã^⁄À>Tﬂô&{p’ÑG‡^ﬁÅ>Ïlü9Bƒ|‚Ùñª9ÛN
+SN¨”Yù•/Ô⁄|o˝c@æ∑´ΩUª⁄{kŸ[¥ñΩ˜g-ﬁüıﬁÈ;=8ìg
+Ûf˜Ï‘’—9⁄ºπŸ¬::ÁE
+£o¶{º§ômø[ÖÉÈÏÛ$örëŒg.øﬁ^nv‚óô|†ÍQ·•KÙ·•|’
++iøxKT÷”é—≥Òi&¶êœÄ„nâ¬J6˘N∫#üg≤ÅÓú
+ÔÖY¢I±í*=sO∆{wñË≠dCëÛïG6.g≤!A5øﬁóç+…†«Íéd|I4„E5c◊ y ≠‹ïlÚ≠G6¿ù◊rotÂº*ıC·©KΩhë5ÜMﬁ…Ãù~—¸1ßˇµ‘ıjÀMÉ“v£«2íoC‹;⁄ﬁ^–Õµ¯ê˜Î∫˝ùC∞àêÁª	CæU†Á„˛ÈvæﬂÒ^/˙√çV∂*(p=_Nh(R=!Cóæ‹≠Wﬂ÷´ˇ v¿©endstream
+endobj
+72 0 obj
+<< /ExtGState << /GDIModeMask 105 0 R /GDIModeNormal 106 0 R /Transparent 107 0 R >> /Font << /F8 108 0 R >> /ProcSet [ /PDF /Text ] /XObject << /IF0 109 0 R >> >>
+endobj
+73 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+74 0 obj
+<< /A 110 0 R /Count -28 /First 111 0 R /Last 112 0 R /Next 75 0 R /Parent 41 0 R /Title <feff0043006f006d0070006f006e0065006e00740073> >>
+endobj
+75 0 obj
+<< /A 113 0 R /Count -47 /First 114 0 R /Last 115 0 R /Parent 41 0 R /Prev 74 0 R /Title <feff004e006500740073> >>
+endobj
+76 0 obj
+null
+endobj
+77 0 obj
+<< /JS (ShowCompProps_9146B2ADD2E541C7A8055E1ABC7FBE93\(\);) /S /JavaScript >>
+endobj
+78 0 obj
+<< /JS (ShowCompProps_7331DD48A12D4A9A81C3DE46F987CE1E\(\);) /S /JavaScript >>
+endobj
+79 0 obj
+<< /JS (ShowCompProps_7B0392CE4EFB4EEBAE22173632413609\(\);) /S /JavaScript >>
+endobj
+80 0 obj
+<< /JS (ShowCompProps_97DE36E0B4C64D0E9361F7A394D78669\(\);) /S /JavaScript >>
+endobj
+81 0 obj
+<< /JS (ShowCompProps_F5FA0FC4E50C4D09891489D981F2BDA6\(\);) /S /JavaScript >>
+endobj
+82 0 obj
+<< /JS (ShowCompProps_523AD3B763134E8EB185FE94C8DE564E\(\);) /S /JavaScript >>
+endobj
+83 0 obj
+<< /JS (ShowCompProps_0328508FFB97402EA1F52E7548414349\(\);) /S /JavaScript >>
+endobj
+84 0 obj
+<< /JS (ShowCompProps_0D3010F9B9AF4F92A81C700F99A5B460\(\);) /S /JavaScript >>
+endobj
+85 0 obj
+<< /JS (ShowCompProps_48989343DC86444D8053EE89F3C46D70\(\);) /S /JavaScript >>
+endobj
+86 0 obj
+<< /JS (ShowCompProps_69BB8B317C994ADF9822A91B6BBC443D\(\);) /S /JavaScript >>
+endobj
+87 0 obj
+<< /JS (ShowCompProps_5BADE2CB7A7F4AA49516C76D76918736\(\);) /S /JavaScript >>
+endobj
+88 0 obj
+<< /JS (ShowCompProps_4AFB9BBA27194F53B224F0A41D112E89\(\);) /S /JavaScript >>
+endobj
+89 0 obj
+<< /JS (ShowCompProps_3EE8A1D378FE4007A01DF52772B774B4\(\);) /S /JavaScript >>
+endobj
+90 0 obj
+<< /JS (ShowCompProps_A37BEE715E8F4BBD804C82F7CEE374F4\(\);) /S /JavaScript >>
+endobj
+91 0 obj
+<< /JS (ShowCompProps_036200A9A371453FB821E197E7B05B39\(\);) /S /JavaScript >>
+endobj
+92 0 obj
+<< /JS (ShowCompProps_A3E91BEB369A4137BE94AA46B549F3A1\(\);) /S /JavaScript >>
+endobj
+93 0 obj
+<< /JS (ShowCompProps_31E5DC1209E44AEFB042F1302A64BBA4\(\);) /S /JavaScript >>
+endobj
+94 0 obj
+<< /JS (ShowCompProps_9F195DAA5CEF4A938B5AB6A3190D2791\(\);) /S /JavaScript >>
+endobj
+95 0 obj
+<< /JS (ShowCompProps_D6FEBE380C174F519AB2752037C04A76\(\);) /S /JavaScript >>
+endobj
+96 0 obj
+<< /JS (ShowCompProps_5473FE6104054B3E84FB6E039804A6CF\(\);) /S /JavaScript >>
+endobj
+97 0 obj
+<< /JS (ShowCompProps_B5E74C7E0C7D4E24A2284F6978DBFFEB\(\);) /S /JavaScript >>
+endobj
+98 0 obj
+<< /JS (ShowCompProps_68E52EB412C2415C8167A1F457D089FE\(\);) /S /JavaScript >>
+endobj
+99 0 obj
+<< /JS (ShowCompProps_12DCB2CC3D974545818E4486308091A1\(\);) /S /JavaScript >>
+endobj
+100 0 obj
+<< /JS (ShowCompProps_384C384CFF154C01945E6F028F5E874F\(\);) /S /JavaScript >>
+endobj
+101 0 obj
+<< /JS (ShowCompProps_481CF4F241A648C992306BA861AD5D6C\(\);) /S /JavaScript >>
+endobj
+102 0 obj
+<< /JS (ShowCompProps_3E49217DEC1F4ACEB07C9DC9E5C9150C\(\);) /S /JavaScript >>
+endobj
+103 0 obj
+<< /JS (ShowCompProps_CDDA801DA58E4275B234E02B497CBA4E\(\);) /S /JavaScript >>
+endobj
+104 0 obj
+<< /JS (ShowCompProps_E0E09A31C46B4C808023F138E93BB924\(\);) /S /JavaScript >>
+endobj
+105 0 obj
+<< /BM /Darken /Type /ExtGState >>
+endobj
+106 0 obj
+<< /BM /Normal /Type /ExtGState /ca 1 >>
+endobj
+107 0 obj
+<< /Type /ExtGState /ca 0.322 >>
+endobj
+108 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /FirstChar 32 /LastChar 255 /Subtype /Type1 /Type /Font >>
+endobj
+109 0 obj
+<< /BBox [ 0 0 649 435 ] /Filter /FlateDecode /Matrix [ 1.2898 0 0 1.2896 0 34.0442 ] /Resources 116 0 R /Subtype /Form /Type /XObject /Length 18651 >>
+stream
+xúÌ}[ì,∑qÊ;#¯Êëﬁñpø<ä‰MõÌ—ê÷√1ñÂıˆåcµ^ÎÔo&
+óD∫ª ‘±•∂"LŒ«ÆÃDf"ë ¿ˇ˘Ù˛Ùü~¬ÛÙÁO?˘’◊_}Û›¸Àæˇè?Ω˛ÛÂÈèˇˇ3˛ÔOÑﬂ<·ˇﬁ}ÂgÅ
+w⁄_%ƒÔú¿X°…∑O?Qã∆=)fßúzÕ_§–ÊÈÚÈ'FŸE0°ZP˛≤ß–ø}˙…ø˛è,R†x•Qπ€5ô5Ñ⁄	‹◊`ﬁTóã≤˛IzøH∆Úçê_ú6în1öâî?ºÏimq´˘1ö,¢ÏƒΩ“¸KŒo@´QqØ*ƒˆîVáƒf|Ò¸È'rÒ "Îøi≥8œ¿êãN?=’_=?c√üˇı”O>„˜Ù¸ÔTÔûØ ¶≠\MoòŒ“!HB‰„‹t»«HzC	èä%∏6å™,C„*„F.ÜYMuˆôËîà**É3ä*RUö:(ófaZE%d\O¬≤≈9Ó+=…>y®ö6£•"S••ÉR))ŒUSÜ∆ı$≠]¨S¶“ìÍî®xESùRUö:(óVßaäh*C„öRN¡∑íWö“ùQMepFSE™JSÂ⁄êt ùÎû/÷j[i tJ‘‹g4U§™4uP.»∏Ü@ﬂzÕ˙34†â§Ÿb58BË´^”!È´, aj2äC(ÁvH®®%¡‘¢¡+âñ24Æ%†ºHgWÅæÏ‘R‡o£ã'5epFO#bE=If!V€•§.ACzÚ^È'°∂¡¨}—©®  ≤Œ*8£®!π¢¶™‘n’TÜ∆=JjΩ√‰*—Øg"T“ù~åhJqàPw‰¬¬l?IbÇ\^Á·cπêB±&¥[ò5zù»EZa⁄`˛˙“†∏ü¨EmìË¢cõp&-ÑÏ?_ï≤…º)f´=ÎÜmy—Æä a0Ò´OY) Z∞ßÇëÿâ¯cŒTŸËEHø}˛ J†1∆&0˝23)ˇ∂Û_9ê∏É¬ÿdE`r2’^Ä÷?àƒ¡3ïŸ~û@·tf{k:”‘ö^8f¬ï÷"÷÷⁄:áé3jû&”÷√«|%z≥‘_)¡Ú;H'¥5[/º5Sû‰1Ór±Rg´¿
+Vy˜}áâq˛ x}¬ƒ∑ÊaM√<Er[õ8bc&Ü!¿s^´øÃø	©1Ò61êQÜ«ÙËwπì[ÄV≠£≠¿ª¢·„/85÷Á»«ìﬁˇú~ñ„7#≈oª"á!7kg¬ãnÕS[^3f≠å©º(aC^$Ï¢òˆïÖ	¡Ú;=ÅƒêçÒ˜"àAŒ∫øàç#T∑z∆çnM‚õn≥5[7s"	∫ˇÎûEe_L≈‰ÿ`3ƒ‚xK§˘6+4≠>≤“÷·ñL±Ô–TÆ÷¨wıjµz◊7?§ÿSeQ™?bÉîöqﬂ[++-˜Â0+√N˝7aCÃL0¨®ºã,ø≥–T∂K⁄yè~&|
+Vhfˇ"ºª}xå«∞s≥òvb=Ö±IñMπÒ≠eØ¶CFÀï®›8bcnåK/“‘.Vñﬂ	…‘n£òÒp„¬ß`Öfq±¬ªﬂçáxåª1Ã0çÂá›Xå∏14…7„∆∂”çö‹Û ç6Ê∆(è´«zB0ˇéπE;ﬁ7
+œÒp„¬'cÑfv1¬ªﬂçáxª1êf>.9q„æ5òêR@ã ≠ê3^ÏzΩfZ◊W	Úbf‡ß ’Vñﬂ·ééÀ)∆xÙ{1·S∞B≥xX·›Ì≈c<∆ΩX.qço„√‚¨å§¸‘"ìÔubÜIL=±KÿòÛ≈
+_ØÒÇÂw∏/∆¶vc<ú∏)X°Y¨Ów‚!£N,º«UuÿçMá9è%,ÿ$k¶Vπxï5"Å¨œ∑!`fS-†flƒ∑¡Lã“¶ﬁ”!ÀÔÙb•Z@‰—Ì€îO¡
+Õ‰wîwØoÚ˜mΩËKá}€v˘∂∞∆á&i&¶ñﬁäog6‡qﬂÜôjßÚÌàç˘∂\∏eæˆªB∞¸é/ »°e›Aæ]¯¨–,~Wx˜˚ˆèqﬂÜ∆zﬂ\ï„-ﬂÓYïãqõ$b˜93lwÓ{¡ƒda≤Z™K–êc√∑@VVNWËïüY∞ß G∆XÙª5aS∞B3ª\a›Ì’C,Üù⁄»}tsïÆÈ‘=À)`É§Os∫WwÓ√	'´≈∆≠#6QÊ úÄ1VîyI(Ì¡~˝},–Ωµÿ6¶'0 3ıTÿπ%∞#Y_≠~fl,4 È™ïIJ0ˇ∫Ç·~hısê«@p(|2FhÊûKx˜Gá!√Æ§C‡9zñç≤kÉüä≥Ú9‚€ùT¬ÍÖ{≈kﬂéÿêo€P)Øjø+ÀÔ‘"!iÚÌ1˝æM¯¨–,~Wxw˚ˆèqﬂ∆øııäÉTÎ[ÙÄ´áÉ¿K!´Y∑Ó‹∞¬≥^‘≈}sk\[ÆvπB∞¸H>¥F:»c¿≠üÇö≈Â
+Ô~∑‚1Ï÷∆/Fﬁ™«j˚ıH‰Üñ´Â9~›πÉ%åÅv÷ÂóÚkc!≈™K#)¡Ú;ΩX7V~9»£ﬂØ	üÇöŸÁÔnø„1Ó◊zë⁄í•%\ﬁƒ<·ÀÔZô»W˛å-¬C5gg"ù€Z¬‡ûs]vö±ôâä·s§Æà…ÿ¿wø˛9ÕTËíònµÊßÕ ÖãS ≥kYÓµî¬zRÍŒË[=UÎŒEÿ«µu±˚ëY`G¿Âkiº∫QÊ.{ıÿ°≤RÁNT6PËŒ±Ç[1SU°Ô˘\™_ˆ◊∫œ≥Èhë™;V,T9∏áóÆ÷‹ÒÕ≤Èwk±X¶MU¡dA»´ØVˆ˜ÍÉ+úƒJi?ÒÍÅ⁄~‚D•~œßr∑ÅÚ˛y6#^MY%êP%ÓV¯xı õØ÷‹€˙–¬∑Óòı∑æv‘‡∏[\‚,~@Œ∑9l@ºàê,|‚ÒÄKˆü7òg32b+´L}Ê 8ÅãÁûüFÏd6bˇ´gé€ˇ‡˙,—M>$@ÃﬂJÄò•TæÔ∏‘¡¶ˇ†¿4óÒlm[b/xúMºˇ}…÷ ”úsÄ+Eˆ«Ìp≥ËåTŸ)≥/*'u„{>ïq*ÌÁŸk´™eº®∑üg32¨9œıÕö˚Ê∞÷±Uº˙j—˝q∑>∏ÜI¸†T›∑æYv7p&‹ææ˚ﬁ¥m(∏Z‡}\eó«ä HÖwQŸHâ7Èx•fyœßÍ¢UﬁÛlF"eï@Bµt—ÅZÔy6„	ÓçzÔÊ∆ùrÎkﬂ«›˙‡“ÒÉRÚM‹z†ÊõxQ)bﬁÛ©˝≠øÏ{ûÕÄ[W¨2X®Î/˛ûg3·÷◊
+¿õNÌFú˙j¯qßÓ^ï$%‡ƒ©j¿âï¢Ê=ü⁄€˙À¿ÁŸå85eï¡Bïx[1¯<õ~ßÜ§¿(∑/8g\›:9Rˇâ‚–◊j¡ª◊åáj¡À˝5§<{˘P5xv*ZﬁºÁs©~Ÿ_>œ¶ﬂÀkV,T≥˚çîÖœ≥›∑J√õ¡ª£4<˚˙ı⁄_ÔØ'ŒQä√âØTá◊*ÂŒ{>µˆàœ≥Òu *ÉÖ*q¬˛2Òy6æﬁY*ﬁqƒá¯˙ïZÒ…∞ﬁªìBä≈ãßTãø"–;.ïåOspÛäS’‚˝e„”\F“iùﬂóé_O[:NB˜æZ5>ÈﬂΩ[*¥lú8¯Õ∫ÒªÆ—b„{Ö$˘•¿"≈±Á0õß¨2X®Ô+¸ú|êÕÑóoã˚Øz˘»¡’∫˛I'Ô›7¢Ö˝≈…G*˚âOïRı=ü ˚ä˚ÁŸå89eï@Bµxﬂ@âˇ<õq'ﬂñ˘_wÚëÂÔÎ˛ì^ﬁª;FK¸âó‘¯ß*EÎ{>µ˚ıó˘œ≥ÚäUU‚~˝≈˛Ûl∆≥rR$)Yl©J˝œtıﬁ3ZˆO\}†ÓüxV)dﬂÛ©}∞øÙûÕà´SV,Tâˆ òg”ÔÍ∏<4GåÏoNL˙yÔ6'=P¸|‰@q+RÿæÁS9‡¿QÄy6~^± `°Zp‡@¿<õ?áœE}(†√œáRuz:`⁄œ{˜=Èô ‚Á7‹ıs\@⁄íRí‰óóUœGŸÙ{|Óﬂüsà∑é˘mÊaîœÌ?˘¬µÛìnqkÁ∞Rn÷#U.b-¸Fπ˘óEπW4^,∏¶›Ú^ÅÇt*uÉÔç"ôf˝◊5Í¯4ÜvyØäC#÷*˘¬gé)\dÙ€Váoæ3 `8ÉE9»‡ÛØﬁ˝Ùèﬂ<«gKT’û[ïπÕµ”‹=S?—Ó¯“„öµÆ¶, .VÜì´’åÖeRª p˚	
+r*cæñﬁ*æùí∞Yê˙¨ôçX‰¸Åàoå*ÿ,âß¡÷ìñ˙0tL¡Û∏÷¿"wÑ™q ¯êµõä±>SÉ®Jôz¶`M0ø¢Åï’LØ€‹ÆıB*|èApÜ√éX≈¡A|g¸æ	qHƒ^i√>á™≈Iqíñ±¿¡,{Œ·∞%Vq0)9©•-±⁄óŒ‡∞%væ∑¶6ê'$É4ïÔÆ3‰∞%º’/í0å”¸~‘ªŸ•7¥}…â<´Ÿì Ó«^qá8ƒºÛä⁄±* «†¢¸°w¶RT;Î∞ÚavCökáZìAùW‡¬+V_Á◊ïQÇ¨õs/¯]∆Ã‚¥ƒ_%J)FÌC‡KÔ+Pƒ‘y#W@íg√kq77roéóBÜ3Võ˚üéVR¥∞à5~më´ÏΩ›l{UÎˆÜ…Q±»jyµﬁ~0óFøò∫a9Ér:ÕXSn*·ˇ&Ru¡¶°n_l√„$Ë´/”±nQ•Ã¨ïô∑@‘ôàÁq>œÛ$˙éKÎ´5üèπÿÁø˛¸˜øˇ¸N˘<mÙ˚<iâ#ˆÆ5ï¯©%Ø3H∆˙Ø≠ †ﬂkº8Ns$ª˜VR\ñ~˜ıwYãeæVÆ%O·<ßyùo˛‹öÜÃ»ì	˘ƒ¨‹˘lEzˇãW˛Ò‹≤A≥-_L¥≈`jÀ!?Ü∂|9—mÄÈç’ØËN_MàY≠ÕGcÅwMÅ®Õÿº	NkÀof⁄¬p≤w˙z;˛Úú¡\y√]	H€ÑLiªéƒfQ<&H r}/CÂ€ˇ–Êâ’"€…≈úÊXo…Sû¿KÀ!FÈÍ}œ9.raŒ"AÏ÷caXxŒåãúÊ≠¡lTÎEsπX éŸkßπË≈‡a\,R¨ñ«2eÆeß|–2Œ„∫¥˛ÃÍ”V|PXÊ¥™VıxíÕπÖ\’sÚÜ.C“k1¯néNp±–9¬Å3Æc¡3dÁ Ñg"8Õf⁄ªp8«π<æo
+8Ào´–NØµPÄ9o	8ÌVh°¸Êí˛QWBï¡˜≤ÈŸ5ÚSùˇ+¬–˘ws»ó7gq®pe^=%2…À;MD¬àºTbG≤Ç^ÖGóÚ∑&º®˛B?#Qå@mAö^6`€à`Ò°)"Db£b€”œ®“VR;5æ¨´´5´•ç’"ç¡©iã∑˚6zÓ|√˝.vìÒaF gA2à·F∂◊Ooﬂº÷9ÿpèµNÿ&?gq±Rp\ä ‡Ï†n÷®'H]yZíƒ˘â.ÿ4R;úƒ˘≈a“ÚZÿ«À‡4±Æ5pÉ+™zÕbZ›l>Ω»v©f§£)EÚ"]¨U"…ºbΩ6æÔ´t!„ª∆û˜∫Á
+?<Û√˜1Ìó’¶Ï‡íñjÌ°◊?±¡,R€Ì∫K˜CÙù;∑"6V›Øh3‹ú◊›n!©Ñ´∫ﬁ’
+áœÍo∑Ø∫õî8ÔqÁu∑p—gÆÍnx—óµÏÃ˛Ï‚ΩÆ˚€È<
++Ò⁄⁄˘xVÔ#˛LÜäı"œX∆Õ˚?˝!Õπ-Yﬁ|…√	9‘¯_≠ésÏÓ¶Hg⁄+ ‚JòL∏8;ï&\öR∞K¡pﬁ∏ı>Å¸1Ôm‡ ï›‹ø4ìD&lÂôJ¢Ñue’hQh	öˇC¸WúzK°Iò≈¿=ÿÙWœœ®øÁç+*:Æ®¸ˆ?˛¸á?=•uãXïïô¯õÔ˛˘Ìüˇ¯á◊?º••oØEé∑ˇŸªÃÇ•´TbãwÎÀz·Ô∑âsA—–K°æí¢ƒ#ø3®CÑ·Bôä<tJÈ¸9¬GZÑ|‚xäÙÆºÆ»ªEò\ﬂ:I>“¢‰#«»„ûßaäJè´DL≤S§œ¥(˘»ÒÚh!êS”‚ñ≠=0 #iQÚë„‰!rZ+jÚ~iŒ—}¢E»'éßH/ÂL•{_=ø_#så|§E…GégêáÏHp©*Ú« ›éI_ È˘ƒÒÈaÿU¥êàI}ıï%˘MPÁx76ñ“Ä	#$§è·≤œ˘êI8îòI8ÃGM¬£˝Ü‰ÅÓ˛˙AëXÕ!≤=ÉÌô√ù†p Ω†p8°ê6îé@8Lw¬ ˜Bˇƒﬁ  Y5Zmu√¶qSÅ¥“Q VsàlGfá≠©.=8µn¬Âi@¬»‘¿ó’ÃÄ`ßM√ÎT%NÑŒòX–©¬¬0…•#GsÛ°≈Ô˚„ÛÔÜ∂¥{)¯ÑÖ‰iucAGÆ`≥õ)ßøBAò®®∏1d0π¡√(	úÊ¬#qÖÇq<¶πhh_Å¶y\ü¿ñ`˘ﬁö≠q#q}Bp~_Ã¬L_Ω¡kèEk"8ªRÅbKƒÜ∞√‚^@O≤}v0Õœ=&ˇä–iÓ•<Nõ}Ì^	<ÕΩîÉ)ﬁ|í{%Ë4˜RvÿÂ+˜J‡yÓÖ!Z‡d{j€1˚å÷X∆kGÍ5Úı#]ÒÆv‹e6:ﬁ†€¨M¡Ó°“2ÿª˜ç„BUm O?¸‹™Mπ˘‡M«“s\Œ‹ç“πèUª’@˜«à%‹^n≤ 5∞@Î@õµD|¶ŸwK4?⁄fÔ.Ó:≤Ù*a“‚ ¶RZ∆Úàﬂ¯ F/∏XæﬁX>Œ–µ¸J ï#˘U&Y“´¬˘º¸ ´5∞WÈ’v∞5Òî~|Ü\+m_Q„œø*ßã›πçtµª4ú¨lgù∏⁄ù%"ã›E¢Wªqﬂ"—≈Ó5´ç∫˛ÚáÔüﬂˇm>ÜIN{~õ˚πé˝]|ﬂ ∞éS	[ΩŸ∞ıáèmìe®}Ùˆ˛èwÁ6KK.ŒˇeE„ÅA®¥ö‹´˛ÀjµËo5◊@ÇYπXBƒÁxæ¯Ò˘9{°⁄ÍÅKëgƒ©ô‘QõG‘Sarˇ>√ìπÆ⁄™:Xxh7Ü8fÚë„)€%0	0≤⁄≈c8û≥I—Ωò»Ô§≠Á|µ‰Ìq+œŸH¥Íç™¿Ò.y`ÄCïHgÒ\n^‚ jÿZ”ù±4ıæî?õX˙ˆ“†w˝H‰ùÈfK≤«ñd≠åûîQå«£tX§CÆ7¡)3Ü/ Ú©cÔ[RØÂ1ULÚô≤Sßàw¥^-:Ö~—Œáñ?cÛ⁄O›
+≈7b›»¿BÉS,cÜú: m1…≤æ–z,>¢ùè˚ù„;8O∞™vM¯)ﬁz
+˝H´R˛¡z°#∆%5hª6ùBøËÁCÀ_∞y˝gÔ¥∏ñg9ıNº¡è´˚káGº3—¢ﬁôjƒŒpòF1<ŒNÕk¯z‹Ê˙ëUøÅ¥èãùaﬁDÎµ—¶SË˝|h˘6ØˇÏûO˜«d3∫ß±Î• g∏g¢E›”∏Ep}é˚hã7o÷Ê’XOØ¶Ãª£E’ü÷£œ0/Y€ﬁµÈ˙E?Z˛ÇÕÎ?ª'»ÔUÃ»£{jáßÁó‰ûâuOÌq‡˜QêÂ^Áù
+¥7R"øí¢ W°ÃÒú°7—zm¥Ë˙E;Z˛ÇMk?˚¶ÚãÙ¨ ;5√£<Á‰ùâVÂõ«vΩ˘Æâà⁄∏xı$Dß–O¥®Úe(j:'oK¥^m:≈yä~>¥¸õ◊ÒN|«\Tyß¬ktÁ‹'{g¢EΩSaïÚ‹≠P≈}¯‚î¨ÛN<Q¶›9âC¢E’èW^±˚≈ôáÃõhΩ6⁄tä˚˝|h˘6ØˇÏû2ºº]Âùo<ù\HÓôhQ˜î°Ò˜·ü_™›o-sK2;ZT˝nß∂§^-:Ö|—Œáïæ@Û∫œÆ…√âˆ 5◊G›œâúâuM¡»Ü¶\ø,±6V€NXÕÀÙõ&Û2ô~s∆;?£ŒÙõSñ˘)Q¶ﬂÃ:Á≥⁄Løô8Ã'&ô~3Úœè,eÂö¨f+‹ä:≈=À⁄#Yèå‰OŒ≤vD÷ì"˘ú≥Ã˝…z@$ÇoñôÃË"˘\≥$8$'è‰OÃí≥ëú*í?”1…†©œèY[ˇ ƒã‡yˇlûxé≠—∂Éz‹ØÑ>»Â∫3„ôîqpı^Ø;,L…`ƒ2bÂñÉ≥“◊^«[ä÷œm⁄Pœ{RëıÖHÉw%â—&M1Î∂í5ãTÒHe“ú’x’ß®4Gv∆Õ4∆¨ﬂN÷ÆG⁄©Ío¢:¨ñ≤ÁN‡ñùÜòu€…ÿ≈‚ı´Tu∆,^U©é,πè€iåYøù»%eõ"Ú&™É∏Õ‚=›vb÷m'çó0€Js⁄-“X[ié,=èõià◊Äï‡Œ®Jqë5’[477ûÈ:f§^˝6¬˙-Wè‰îGQ\^Éù∞—Ø~i|nŒ÷ÉEbMß±jœŒéLCÃ∫≠§‡üÃ◊ÉÖÇit|Ä£Ã∏ Z‰∏ô∆òı€	Ø5Æ,o¢:.¨òôÜòu€I EkVR,∆Ûz∞ ãr„vc÷o'©f÷z∞HºâÍd8¶=;21Î∂ì`‰¸µãsàDz= PV  
+’∏ù∆òı€	/q3qı4©.Ò&™ÉüÊÏ4ƒlhV÷u)#LŸoD2ˇ0∏h*L¯”bïY0	øTk(6Ö‡ÈD∆˘L„∂ï…d…üÅÛK¯¶∆Ó≠Ø.5&LP©8BJM[˛Æ[†KÄr„”gY9+·≠è]«xÕzª∆º÷ÿ™πçfõŸmc‘ù‘≠¶Ìø”ŸNØÕÔL6‰ÿ-_}ª„¬ıB\ƒ`rÔ∏(Õ3x5®UπyÈo‚	¢éù?KÃÑ3πS'Mÿ}†ı’•∆,VÅ‰bp˙Añ√ﬂ¥¢ÆM>ÀJ[	oµxíkS£4t∑—n”(;√ÌLªìº’ºùvz€È∂°˝ùŸÊ‹õ®ÁÌé+◊¡”¯lKn KD»Rq¯õ∏EÇ®{ÁœR3aÓ‘Qvh}u©1!Òçˇ•j˛Y∑ÇØÁi€„7Y9+—≠OrmjêÜﬁ6ömdg¥ùYwí∑ö∑mˇVg[≠6‘æ≥◊ú_›º›Ò·z"cﬁH2*)ª0Î}n\˙õxDÇ®_ÁœR3aÓ‘Cvh}u©1É5E È:Ãu…^K¯õ∂#B‘µ…gYA+·≠OÚmjîÜÓ6⁄meg∏ùiwí∑ö∑S¿No;›6¥ø3€ú{ıº›qÂz,cäë®k¨M![d·o‚	¢ﬁù?KÌKt…ﬂÅ7u”Ñ›Z_]jåÉ}ã?HWR«Ù7mFÑ®sìœ≤zV¬[û‰‹‘${’mt€4…Œl[ªÓ‰n5n◊¸ù÷vömË~g¥9◊& yª„∆ıÓk∆ú2dT¬õñç(π]˙õ8EÇ®oÁœR3aÓ‘Mvh}u©1≠5I∏P∏™BÑ◊ÌPq·Ö6?}ñ¥ﬁjÒ$Á¶FiËn£›¶QvÜ€ôv'y´y;ÏÙ∂”mC˚;≥Õπ7Qœ€WÆvˇ#d◊#‚πu pÓä"”ﬂƒ+DΩ;ñ⁄ó	g`eN›4B˜˛n|r©!ã/Y`îƒáÜ≤ºÒo⁄ÑQ«&üeu≠Ñ7˙;…Øâ5J€®µiçù≈v6› ›j€Æı;•Ì€P˝÷b∑èzo+1∂EØÂùˆ∫£°ÂÎ_iæpae–ﬁ§÷ÛFië(«WµHõíI‚Üe|†‘™U âœ·≥∂õ
+≥.°BuH¨·)˜6ŸN°»V™ÆK™z7”t
+E≤Pu5€òPÜ>7¢:Ö"≥∆,T]7&}…rwë’ôH™üe™Á∆d¢œT|∂∏Uöe™´Ì∆d™ﬁõÙùBëë5U◊Ë
+EØä„≠{aXß§%òfA«Éiñì”ta˛Ó‡À«xπ9èè[ïXÛÎ	BU|¯bÇP’ßøú D˚·Wthﬂy7AßÚ˜ﬂÃ¢>˙ı !ç/É© âí"ôΩ˛m?Mú÷‚SA{y`2ﬁhÙU∫_é>±:Úfwfƒ¿Oì’(Y_ ıî@rôTÛ™œ˛–∫ÓÏè≠ﬁˇö@z[ZÛÛ∑ñHªGKé‹P™÷$cû|x§ T\i∫mÇÓU»ﬁπJ_}óêë:èODÆ†âÚ◊Õr0Seû>√ƒ¬∆±ÇÈﬁõ†YoÚÅ6¿?ÂzÿWπ¬âÃ–a◊¬/XBCz˜ÑØÇjqﬁ+™)ßı·u^O”‹£Æ:Mc≤˘÷D1∑∞JWå‰—'⁄^m=ﬁÂ,qÔ?ˇ~!≤FËT/%¨¸ï[¥W¢P-∆/·ì
+∫˜w„ìÅñAÿß,>[&À≤∆øWÒ◊¶ü$$%<sŸ–Û€=Ì?“gêk•á<ÚË!s]-##Ωmø``ßNéÌhΩΩ ∆Õ‹M,;Zƒm8ÉYõ;ª£U…Ø⁄À©#œ;Zï¸ˆìƒ_IU“|‡‚êÙÂç¬í„ïÕSG™w¥*Ô<¯x∆!Ô,os‰^>;pßÈu¢0¡Î›U#ãõ)9˝<e´®ÕqëÄ·-π]+QE®0q—UKK»ñ	hXÆ›ïï®zåF	√¬cú˛õ3HW&€úß:ò¥õµ{‹ñ¢‰ıÇÜΩ±∆Ÿ≥.SXÍÖ{Ó”µÛÜ¬µÛÂ&{zyın#°D·+˚Ö[¶´<§`Ûy»é∫-√∑Ñ‘9y»ñ M··ôß˘<dG´íˇÑ<dK´í:Ÿí™§?!Ÿ“™§üœCv¥*ÔúœCv¥˝·<§-yH∆fÚ‹$ÚæJC»;G3í"^…Hrõ'2í(]+!Èä{œZÛˇ÷PõYˆÑZ=≤0)ÍDÎtu‚G‡eüJ®N.›
+ºÇèoJp7%t‰Ç/¨ ÒNs· ∂¡∂‡±Øu„^hâ≠RúÊ"pˇ
+⁄¬¿Ÿ!ÖÜpÜ7ügpz)Z(|óœb¡H¬îÃ∂ÆE£¨¬`∏]ºKj ‡Aìè≠∂°ˆÆQ◊Ã3Ëe¬SÛøùwÎC Ç:äÄy©§é‡e-Xõ~´∞ÏQS˙âbº¨ÆRÉGêÊáó®Òâ"òWÑ—Ø2E@^Vmƒ∂Áü•ER[5d˙M[º›∑—√pÁÓﬁå‡~∏¿ãÎ§Ê—!†´™Ï¢˘÷ﬁ≠iyóop≠ÃÁ∑k)$·8î¡ﬂ „f æ[*≥‚Ò˝º¨Uÿ1`(•%B¸Â¯Rn&ùÄ»˛e˝™¬Ó≠Ø.5∆5wOE |QÀ“íƒñ¨Õ%?ä*äTjïtﬂÜ÷ﬂn€‚aû9ÛL,Ø„AÓPÙÔ0•[¿
+4ÃÅÁY—è¥}ÖÅ8™Øq˙ZØç6ùBüÍÁCÀü∞3ıO;$∏0éú"æ¡+i<Vk(ª^cœÖƒ+˘Ò°B¶Ô?,uõºÜ>‚R8Ω>,ÖÉ_`ıÜôª≈~KÍµ—†”ï≥i—È⁄≠3më'sjí˛ÜVîö¢œ°Ø) q¯t|È3äsÏ	}Êo°∫ÊsÎª¨Ç„-µ*<£)&≈óã√´ˆAT∆MbΩ.0'¸‘˝Ñ;ZØç&ùÆûMõN◊O»
+É˚àOÊ›£_—äÙçóÚ,˙"t_pEñÜ.âÎÈ·*˙ı–Å|;ãÃ™õ–˛J≥£äËÕiÛ#Ö{dÿÛœ∞vo)·'¬ÙÙƒ÷îös‰+û-«‡™“ºZ{XWŒ‘-ÑÀœøm/3Ú<ÓﬂüŒQTœ„6´£UlΩÊåÃJˇ˝ªØ‚/DıYKÆP¸-„áÔ“R‰"ú∂;nÕ◊ÜõèÒ∂ñŒ+pø£x`Õ#IÖ•Ònë:N/,«óÉy∆&ÜÒ`ÉëX≈œå^≥À÷%6ÕQÊBÅøµkÅ/^(*Ò8E¬¶yXòÄπ'IãèÉΩÅƒ7π6Ω∂çÊP0Ê?°Ç$wß’Y£ÙF‘≥ºµÚç\_ÊdÑ«#?vëﬁnCÕı)§no}	¨3‘7§VÍÊ⁄t∞ô†^ëBÍ2CØOë}C
+©+Pñ∑ß»æ!Ö‘ÒvDtg»æ!Ö‘√Öí˙Ÿ7§VÍ¬s<rCÍµqŒúÒÈjπYáaxC®T∆ÎÎÖq‹ÄÛ’…ç£;–ûÉLÇäÑ≥V£∑Ñ.âÄÑ“º>J2í'$:Ôf◊≤jÿáŸ~Ü9ùw0.:µX-˘±›ÁíÇêÿ_ˇµ;¶Û>ù7iàÏoí√eÔøm.√·"˝‡›‡héáKhÃl◊Zöú$Ïöáò„YÅ√Ss4+Hÿ4áòhòπ‰î@¡HÄiÍxˇ¸ZÖÁƒZë9aáy‹M÷Õ≈Cg&Ü?ÏE$!8j‡	°ûFÒùêPÍqà≈WfÇDä$⁄¬åo™ÃkCâ§gHæ!E“Å$Ø)ëd‡…7§H2pÇ‰5%í
+ú·ãR$8H˝z*@˚fJj¢c©@Tƒ@&@$Jô¿Ñ@ißÚL$ ÉD“ˇ7&√∑«7ûmÛÄ¥Œı∑çuÜ;ô@’∆`˜ﬁu=Í°	≤∏ø· ∫^>/Ü≈øÈ™^È„y-Ÿ
+ŸD÷tu.a˜Å÷WóSVõ≤¶ó"Së9tMè˛(™'R©’5±‰J4˛v€”åõÊåÇö]hD≠ºü¢i•}¡∂£√ ˝∏Dà∂âªÈ]øï~§ı⁄‡9KüÍ¢“œô˙ßl›ı:E¸∏gâøãO´•Ç√nœãz∂ÏçXxöw≈*ÉF∞…-◊ö‘k£Aß+g”¢”µãp&∆Êﬁfﬁ—¢ß–è ø3¬V@üü–w√é=^af¥Ø
+q®iÁè;ˆﬂ?XO¡‰*îˇ¿V¡MÚ5©◊FãN◊Œ¶Eßk'÷  OÌƒ¥ˆ+Z¥û·$˙"ˆ^`ìC÷3 $õ,áâ;û€¿ﬂ1∞\/hÿ§S)œ∏3ıŸ4<“∑Gf˝7möÒB™ˆT»–—o2ù\ ›DæY” ˙2#ø1ÍVQ√¶ûaøvAØoS-ÁònÀ£◊∑ÖudoSÖ√ªÔ„ó≤™U(Rí∫áwY1Â2∏¶≤Zu•“ÅÇ¢≤ÿ<;›^…∏€©Ö‰XFbû§≤ãáﬁÄn“ëŒÄ¿àb‚4À»À˙a‚π	„5^∫KæãÂÃR˙âbº¨÷‡§˘·e*+˘ÃBÛû6*"±Q±Ì‰gYië‘Vç#ÁÆZ∂xªo£á·Œ7\◊M}ÜÀ'•$[úå›∞Ä 3≥Ù¿úƒekNœñ%§:0ó¿Í¿\˘6ù]+Ù3≈®ŒΩ%“¸≤%^•Z√◊ ¨P§Q	©Ãïü•ER[5Nùt$∂xªo£á·Œ7\_èÎ2úÖâ£‡ÆÓÜL°Ã™E0-H∏ƒÿ:Pn ‘ñ’W»≥|ányOigÑDªxi~xŸÄkl+Ç•¯ó§'A≤¥:ˇà®+⁄*p§Øµ¨vﬂ:ìùi≤ªÛ4>v≥p[>$°k	<≤ÛJAÈÈ◊è!@vâw4¡Ù˘•EÛrıÅ‹V
+y$∑-^ìiSºVCÓºûªü£*õ\,ß$…‚Ω[ƒ…6!Ö¡◊»ÙÓ≤á0áëqÛÕ˜djVzdsJ&§∆&ÿÕπ7≥ıu‰Gö˙ò_<◊;øhƒòí/∆HıZÅ%{Îæ)$M€!a`ÒB])çiÑÇ«ƒÁ£…üü_®·˙CAŒd™‰8Áâ√…æﬂkîØìçêa`6f?¸¯‹ëb`Ω±WfìbÏû kƒï«ÙÓ#ò+<¶wø8ìYDπ1Ÿp@K¢4lÒéﬂzÊ§g˜ßG+ê%ÑN¶cÖÍè'Ì-Í¬, 9}}s©}÷ﬁxIÔmUı≥_6∂Ç~ÍØu’ê`Z0,÷f'Íænﬂ“µô¥c £Pî˛#ﬁ/+Ò
+Hû6‹¶`ØÄÈÛKãfﬂƒΩƒZ‚5ô6≈k5§‚^Ñ¿˜’dïS'ld$≈á=ï¡vHºeRÏãªÔçù∏Gágö8ö≥T÷}	?“ÆÚT%iÿ¯[ï•e›c∂.7?ÿ2ùƒ(O–,ƒ'v7ãµÈ^“‘≤ŒµLcŸA˝`È—ñY-ÕLªm‹û¬—ò≠¥V‘è™}ˆ]äû©ì0:Ûúù=Û√˜i,úü$ªyﬁ~D.»Ï8ãWè∂h3‘6O%?‚ˇyÈ˛¸.ùláC)ÍÕTÒ¶Ä$äH¨Ëê¡å-êD¶=Õ·pÿØ…¥)^´!›·êë√aòæ(fg¬°T|≠¨á¿œ2éEC“¨Iª∆£aiÿh4ƒÜÈ˝„øGØ».f/—∞¥l"íñFClôÇœGCl•≈ÉwoL2Ô?˘Ê˝ü˛ê —_Z4˛◊åøº»«µ_>˜âecﬁ≠+á,o“¢øpÓ‡i`È„Kã‚p‹k◊d⁄íÆ—äÓ®Wàê∑Ö9V™ÅM=.Ãˆi|˛H¿¨ì€∆eÛw:«)°m˚}‚{·Å¥;q,,-ã‡\À@@•dw‡„∏∞¶!í„° Ó\ﬂkE§ex{{<¢_Z¡©ñq3≤“;∂ÃKÔÇûßj«Å¿«5Œ|<æ¸ãó8ßKZ/Ÿb4T)æ{üb!y !yÃ˙!˝Ç< €ÃG™=≥ÿw/S˙˙ñ%*ò¡áÙ&5¡í,Ì(û+âl-éM—Zçòàï$ï*˝n"ï*˝ÆJ•ÜbeïJu«JíJïñM§R§e4ïäïU*’+”‹†nYô0L¥å„â"=+´g‰ßbe5E¯oçï#∑˝e±ç¬ÁC¯G+ñ/qÂÑ€ò±8Øç“uﬂ˝û–Å;\p¡o>í¯é÷qFèÆA…‡Ω#U˜&Ê¬¬lJ A<~ñ÷$^Qa
+8ÕﬂB˝±Ï“ CÄõ:ó±i≤ÜÙ¿ì”D—bÜ≥"áÈ_ù3¢=º◊O¬[¸Òyœ§Á)->££ÑÁ’<∑ﬂ‘W◊ Ò)A<áw“c={bíπÙƒØÅqﬂ
+e RÂΩ-D<û'§ªb{WâP{,Ó∞≈o=∂SP˙);K{“¸≤√v,ny˘ÀŒi;˘YVZ$µU„¿ff”o˜mÙ0‹˘ÜÎ™Ô3‰@ŒoÍ(òcõ∞ûl1#bï“µ·v`X¨≈TZ˜ÜàaJQ˙!˙ﬂÅGêÊáó∏jªñ,R‰'Ü+mœ?#Jã§∂jÈq-[º›∑—√pÁÆªFﬂ|RŒã™ªÄ§¥Z*	&gˆ
+H µ˜4ákƒ€‚5ô6≈k5§o%SŸå9XéñmI¡¶ÁF’÷H]8>∫®Ö’õË@]x_~öèlÁa∏ﬁlÁ÷‘à‘Öp¢.gå
+À7oóÖ_ô≤ÂPZç—d®éw01ÎãÜßî©Ædò⁄Dºe™èlÛ„IZŸÊ/‘pS%´o,„!˘9µd≥5i∏<P≤:R–¿– O;Ä¯FŸèßdı¥O0à≈n≤±O@µ(mL®(€Ä8‹	(~	y°e	5†‡ú¿è~ÓÓñî~F¢/Îá5xi~xŸÄ0é»'"VÛ‚iñ"Db£b€Ûœà“"©≠GjÛ[∂xªo£á·Œ7\ˇlié{ˇ i≥ƒL )u(e∞M0}~i—Ø„nä◊d⁄Ø’ê;ìkÑØ›Ç'î¿¶TUÃ#¡y&‡xåO8L‹≥GL˙∂”S˘◊8á-±äC]ê4…Åj©ÄUa–,áRzDå}*jÈ≠˘g8d∑° ’	4N·∞#Vq8√óvƒÍÓy&á∂ñN∞ÙéX’ÜY}£#8åQ€¯B@/!±CD‚çÀX∑áı˘≈1#Bù5bó≥ﬁ∏ÍCè7èV¥3Dà¥j“¸≤(πàÄ¿# UOH$∂6õ˛,´&Q™xx–∂ﬁN˛◊òï∂”kÀ ;´ÌªøŸ»ΩöÍ⁄kuß¯ùÕ∆‹ºÂπoW=⁄,äoC£6LÒîRVXiâV7Xp0ò'Z·…á4¿*M§hzAö^6‡™Ì$V1ä›R≥Èœ≤jVJ[Œ∫˘V˛◊òï∂—k€ ;´ÌªøŸ»ΩÍ⁄kµ°¯ùÕ:œÚ5Û2aa6≠‹v§Î;Ü∑YxΩ-√=zoóÙTrMaâG¡º+°ﬁ'’˘–}Â~ïæéú˚oÖù∑k·Ë1Q}¨0<◊ø¬p=–ï≈öâP9TJı/ô‚ueZ[å¡~aÃ›(Ô˝ÏüÁdáNªfû‹.X@]U§ﬂ_êmﬁË‹\êm6ﬂ√>^ƒk˙ãxÛ—“z'Ï÷-=‰√]Xs^ì/—Ê¯ÈZ¢˝s˙	µ˘±Î√PW4{‹eÚ∏~Êa≤¡◊$FV„ú÷x˛c=«óû7»‡»Ÿº’Oi<aÅ∑e5û+>z0OBK£k!!|VD•A”‹‘"∂Ô›„7™„πb†DºπBC\ıv}w™ÄÒÒäâ8\∆˜“ÈBÏµ#€)MG»*-èqh€1kÈ8á;èjH|9\íÅ€–:ZµÏπíΩ„ëCô<Ñ…ÏJû5—(u!óúM@äêO1˝ø+CØë±êÊ7OÈÙT=oe]ÔW\qÎòÇ¥$û[Kœ°dp§„·ql„y ‚Îõ–W•reÔöëãÑ÷π˙Ç4'CÕA¿Vj=•Y@ÜUsèM·1+çr$bØŸNqhYøp®¥<r*YK«9‹\ﬂ5boƒê7¬»iÎDﬁhérÒ‡»ë0kÀ8Æˆ‚€EÎq›Ù&s∆&èÃ·≈c/U†j≠W
+2òflíáÉYõÒÎÊå±ÎÅjáèŒYW∞YÊ±€ÅgX›˙~µX˜¶`”áÁ–"Xä%$V∫«C €´ '‚…nZÇØßFmeÏò’˜T!˝ﬁâ ó¥Äò⁄RÌäÁê,IàcaUú…x$y ≈ß%-Æ¯˘∏∞S‚ô‡¡∂Ø¥—¥gx∏>“ÿı]∆ÇÒ≈q7ïj\*7™–z•X‰9Cøe˝Lˇ`$πAøeΩ¢ü„Ùoè2êøZ´eË^¶ä≈Ê 3P±ò©Cﬂv⁄˝ı&ùyc¶∫a∏Ä0Åf˙–%h˚k÷ÖˇızSOt)ÀÄè +cj¡ÑXÑùïKp\AçÂ“wê …X	Ó2æÄ3Ö ÖÑ%6/ÿ%pä√MÛü °m«„Z∫P-¬Ökq-^M.nÑ°ı¯LÁ÷ÊØ6"HòòPGO\ÇÄoè ”®±àPd ûD¿ÒàP‰öãÂâxŸÑ\ù±€˘˛z«¸ßrh€Ò¨àé•I|’‰~D–˝Åêˇ+èi—ºzÉ B3˘.™„∆ÙX~%†£JÇ&rÉ,”dn SiÊ≠Øs4ïËÛÒ´„j!FrÉ¬ˆÑë˚∫ŸO§ﬁ≤ﬂi9®C„u±"Ä»	
+˘øÚ6¬å´ﬂ!!‡LN ìq+√Û8#9AñÅé%ú»	≤\ì9A>,Fs•ÜeÉß‰Ö…	
+€FÏ€Ê?ïC€éßÂXZÔ#…;¡‰Ö¸_MD(-æ±8-qóﬂ=	á7Æé(âáÈM¡.≥~Q÷w,]DºY÷`ôô4qêÜBJW¿P˙¨ÀÑ∫vÀÉöÈ´¡p¿◊i≥ïÄN‚£_ÄX‹™√áQD(Ñ+Õâ»K’∆^V–r&È∑º¥î>AÇÅ⁄<Ç4?ºT _\h]å£ˆmTD^Vmƒ∂Áüe˝dR[5éœ¥lÒvƒF√ùm∏√◊ù]Ÿ‘txO8fºEç◊ÿfê‹`îw¨)ÿ—Ÿ{|ÔÙ5∏€TIU@Öï}Í	ÂdXÉàÜl„â4'"/U#xYAèëìo9æ‚È(˝åD1µ-xi~xŸÄb}¿'Æ´±t°»ëÿ®ÿˆÙ3™¥ï‘NçùΩiã∑˚6zÓ|√}êŒû˚5i›Ò~˝pèè«=˝˙j∏…~2∑aªŒ◊_Àå¢û¬œs Êœ,∫„∆‰ŒÊÃ#a≥òW
+Gqz˝ÙÍ;wÛL<9wBKÓΩD8n∆0#”áﬁ¡:ÉÀΩGƒ∆>ÅìtŒ´K•ìúX∫ˆ⁄ÕA ∂ΩÛ¢Vu!¢L8Yepï?…#ÚR5'Ç!i«≤-·È∑·π§Ù	ƒxY?¨¡#HÛ√K*à•x4∂—ﬁIëÿ®ÿvÚ≥®üLj´∆ë—∞eã∑#6zÓl√Õfππ≥”óYÚØ=◊r¥≥˜˘D2£‰F™⁄EhîãQ5<›Ç◊Ù…#ÚR5'Çó4Œ”O√AzE…g$Jàm¡#HÛ√À≥û,^æáâQë>"/´.bÀÛœà "•≠á∫z√o˜-Ù0€Ÿf;≠£xàÔ.û∞ÊRíiãı‚k™ïìÓàÕ∂$	MôêÈˇ9\¿è¨[{à}ñõdàC'4Ω)UOw≈ÎD¨“ÛA;’ﬁ¢aÓÊÕ"1#À¬≈ø_àº¬ù|çπÚï[¥ûôj˘;0~	üT–Ωøü\É¶◊ˆ)ÇÔ	]ƒèØ‚Ø-L?IH$6Jà°=ø›”˛√ }ôåéIéÙ‘)	(‰ı”ÖG£ﬁôƒ∑z—·Òﬁˇp¥Gœˇõ3»dœœ{åıu˘‰>πHˇÏ^¯∏)·qπ≈√dÁÙ‚¥öK≥ı÷u›ÑÔr-≈PAï ƒ3Òàuﬁƒ)º≠ØHëó™9º¨†≈≥»‰[µpéœ˙âbj[“¸≤µ¿òE0^¬¯SeéÄº¨⁄àmœ?#Jã§∂jÈ—-[º›∑—√pÁÆÎÅ¡A√—öÒÚE2KàÒú∂1!ï·XÆ|õtXËg$äQÈ?ÅGêÊáó(5ñˇd¡NQ\à*Ú'§2\˘QZ$µU„Tè#∂xªo£á·Œ7‹Ï:°±ãÓ…	¯á]W	”m!	õ]Zc@œKUÒ‡ÒÓ#¬gﬁ¥◊Õ∂é%\πsÊ∑H¬?}w¯∆zçÄrV>â#B[±–
+`(•%ä≈qÀ	ÈDˆ/ÎWvh}u©1Æ¡E æXÉwÁf©#[≤6ó¸(™(R©U6≤∑∞◊˙€m[<Ã3gû…ÿê÷›â“≠0gÖÜ}¥Å&«æô¢O¬Œä>îGR1·ë¢O7€∞ﬂÎ⁄aS&¨≠ ∂ Ïmga◊ø©cGà˙u˛*˙Y!õÄ»ö:h¬Ó≠Ø.5¶,Ó_gy{A:h®[”EıD*µ∫&¢—¯€m;<L3nöì"±Aä8'Ö¡’bÖ‹ºØñØå†´"¯æëfõ•≈≈’ËZ·agƒ{D,n◊bf0-Å‡,ú	ÀH•)dÈibSÑ[òÊt—
+ØÚííO YA⁄b˜Å÷Wó[ãäDiAâ&Ø;ïFÁümER[˝çLsZFxªoúá≈N¥XﬂäBó≈Úe7m0©gêŒp¢ıà≈v`à!¯vçïÙ[Åßû,•ü¢˝xi~xŸÄ´∂ã`…"4‹e√ï∂ìüe•ER[5étµñ-ﬁÓ€Ëa∏Û˜1ÆÕwπ«câ˜±6ˇ0‹cm˛Øeâ˜±6ˇ5‹‰HöÆÕÕá È°ØÓÉÊWj““i"z≤¨Ä$fplÔÒK‘µrò”–íﬂ∆Hçà3äÑx"y	ˆ`lécZ”o±óíœ@â£;Ï>–˙ÍRc!nâblØÏêÜ “ËÙ3™≠ï‘Në§iÑ∑˚∆yXÏDãÕ&„Èö ó˚…TØÙkê„ı„õ_ÔÛ}î/ ¨DÕ`úu°‹
+≤2BöSfu{0¥Q„ @?’ãÚVSÚ)ì¢=xi~xŸÄa&V‰äìµ BiNGZûFT)mï8“Ò[ñxªo°áŸŒ6[W ﬁi∂tØkÃz≈» 4’}é‘l[0(z9„ï…=æU'(˝åPıo¡#HÛ√Àå⁄ŒÇeãê‡Wó€N~ñïIm’8‘ﬂ∂xªo£á·Œ7‹t9çƒÒ_‘cÂq‰a¨kØûÓÏ>√ïá∏ÑwÑTœu“)|∑∏	H£5 ~"íG‰•jN„qao√„_˘[ò›ô®äHü Aå@mAö^*P-û≠mär©ı.B"~Dbõb””œäz"•ùGv£[ñx;b°áŸŒ5€lGﬂıÈ™£[Åˇ“y©Ë√9>ÁxÙÈ_§Ÿf˚ÙÓåÍrÉG⁄Ùzﬂc~9±	R-\yı√ÑÑ«}èk4f;Ûç›=XÙZrV/ÓÅ©íkc‰˝ÀkèÆ]ûı∏ãÈqâ÷√pg_¢ï'˘0Ÿñ,ˆµúÀ$CﬁóïF* ≠YU §ò_@hCÆÑTId´$≤|õÚπBü Aå*L‡§˘aïD2ª8ÅÅæF&ÚG§ "Ûœä~©ùß≤bã∑#6zÓl√ù6ß|· Ò´˝öÄddøÚlyw™ˇp§ø¥#="¿/‘p'ù?°Ô-‰«´…k”∏⁄n¬Ù_≈nöyö¯ cÿ√2∑ûÒŒÌHÿÖbÖo˚·Î˘“_·@r≠ÃÔ‡Dlñ«Ó¨NuÄß~.ÏCÑﬁ«Aè«—úá≈Œ®M⁄>∏]u‰™Zz{¢†ØÚ∞ÀW5Ëè√√ç∏ˆê¡∂‰∞™Cµª‹„Q¶ˆ®.|òÌ‹Ò{skÊkÅÜ˙sóc<nfÃ˘⁄„2Õøqìù‘èIës«ÂöM*˜»¡°ÜõÕ¡’ÊÈ˙Wä5O˙çııÆº¸qnÏq“Ôa±3gÿ§wgÏºﬁ˝ïè¿WΩ˚óf±”∆Ó4µÆo∫ê†˘bï⁄¨.‡-~*Cıy Ùf≥‘W¿¥¶r
+Î…éHNñlv`hÑ8AØlBƒ0EóÑ
+Bñ^v‡§˘·eÆ+-E∞¥CÕëmJ€Ûœà“"©≠G∫~Ào˜mÙ0‹˘ÜªÇÒ?¢Uøxfãè»˙oX!	Êﬁ‚èı”3ËWœœË
+œ‡ü˝ÓÔûûˇ=ê≤\¡wœˇ80–Í3ÒŸªØø[!÷'∑◊_| -L¸…˜Î/†ùN€¯ãœûÑ?˚9Å ë¿/Ú/IkÍøÆ∂K2Pπ5<¥k¢1¨ÛúZ„ôr7ˇıå‡Ç5FˇøÑ‡_Oi∆˛<)¯iÓÛõâ∆Ûm·?ö∂|9”ßÂÕ_ƒ°æöí€-÷Ã~öﬁ≈œØåóÔûoÇí:¶\›yR·!´≈ñIO„‚≈"Ò£äKœ‚ÇÔ’;Àd≈%É≥\äÿf—ﬁÿ™<7ÉÁµ2m≠ı¶-<èKπvãpâ‡i÷∑@–¶À íxPéW|√%Çw∏ÌH9l∞<[ãxôøãÌêãQ
+RHi'ÓæŒyê¡J´¶ôû¬ ¶L\(≥· -››Á6!´8$∂˜l›ëÖ:`(bZ≈ÏØømƒlå˚˘‘ßÜ<®ú/|W¢Ô◊2ñ¥∏í± sº>§˚ÁÛ#∞¿’+poé?[ÒiÄ|^«;ı%[√'$3Z√‡ñ±Y0·¬w/9ﬂ¨<`‹5‹líáèD/eÊRÃ;©
+6ÌÅŸ"Õ¿dvfmt¿ÔáL¢j-À±ŒW
+ıZ˙öÙB@ñÍl8v«Dïê)…‹!¿{Ã]~J†1&ß>r$°…eïÙYë§«õ±~ækéVKÁ%Ë√«‚Ór±ãáL¡πŒAR{U¿i.n1:∏≠∑µÎ≠îL@π(‡4É$v@–íR.raãıÿÛ8Ôs`n¬¡¯±2qæ7ÿMP@i∏ÆBb⁄πUá‡ê\Ô÷˚NÛ{Ω\È†∆›_S3†≥É€‘Pd~µZ¢%%û¢ﬂy3•∫Œ`C+–áàƒ˝ î~(3ºŒ`KÏu-[Ò⁄#[à™êÓÃqÿã¯I®(≈ÇÅÚÁHø%Îî§ÁÓ§lâò∑âìö∞°Ès∂s˝a˙≠◊VáÎ⁄ch∆-ÒQ„ÖòæWyk¢ˇø#X≠ˇ∫N^‚ˆàéKGÔÛ∞À}¢Œ˚V»¨k◊˚10πC⁄ò§π&)_¸¯¸¸√˜q—B—ïåuÂ&f≠ﬂ|ˇ€î◊“≈é[π¡ÛHnp'úc^ã≈√3GTëìlΩ¶]jç—	§¨ØÓÉŒ’µ"S‹zwaT÷∆˚J-mÈdDÚàºTÕ)˝œ
+èóÄîo≈b¨ìî~F¢/Îá5xi~xŸÄö·A≈"XåLï9€ûFîIm’8R~÷≤≈€}=wæ·¶7∞`≤,Ã≠Vâ}+úˇ44ÕÒr=‰fÙ¸i
+Zd›6Áp›kπ°æ≠À'ùX§”¶â`0«# 
+·qﬁÆ´¬YÏÄºl⁄¿ï-èã’Ò[µ0/-•O∂ﬁ≥∂√Ó≠Ø.CéöD&ªpLûEè»À™àÿÏ¸≥¨öLj£¿ë(“0¬€€<ÏuöΩÓèF_Œêµk"Uµ?“ÍØ9•ÛyäG(¢¬{π_Œµ‚F∫HÈ|}Æƒõ"cY˘& ƒqkéyHFHR∑qoY¥¬"øùÅüJÅYüä¢J3õö
+$ZT¿¢ô2”Œ0∏ÌÁrhöÒ∏íÓLg†è0mVíöôh”/[©ºˇvÆW5Ñ\`—1⁄çƒNr}F:i=	û7Ï1)"F§
+û	¨Çg˘6≥Bü Aå*&“¸∞ä†òd≠j»Çq‘ù¢çäHAÀœ≤~2©≠ßÜ<bã∑#6zÓl√NúØÏØ‚usöcïÂ⁄[l(‰‡ª÷ßÒ©„C<‘Ç˜∂xH\Õ∫˝	!ƒp¶ÑMs– ±√(∏X∂ÓN¬–&UH√4Õ¡.ÇyäpË\ãD'„u∆Û∏∫ˇiéÇÇ~ˆExglDaKûÈ’êS±uØ8AΩˆæ÷NÆπ~í0∫)∑°tÁT,•F‹«Z.ûú«◊µ”å®ß«Æi€d@~Ω>´ÆÉsõEbIGx†ÔâM¿À˙QÖ·ïSÈeÛÚ!&xŒ“	àÏ_÷Ø*Ï>–˙ÍRcÃ‚ñY ºâK“íƒñ¨Õ%?ä*äTjï≠ø›∂≈√<sÊπÙSΩëèrÅ˚¿xîr[+ê2& ãÎÎü]Ù#≠@?l¶+™Øq˙ZØç6ùBüÍÁCÀü∞3ıO;ôYVõü!>Ã.`l}Ròé¨#-V!Épã«2Ä)ÍaoO<)	ë\K± cX£pì¬\ü*§_—z›∑ËlÂlZt∫v÷ºZd…∏ΩüI›ø¢Â∑ﬁËsËÎEJ»\√Ì ô:É±{B«g<@“PéË'RKøp9+Ω\ú±µèk·Å<ÙW»óPz\ûö¢^ìzm4ËtÂ‘:[7Ø”Á»ëO ^Qä¥-S˛⁄"ÙXé	∑I‘‰ï 9Î&„çá°—Ì`,7®n¬˘+Õà*¢Q…≈îè¥ÌëU?Ãs8´>ÿΩ”õ<=±π¿5¥4Æ ¥Z≠w€_›(‡¨…◊]eÑçA•Ñ…˙∑≠”5Î∫√ﬂ7UÛ$ﬁ∂NÃ®õ«h(òôŸRV:|\ÈxˇÓ]™eë’Qùo[ï≠Ô%6Me˝‹˙ö∑@—Y4CGÇK2m7∫9
+›<GÅE¨^™{É∆¿T·1¢<FîáyF◊inuZºU]⁄jxIÁNò {ò·ﬁ/°éÂÔﬁvù´‘7§ê∫Yºı2ÎpÜ˙Ü‘Jùsº»±¯⁄ıäR◊ã–^ü"˚Ü‘zÊGzoOë}C*ûˆ1Á®Ω¶¥ûÚÅ	º8EÚ)rÜË‹êäÁoåÊG©7h∫EÍÕRﬁvúΩû˛]O˝LFΩÒ’ˆ	ΩäaW®qÂ»_$ÍÛ^ÙËH(ÕmΩµ√˚”Ná;PŸ‚LL:Uká»∂@6¡+¶˜U9Ô[‚AECwÉâ™\a˚Z≈Å:ù]Iá∆~fy]“H·h)Q™ûß∂À˚Ñ ÄÑõöÀ#Z”‡ÅÚLÆ(‹z*Ò≠≥Ó‡R·	§<˛ã¡á#‚å–¡3V™Ï≤bﬁYAæDmÈX∑RßH™}€b˜Å÷Wó
+◊tö?ôÏ"∏§≠â@’öà≈÷D=‰/ì™2ÒZù4Sπ]8∑˛uÉeSlz≈[ÉÌl∫¥—ò}{€ö⁄ËsØÛÜµkÙ}Ÿâ1<\¬KÒAMó∆ì)(éÍ*÷6oæ¯ÏüHØ‡˝a2ù,©N`≥ıU°ıh…Â?“ôë_rò∆"ÏÕπôjä¸î@ÆDö†≠§Ÿ~¶œ=”˝Ùˇ–¯%.'†Wzj)-≠ÜUÓ◊œ˛¸ø˛Û%I?ëÈ√õ´¶#7t¥ …{J«wqÚ≠=e»è≤ÒáΩñçÁ’ì¯_!™îÃà|fjt-º∆¿Å‡~˙…ˇﬂHDendstream
+endobj
+110 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+111 0 obj
+<< /A 117 0 R /Count -2 /First 118 0 R /Last 119 0 R /Next 120 0 R /Parent 74 0 R /Title <feff00430031> >>
+endobj
+112 0 obj
+<< /A 121 0 R /Count -3 /First 122 0 R /Last 123 0 R /Parent 74 0 R /Prev 124 0 R /Title <feff00550033> >>
+endobj
+113 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+114 0 obj
+<< /A 125 0 R /Count -2 /First 126 0 R /Last 127 0 R /Next 128 0 R /Parent 75 0 R /Title <feff003300560033> >>
+endobj
+115 0 obj
+<< /A 129 0 R /Count -2 /First 130 0 R /Last 131 0 R /Parent 75 0 R /Prev 132 0 R /Title <feff0053004500520056004f005f00500057004d005f0032> >>
+endobj
+116 0 obj
+<< /ExtGState << /GDIModeMask 133 0 R /GDIModeNormal 134 0 R /Transparent 135 0 R >> /Font << /TT1 136 0 R /TT2 137 0 R >> /ProcSet [ /PDF /Text ] >>
+endobj
+117 0 obj
+<< /D [ 9 0 R /FitR 0 343 378 126 ] /Next 138 0 R /S /GoTo >>
+endobj
+118 0 obj
+<< /A 139 0 R /Next 119 0 R /Parent 111 0 R /Title <feff00430031002d0031> >>
+endobj
+119 0 obj
+<< /A 140 0 R /Parent 111 0 R /Prev 118 0 R /Title <feff00430031002d0032> >>
+endobj
+120 0 obj
+<< /A 141 0 R /Count -2 /First 142 0 R /Last 143 0 R /Next 144 0 R /Parent 74 0 R /Prev 111 0 R /Title <feff00430032> >>
+endobj
+121 0 obj
+<< /D [ 9 0 R /FitR 285 595 566 331 ] /Next 145 0 R /S /GoTo >>
+endobj
+122 0 obj
+<< /A 146 0 R /Next 147 0 R /Parent 112 0 R /Title <feff00550033002d0031> >>
+endobj
+123 0 obj
+<< /A 148 0 R /Parent 112 0 R /Prev 147 0 R /Title <feff00550033002d0033> >>
+endobj
+124 0 obj
+<< /A 149 0 R /Count -3 /First 150 0 R /Last 151 0 R /Next 112 0 R /Parent 74 0 R /Prev 152 0 R /Title <feff00550032> >>
+endobj
+125 0 obj
+<< /D [ 9 0 R /FitR 0 527 542 141 ] /S /GoTo >>
+endobj
+126 0 obj
+<< /A 153 0 R /Count -3 /First 154 0 R /Last 155 0 R /Next 127 0 R /Parent 114 0 R /Title <feff00500069006e0073> >>
+endobj
+127 0 obj
+<< /A 156 0 R /Count -3 /First 157 0 R /Last 158 0 R /Parent 114 0 R /Prev 126 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+128 0 obj
+<< /A 159 0 R /Count -2 /First 160 0 R /Last 161 0 R /Next 162 0 R /Parent 75 0 R /Prev 114 0 R /Title <feff00350056> >>
+endobj
+129 0 obj
+<< /D [ 9 0 R /FitR 0 508 375 192 ] /S /GoTo >>
+endobj
+130 0 obj
+<< /A 163 0 R /Count -2 /First 164 0 R /Last 165 0 R /Next 131 0 R /Parent 115 0 R /Title <feff00500069006e0073> >>
+endobj
+131 0 obj
+<< /A 166 0 R /Count -2 /First 167 0 R /Last 168 0 R /Parent 115 0 R /Prev 130 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+132 0 obj
+<< /A 169 0 R /Count -2 /First 170 0 R /Last 171 0 R /Next 115 0 R /Parent 75 0 R /Prev 172 0 R /Title <feff0053004500520056004f005f00500057004d005f0031> >>
+endobj
+133 0 obj
+<< /BM /Darken /Type /ExtGState >>
+endobj
+134 0 obj
+<< /BM /Normal /Type /ExtGState /ca 1 >>
+endobj
+135 0 obj
+<< /Type /ExtGState /ca 0.322 >>
+endobj
+136 0 obj
+<< /BaseFont /Times#20New#20Roman /Encoding /WinAnsiEncoding /FirstChar 32 /FontDescriptor 173 0 R /LastChar 119 /Subtype /TrueType /Type /Font /Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 500 500 500 500 500 500 500 500 500 500 0 0 0 0 0 0 0 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 0 667 556 611 722 722 944 722 0 0 0 0 0 0 500 0 444 0 444 0 444 0 500 500 278 0 500 278 778 500 500 0 0 333 0 278 0 500 722 ] >>
+endobj
+137 0 obj
+<< /BaseFont /Arial /Encoding /WinAnsiEncoding /FirstChar 32 /FontDescriptor 174 0 R /LastChar 117 /Subtype /TrueType /Type /Font /Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 556 556 556 556 556 556 556 556 556 556 0 0 0 0 0 0 0 0 0 722 722 667 611 778 722 0 0 0 556 0 722 0 0 0 722 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 ] >>
+endobj
+138 0 obj
+<< /JS (_FindWord\(0, "COC1"\);) /S /JavaScript >>
+endobj
+139 0 obj
+<< /D [ 9 0 R /FitR 0 336 364 132 ] /Next 175 0 R /S /GoTo >>
+endobj
+140 0 obj
+<< /D [ 9 0 R /FitR 0 336 372 132 ] /Next 176 0 R /S /GoTo >>
+endobj
+141 0 obj
+<< /D [ 9 0 R /FitR 0 295 374 41 ] /Next 177 0 R /S /GoTo >>
+endobj
+142 0 obj
+<< /A 178 0 R /Next 143 0 R /Parent 120 0 R /Title <feff00430032002d0031> >>
+endobj
+143 0 obj
+<< /A 179 0 R /Parent 120 0 R /Prev 142 0 R /Title <feff00430032002d0032> >>
+endobj
+144 0 obj
+<< /A 180 0 R /Count -2 /First 181 0 R /Last 182 0 R /Next 183 0 R /Parent 74 0 R /Prev 120 0 R /Title <feff00430033> >>
+endobj
+145 0 obj
+<< /JS (_FindWord\(0, "COU3"\);) /S /JavaScript >>
+endobj
+146 0 obj
+<< /D [ 9 0 R /FitR 276 595 531 347 ] /Next 184 0 R /S /GoTo >>
+endobj
+147 0 obj
+<< /A 185 0 R /Next 123 0 R /Parent 112 0 R /Prev 122 0 R /Title <feff00550033002d0032> >>
+endobj
+148 0 obj
+<< /D [ 9 0 R /FitR 318 595 578 347 ] /Next 186 0 R /S /GoTo >>
+endobj
+149 0 obj
+<< /D [ 9 0 R /FitR 161 595 491 327 ] /Next 187 0 R /S /GoTo >>
+endobj
+150 0 obj
+<< /A 188 0 R /Next 189 0 R /Parent 124 0 R /Title <feff00550032002d0031> >>
+endobj
+151 0 obj
+<< /A 190 0 R /Parent 124 0 R /Prev 189 0 R /Title <feff00550032002d0033> >>
+endobj
+152 0 obj
+<< /A 191 0 R /Count -38 /First 192 0 R /Last 193 0 R /Next 124 0 R /Parent 74 0 R /Prev 194 0 R /Title <feff00550031> >>
+endobj
+153 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+154 0 obj
+<< /A 195 0 R /Next 196 0 R /Parent 126 0 R /Title <feff004900520072006500630076002d0032> >>
+endobj
+155 0 obj
+<< /A 197 0 R /Parent 126 0 R /Prev 196 0 R /Title <feff00550031002d004a0032002d0031> >>
+endobj
+156 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+157 0 obj
+<< /A 198 0 R /Next 199 0 R /Parent 127 0 R /Title <feff003300560033> >>
+endobj
+158 0 obj
+<< /A 200 0 R /Parent 127 0 R /Prev 199 0 R /Title <feff003300560033> >>
+endobj
+159 0 obj
+<< /D [ 9 0 R /FitR 0 515 566 48 ] /S /GoTo >>
+endobj
+160 0 obj
+<< /A 201 0 R /Count -6 /First 202 0 R /Last 203 0 R /Next 161 0 R /Parent 128 0 R /Title <feff00500069006e0073> >>
+endobj
+161 0 obj
+<< /A 204 0 R /Count -4 /First 205 0 R /Last 206 0 R /Parent 128 0 R /Prev 160 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+162 0 obj
+<< /A 207 0 R /Count -2 /First 208 0 R /Last 209 0 R /Next 210 0 R /Parent 75 0 R /Prev 128 0 R /Title <feff00390056> >>
+endobj
+163 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+164 0 obj
+<< /A 211 0 R /Next 165 0 R /Parent 130 0 R /Title <feff0053004500520056004f005f0031002d0031> >>
+endobj
+165 0 obj
+<< /A 212 0 R /Parent 130 0 R /Prev 164 0 R /Title <feff00550031002d004a0032002d0038> >>
+endobj
+166 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+167 0 obj
+<< /A 213 0 R /Next 168 0 R /Parent 131 0 R /Title <feff0053004500520056004f005f00500057004d005f0032> >>
+endobj
+168 0 obj
+<< /A 214 0 R /Parent 131 0 R /Prev 167 0 R /Title <feff0053004500520056004f005f00500057004d005f0032> >>
+endobj
+169 0 obj
+<< /D [ 9 0 R /FitR 0 495 375 144 ] /S /GoTo >>
+endobj
+170 0 obj
+<< /A 215 0 R /Count -2 /First 216 0 R /Last 217 0 R /Next 171 0 R /Parent 132 0 R /Title <feff00500069006e0073> >>
+endobj
+171 0 obj
+<< /A 218 0 R /Count -2 /First 219 0 R /Last 220 0 R /Parent 132 0 R /Prev 170 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+172 0 obj
+<< /A 221 0 R /Count -2 /First 222 0 R /Last 223 0 R /Next 132 0 R /Parent 75 0 R /Prev 224 0 R /Title <feff0053004500520056004f005f00350056> >>
+endobj
+173 0 obj
+<< /Ascent 693 /CapHeight 666 /Descent -216 /Flags 32 /FontBBox [ -568 -307 2046 1040 ] /FontName /Times#20New#20Roman /ItalicAngle 0 /StemV 87 /Type /FontDescriptor >>
+endobj
+174 0 obj
+<< /Ascent 728 /CapHeight 666 /Descent -210 /Flags 32 /FontBBox [ -665 -325 2000 1040 ] /FontName /Arial /ItalicAngle 0 /StemV 87 /Type /FontDescriptor >>
+endobj
+175 0 obj
+<< /JS (_FindWord\(0, "PIC101"\);) /S /JavaScript >>
+endobj
+176 0 obj
+<< /JS (_FindWord\(0, "PIC102"\);) /S /JavaScript >>
+endobj
+177 0 obj
+<< /JS (_FindWord\(0, "COC2"\);) /S /JavaScript >>
+endobj
+178 0 obj
+<< /D [ 9 0 R /FitR 0 289 360 48 ] /Next 225 0 R /S /GoTo >>
+endobj
+179 0 obj
+<< /D [ 9 0 R /FitR 0 289 368 48 ] /Next 226 0 R /S /GoTo >>
+endobj
+180 0 obj
+<< /D [ 9 0 R /FitR 0 456 303 245 ] /Next 227 0 R /S /GoTo >>
+endobj
+181 0 obj
+<< /A 228 0 R /Next 182 0 R /Parent 144 0 R /Title <feff00430033002d0031> >>
+endobj
+182 0 obj
+<< /A 229 0 R /Parent 144 0 R /Prev 181 0 R /Title <feff00430033002d0032> >>
+endobj
+183 0 obj
+<< /A 230 0 R /Count -2 /First 231 0 R /Last 232 0 R /Next 233 0 R /Parent 74 0 R /Prev 144 0 R /Title <feff00430034> >>
+endobj
+184 0 obj
+<< /JS (_FindWord\(0, "PIU301"\);) /S /JavaScript >>
+endobj
+185 0 obj
+<< /D [ 9 0 R /FitR 306 595 546 331 ] /Next 234 0 R /S /GoTo >>
+endobj
+186 0 obj
+<< /JS (_FindWord\(0, "PIU303"\);) /S /JavaScript >>
+endobj
+187 0 obj
+<< /JS (_FindWord\(0, "COU2"\);) /S /JavaScript >>
+endobj
+188 0 obj
+<< /D [ 9 0 R /FitR 149 595 459 347 ] /Next 235 0 R /S /GoTo >>
+endobj
+189 0 obj
+<< /A 236 0 R /Next 151 0 R /Parent 124 0 R /Prev 150 0 R /Title <feff00550032002d0032> >>
+endobj
+190 0 obj
+<< /D [ 9 0 R /FitR 205 595 491 347 ] /Next 237 0 R /S /GoTo >>
+endobj
+191 0 obj
+<< /D [ 9 0 R /FitR 0 584 368 260 ] /Next 238 0 R /S /GoTo >>
+endobj
+192 0 obj
+<< /A 239 0 R /Next 240 0 R /Parent 152 0 R /Title <feff00550031002d004a0032002d0031> >>
+endobj
+193 0 obj
+<< /A 241 0 R /Parent 152 0 R /Prev 242 0 R /Title <feff00550031002d004a0033002d00310039> >>
+endobj
+194 0 obj
+<< /A 243 0 R /Count -2 /First 244 0 R /Last 245 0 R /Next 152 0 R /Parent 74 0 R /Prev 246 0 R /Title <feff005300570032> >>
+endobj
+195 0 obj
+<< /D [ 9 0 R /FitR 306 360 557 175 ] /Next 247 0 R /S /GoTo >>
+endobj
+196 0 obj
+<< /A 248 0 R /Next 155 0 R /Parent 126 0 R /Prev 154 0 R /Title <feff005300570031002d0032> >>
+endobj
+197 0 obj
+<< /D [ 9 0 R /FitR 0 595 312 339 ] /Next 249 0 R /S /GoTo >>
+endobj
+198 0 obj
+<< /D [ 9 0 R /FitR 0 595 288 340 ] /Next 250 0 R /S /GoTo >>
+endobj
+199 0 obj
+<< /A 251 0 R /Next 158 0 R /Parent 127 0 R /Prev 157 0 R /Title <feff003300560033> >>
+endobj
+200 0 obj
+<< /D [ 9 0 R /FitR 262 363 519 177 ] /Next 252 0 R /S /GoTo >>
+endobj
+201 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+202 0 obj
+<< /A 253 0 R /Next 254 0 R /Parent 160 0 R /Title <feff00430033002d0031> >>
+endobj
+203 0 obj
+<< /A 255 0 R /Parent 160 0 R /Prev 256 0 R /Title <feff00550033002d0033> >>
+endobj
+204 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+205 0 obj
+<< /A 257 0 R /Next 258 0 R /Parent 161 0 R /Title <feff00350056> >>
+endobj
+206 0 obj
+<< /A 259 0 R /Parent 161 0 R /Prev 260 0 R /Title <feff00350056> >>
+endobj
+207 0 obj
+<< /D [ 9 0 R /FitR 155 595 530 288 ] /S /GoTo >>
+endobj
+208 0 obj
+<< /A 261 0 R /Count -6 /First 262 0 R /Last 263 0 R /Next 209 0 R /Parent 162 0 R /Title <feff00500069006e0073> >>
+endobj
+209 0 obj
+<< /A 264 0 R /Count -3 /First 265 0 R /Last 266 0 R /Parent 162 0 R /Prev 208 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+210 0 obj
+<< /A 267 0 R /Count -2 /First 268 0 R /Last 269 0 R /Next 270 0 R /Parent 75 0 R /Prev 162 0 R /Title <feff0042005500540054004f004e005f0049004e005000550054> >>
+endobj
+211 0 obj
+<< /D [ 9 0 R /FitR 14 360 384 175 ] /Next 271 0 R /S /GoTo >>
+endobj
+212 0 obj
+<< /D [ 9 0 R /FitR 0 555 312 311 ] /Next 272 0 R /S /GoTo >>
+endobj
+213 0 obj
+<< /D [ 9 0 R /FitR 0 560 289 312 ] /Next 273 0 R /S /GoTo >>
+endobj
+214 0 obj
+<< /D [ 9 0 R /FitR 0 363 365 177 ] /Next 274 0 R /S /GoTo >>
+endobj
+215 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+216 0 obj
+<< /A 275 0 R /Next 217 0 R /Parent 170 0 R /Title <feff0053004500520056004f005f0032002d0031> >>
+endobj
+217 0 obj
+<< /A 276 0 R /Parent 170 0 R /Prev 216 0 R /Title <feff00550031002d004a0032002d0037> >>
+endobj
+218 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+219 0 obj
+<< /A 277 0 R /Next 220 0 R /Parent 171 0 R /Title <feff0053004500520056004f005f00500057004d005f0031> >>
+endobj
+220 0 obj
+<< /A 278 0 R /Parent 171 0 R /Prev 219 0 R /Title <feff0053004500520056004f005f00500057004d005f0031> >>
+endobj
+221 0 obj
+<< /D [ 9 0 R /FitR 21 530 499 121 ] /S /GoTo >>
+endobj
+222 0 obj
+<< /A 279 0 R /Count -6 /First 280 0 R /Last 281 0 R /Next 223 0 R /Parent 172 0 R /Title <feff00500069006e0073> >>
+endobj
+223 0 obj
+<< /A 282 0 R /Count -3 /First 283 0 R /Last 284 0 R /Parent 172 0 R /Prev 222 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+224 0 obj
+<< /A 285 0 R /Count -2 /First 286 0 R /Last 287 0 R /Next 172 0 R /Parent 75 0 R /Prev 288 0 R /Title <feff005300450047004d0045004e0054005f0047> >>
+endobj
+225 0 obj
+<< /JS (_FindWord\(0, "PIC201"\);) /S /JavaScript >>
+endobj
+226 0 obj
+<< /JS (_FindWord\(0, "PIC202"\);) /S /JavaScript >>
+endobj
+227 0 obj
+<< /JS (_FindWord\(0, "COC3"\);) /S /JavaScript >>
+endobj
+228 0 obj
+<< /D [ 9 0 R /FitR 0 449 288 252 ] /Next 289 0 R /S /GoTo >>
+endobj
+229 0 obj
+<< /D [ 9 0 R /FitR 0 449 296 252 ] /Next 290 0 R /S /GoTo >>
+endobj
+230 0 obj
+<< /D [ 9 0 R /FitR 143 593 466 323 ] /Next 291 0 R /S /GoTo >>
+endobj
+231 0 obj
+<< /A 292 0 R /Next 232 0 R /Parent 183 0 R /Title <feff00430034002d0031> >>
+endobj
+232 0 obj
+<< /A 293 0 R /Parent 183 0 R /Prev 231 0 R /Title <feff00430034002d0032> >>
+endobj
+233 0 obj
+<< /A 294 0 R /Count -2 /First 295 0 R /Last 296 0 R /Next 297 0 R /Parent 74 0 R /Prev 183 0 R /Title <feff00430035> >>
+endobj
+234 0 obj
+<< /JS (_FindWord\(0, "PIU302"\);) /S /JavaScript >>
+endobj
+235 0 obj
+<< /JS (_FindWord\(0, "PIU201"\);) /S /JavaScript >>
+endobj
+236 0 obj
+<< /D [ 9 0 R /FitR 181 595 471 331 ] /Next 298 0 R /S /GoTo >>
+endobj
+237 0 obj
+<< /JS (_FindWord\(0, "PIU203"\);) /S /JavaScript >>
+endobj
+238 0 obj
+<< /JS (_FindWord\(0, "COU1"\);) /S /JavaScript >>
+endobj
+239 0 obj
+<< /D [ 9 0 R /FitR 0 595 312 339 ] /Next 299 0 R /S /GoTo >>
+endobj
+240 0 obj
+<< /A 300 0 R /Next 301 0 R /Parent 152 0 R /Prev 192 0 R /Title <feff00550031002d004a0032002d0032> >>
+endobj
+241 0 obj
+<< /D [ 9 0 R /FitR 0 477 368 268 ] /Next 302 0 R /S /GoTo >>
+endobj
+242 0 obj
+<< /A 303 0 R /Next 193 0 R /Parent 152 0 R /Prev 304 0 R /Title <feff00550031002d004a0033002d00310038> >>
+endobj
+243 0 obj
+<< /D [ 9 0 R /FitR 196 529 509 284 ] /Next 305 0 R /S /GoTo >>
+endobj
+244 0 obj
+<< /A 306 0 R /Next 245 0 R /Parent 194 0 R /Title <feff005300570032002d0031> >>
+endobj
+245 0 obj
+<< /A 307 0 R /Parent 194 0 R /Prev 244 0 R /Title <feff005300570032002d0032> >>
+endobj
+246 0 obj
+<< /A 308 0 R /Count -4 /First 309 0 R /Last 310 0 R /Next 194 0 R /Parent 74 0 R /Prev 311 0 R /Title <feff005300570031> >>
+endobj
+247 0 obj
+<< /JS (_FindWord\(0, "PIIRrecv02"\);) /S /JavaScript >>
+endobj
+248 0 obj
+<< /D [ 9 0 R /FitR 142 308 455 83 ] /Next 312 0 R /S /GoTo >>
+endobj
+249 0 obj
+<< /JS (_FindWord\(0, "PIU10J201"\);) /S /JavaScript >>
+endobj
+250 0 obj
+<< /JS (_FindWord\(0, "NL3V3"\);) /S /JavaScript >>
+endobj
+251 0 obj
+<< /D [ 9 0 R /FitR 134 311 447 85 ] /Next 313 0 R /S /GoTo >>
+endobj
+252 0 obj
+<< /JS (_FindWord\(0, "NL3V3"\);) /S /JavaScript >>
+endobj
+253 0 obj
+<< /D [ 9 0 R /FitR 0 449 288 252 ] /Next 314 0 R /S /GoTo >>
+endobj
+254 0 obj
+<< /A 315 0 R /Next 316 0 R /Parent 160 0 R /Prev 202 0 R /Title <feff00430037002d0031> >>
+endobj
+255 0 obj
+<< /D [ 9 0 R /FitR 318 595 578 347 ] /Next 317 0 R /S /GoTo >>
+endobj
+256 0 obj
+<< /A 318 0 R /Next 203 0 R /Parent 160 0 R /Prev 319 0 R /Title <feff00550031002d004a0032002d00310039> >>
+endobj
+257 0 obj
+<< /D [ 9 0 R /FitR 0 482 286 268 ] /Next 320 0 R /S /GoTo >>
+endobj
+258 0 obj
+<< /A 321 0 R /Next 260 0 R /Parent 161 0 R /Prev 205 0 R /Title <feff00350056> >>
+endobj
+259 0 obj
+<< /D [ 9 0 R /FitR 330 595 592 348 ] /Next 322 0 R /S /GoTo >>
+endobj
+260 0 obj
+<< /A 323 0 R /Next 206 0 R /Parent 161 0 R /Prev 258 0 R /Title <feff00350056> >>
+endobj
+261 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+262 0 obj
+<< /A 324 0 R /Next 325 0 R /Parent 208 0 R /Title <feff00430034002d0031> >>
+endobj
+263 0 obj
+<< /A 326 0 R /Parent 208 0 R /Prev 327 0 R /Title <feff00550033002d0031> >>
+endobj
+264 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+265 0 obj
+<< /A 328 0 R /Next 329 0 R /Parent 209 0 R /Title <feff00390056> >>
+endobj
+266 0 obj
+<< /A 330 0 R /Parent 209 0 R /Prev 329 0 R /Title <feff00390056> >>
+endobj
+267 0 obj
+<< /D [ 9 0 R /FitR 42 502 483 149 ] /S /GoTo >>
+endobj
+268 0 obj
+<< /A 331 0 R /Count -3 /First 332 0 R /Last 333 0 R /Next 269 0 R /Parent 210 0 R /Title <feff00500069006e0073> >>
+endobj
+269 0 obj
+<< /A 334 0 R /Count -2 /First 335 0 R /Last 336 0 R /Parent 210 0 R /Prev 268 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+270 0 obj
+<< /A 337 0 R /Count -2 /First 338 0 R /Last 339 0 R /Next 340 0 R /Parent 75 0 R /Prev 210 0 R /Title <feff0047004c00450044> >>
+endobj
+271 0 obj
+<< /JS (_FindWord\(0, "PISERVO0101"\);) /S /JavaScript >>
+endobj
+272 0 obj
+<< /JS (_FindWord\(0, "PIU10J208"\);) /S /JavaScript >>
+endobj
+273 0 obj
+<< /JS (_FindWord\(0, "NLSERVO0PWM02"\);) /S /JavaScript >>
+endobj
+274 0 obj
+<< /JS (_FindWord\(0, "NLSERVO0PWM02"\);) /S /JavaScript >>
+endobj
+275 0 obj
+<< /D [ 9 0 R /FitR 14 312 384 90 ] /Next 341 0 R /S /GoTo >>
+endobj
+276 0 obj
+<< /D [ 9 0 R /FitR 0 562 312 315 ] /Next 342 0 R /S /GoTo >>
+endobj
+277 0 obj
+<< /D [ 9 0 R /FitR 0 567 289 316 ] /Next 343 0 R /S /GoTo >>
+endobj
+278 0 obj
+<< /D [ 9 0 R /FitR 0 316 365 92 ] /Next 344 0 R /S /GoTo >>
+endobj
+279 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+280 0 obj
+<< /A 345 0 R /Next 346 0 R /Parent 222 0 R /Title <feff00430031002d0031> >>
+endobj
+281 0 obj
+<< /A 347 0 R /Parent 222 0 R /Prev 348 0 R /Title <feff00550032002d0033> >>
+endobj
+282 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+283 0 obj
+<< /A 349 0 R /Next 350 0 R /Parent 223 0 R /Title <feff0053004500520056004f005f00350056> >>
+endobj
+284 0 obj
+<< /A 351 0 R /Parent 223 0 R /Prev 350 0 R /Title <feff0053004500520056004f005f00350056> >>
+endobj
+285 0 obj
+<< /D [ 9 0 R /FitR 1 555 375 312 ] /S /GoTo >>
+endobj
+286 0 obj
+<< /A 352 0 R /Count -2 /First 353 0 R /Last 354 0 R /Next 287 0 R /Parent 224 0 R /Title <feff00500069006e0073> >>
+endobj
+287 0 obj
+<< /A 355 0 R /Count -2 /First 356 0 R /Last 357 0 R /Parent 224 0 R /Prev 286 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+288 0 obj
+<< /A 358 0 R /Count -2 /First 359 0 R /Last 360 0 R /Next 224 0 R /Parent 75 0 R /Prev 361 0 R /Title <feff005300450047004d0045004e0054005f0046> >>
+endobj
+289 0 obj
+<< /JS (_FindWord\(0, "PIC301"\);) /S /JavaScript >>
+endobj
+290 0 obj
+<< /JS (_FindWord\(0, "PIC302"\);) /S /JavaScript >>
+endobj
+291 0 obj
+<< /JS (_FindWord\(0, "COC4"\);) /S /JavaScript >>
+endobj
+292 0 obj
+<< /D [ 9 0 R /FitR 139 595 447 331 ] /Next 362 0 R /S /GoTo >>
+endobj
+293 0 obj
+<< /D [ 9 0 R /FitR 139 582 447 323 ] /Next 363 0 R /S /GoTo >>
+endobj
+294 0 obj
+<< /D [ 9 0 R /FitR 270 593 538 323 ] /Next 364 0 R /S /GoTo >>
+endobj
+295 0 obj
+<< /A 365 0 R /Next 296 0 R /Parent 233 0 R /Title <feff00430035002d0031> >>
+endobj
+296 0 obj
+<< /A 366 0 R /Parent 233 0 R /Prev 295 0 R /Title <feff00430035002d0032> >>
+endobj
+297 0 obj
+<< /A 367 0 R /Count -2 /First 368 0 R /Last 369 0 R /Next 370 0 R /Parent 74 0 R /Prev 233 0 R /Title <feff00430036> >>
+endobj
+298 0 obj
+<< /JS (_FindWord\(0, "PIU202"\);) /S /JavaScript >>
+endobj
+299 0 obj
+<< /JS (_FindWord\(0, "PIU10J201"\);) /S /JavaScript >>
+endobj
+300 0 obj
+<< /D [ 9 0 R /FitR 0 595 312 335 ] /Next 371 0 R /S /GoTo >>
+endobj
+301 0 obj
+<< /A 372 0 R /Next 373 0 R /Parent 152 0 R /Prev 240 0 R /Title <feff00550031002d004a0032002d0033> >>
+endobj
+302 0 obj
+<< /JS (_FindWord\(0, "PIU10J3019"\);) /S /JavaScript >>
+endobj
+303 0 obj
+<< /D [ 9 0 R /FitR 0 484 368 272 ] /Next 374 0 R /S /GoTo >>
+endobj
+304 0 obj
+<< /A 375 0 R /Next 242 0 R /Parent 152 0 R /Prev 376 0 R /Title <feff00550031002d004a0033002d00310037> >>
+endobj
+305 0 obj
+<< /JS (_FindWord\(0, "COSW2"\);) /S /JavaScript >>
+endobj
+306 0 obj
+<< /D [ 9 0 R /FitR 184 520 477 291 ] /Next 377 0 R /S /GoTo >>
+endobj
+307 0 obj
+<< /D [ 9 0 R /FitR 213 520 495 291 ] /Next 378 0 R /S /GoTo >>
+endobj
+308 0 obj
+<< /D [ 9 0 R /FitR 151 324 479 79 ] /Next 379 0 R /S /GoTo >>
+endobj
+309 0 obj
+<< /A 380 0 R /Next 381 0 R /Parent 246 0 R /Title <feff005300570031002d0031> >>
+endobj
+310 0 obj
+<< /A 382 0 R /Parent 246 0 R /Prev 383 0 R /Title <feff005300570031002d0034> >>
+endobj
+311 0 obj
+<< /A 384 0 R /Count -3 /First 385 0 R /Last 386 0 R /Next 246 0 R /Parent 74 0 R /Prev 387 0 R /Title <feff0053004500520056004f005f0032> >>
+endobj
+312 0 obj
+<< /JS (_FindWord\(0, "PISW102"\);) /S /JavaScript >>
+endobj
+313 0 obj
+<< /JS (_FindWord\(0, "NL3V3"\);) /S /JavaScript >>
+endobj
+314 0 obj
+<< /JS (_FindWord\(0, "PIC301"\);) /S /JavaScript >>
+endobj
+315 0 obj
+<< /D [ 9 0 R /FitR 321 595 574 331 ] /Next 388 0 R /S /GoTo >>
+endobj
+316 0 obj
+<< /A 389 0 R /Next 319 0 R /Parent 160 0 R /Prev 254 0 R /Title <feff004d004f00540049004f004e005f0031002d0031> >>
+endobj
+317 0 obj
+<< /JS (_FindWord\(0, "PIU303"\);) /S /JavaScript >>
+endobj
+318 0 obj
+<< /D [ 9 0 R /FitR 0 477 312 268 ] /Next 390 0 R /S /GoTo >>
+endobj
+319 0 obj
+<< /A 391 0 R /Next 256 0 R /Parent 160 0 R /Prev 316 0 R /Title <feff00520032002d0031> >>
+endobj
+320 0 obj
+<< /JS (_FindWord\(0, "NL5V"\);) /S /JavaScript >>
+endobj
+321 0 obj
+<< /D [ 9 0 R /FitR 0 228 307 0 ] /Next 392 0 R /S /GoTo >>
+endobj
+322 0 obj
+<< /JS (_FindWord\(0, "NL5V"\);) /S /JavaScript >>
+endobj
+323 0 obj
+<< /D [ 9 0 R /FitR 134 367 446 184 ] /Next 393 0 R /S /GoTo >>
+endobj
+324 0 obj
+<< /D [ 9 0 R /FitR 139 595 447 331 ] /Next 394 0 R /S /GoTo >>
+endobj
+325 0 obj
+<< /A 395 0 R /Next 396 0 R /Parent 208 0 R /Prev 262 0 R /Title <feff00430035002d0031> >>
+endobj
+326 0 obj
+<< /D [ 9 0 R /FitR 276 595 531 347 ] /Next 397 0 R /S /GoTo >>
+endobj
+327 0 obj
+<< /A 398 0 R /Next 263 0 R /Parent 208 0 R /Prev 399 0 R /Title <feff00550032002d0031> >>
+endobj
+328 0 obj
+<< /D [ 9 0 R /FitR 119 595 438 348 ] /Next 400 0 R /S /GoTo >>
+endobj
+329 0 obj
+<< /A 401 0 R /Next 266 0 R /Parent 209 0 R /Prev 265 0 R /Title <feff00390056> >>
+endobj
+330 0 obj
+<< /D [ 9 0 R /FitR 254 595 513 348 ] /Next 402 0 R /S /GoTo >>
+endobj
+331 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+332 0 obj
+<< /A 403 0 R /Next 404 0 R /Parent 268 0 R /Title <feff00520031002d0031> >>
+endobj
+333 0 obj
+<< /A 405 0 R /Parent 268 0 R /Prev 404 0 R /Title <feff00550031002d004a0033002d0036> >>
+endobj
+334 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+335 0 obj
+<< /A 406 0 R /Next 336 0 R /Parent 269 0 R /Title <feff0042005500540054004f004e005f0049004e005000550054> >>
+endobj
+336 0 obj
+<< /A 407 0 R /Parent 269 0 R /Prev 335 0 R /Title <feff0042005500540054004f004e005f0049004e005000550054> >>
+endobj
+337 0 obj
+<< /D [ 9 0 R /FitR 0 451 375 51 ] /S /GoTo >>
+endobj
+338 0 obj
+<< /A 408 0 R /Count -2 /First 409 0 R /Last 410 0 R /Next 339 0 R /Parent 270 0 R /Title <feff00500069006e0073> >>
+endobj
+339 0 obj
+<< /A 411 0 R /Count -2 /First 412 0 R /Last 413 0 R /Parent 270 0 R /Prev 338 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+340 0 obj
+<< /A 414 0 R /Count -1 /First 415 0 R /Last 415 0 R /Next 416 0 R /Parent 75 0 R /Prev 270 0 R /Title <feff0047004e0044> >>
+endobj
+341 0 obj
+<< /JS (_FindWord\(0, "PISERVO0201"\);) /S /JavaScript >>
+endobj
+342 0 obj
+<< /JS (_FindWord\(0, "PIU10J207"\);) /S /JavaScript >>
+endobj
+343 0 obj
+<< /JS (_FindWord\(0, "NLSERVO0PWM01"\);) /S /JavaScript >>
+endobj
+344 0 obj
+<< /JS (_FindWord\(0, "NLSERVO0PWM01"\);) /S /JavaScript >>
+endobj
+345 0 obj
+<< /D [ 9 0 R /FitR 0 336 364 132 ] /Next 417 0 R /S /GoTo >>
+endobj
+346 0 obj
+<< /A 418 0 R /Next 419 0 R /Parent 222 0 R /Prev 280 0 R /Title <feff00430032002d0031> >>
+endobj
+347 0 obj
+<< /D [ 9 0 R /FitR 205 595 491 347 ] /Next 420 0 R /S /GoTo >>
+endobj
+348 0 obj
+<< /A 421 0 R /Next 281 0 R /Parent 222 0 R /Prev 422 0 R /Title <feff0053004500520056004f005f0032002d0032> >>
+endobj
+349 0 obj
+<< /D [ 9 0 R /FitR 0 311 360 85 ] /Next 423 0 R /S /GoTo >>
+endobj
+350 0 obj
+<< /A 424 0 R /Next 284 0 R /Parent 223 0 R /Prev 283 0 R /Title <feff0053004500520056004f005f00350056> >>
+endobj
+351 0 obj
+<< /D [ 9 0 R /FitR 222 595 503 348 ] /Next 425 0 R /S /GoTo >>
+endobj
+352 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+353 0 obj
+<< /A 426 0 R /Next 354 0 R /Parent 286 0 R /Title <feff004400530031002d00310030> >>
+endobj
+354 0 obj
+<< /A 427 0 R /Parent 286 0 R /Prev 353 0 R /Title <feff00550031002d004a0033002d0038> >>
+endobj
+355 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+356 0 obj
+<< /A 428 0 R /Next 357 0 R /Parent 287 0 R /Title <feff005300450047004d0045004e0054005f0047> >>
+endobj
+357 0 obj
+<< /A 429 0 R /Parent 287 0 R /Prev 356 0 R /Title <feff005300450047004d0045004e0054005f0047> >>
+endobj
+358 0 obj
+<< /D [ 9 0 R /FitR 1 548 375 308 ] /S /GoTo >>
+endobj
+359 0 obj
+<< /A 430 0 R /Count -2 /First 431 0 R /Last 432 0 R /Next 360 0 R /Parent 288 0 R /Title <feff00500069006e0073> >>
+endobj
+360 0 obj
+<< /A 433 0 R /Count -2 /First 434 0 R /Last 435 0 R /Parent 288 0 R /Prev 359 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+361 0 obj
+<< /A 436 0 R /Count -2 /First 437 0 R /Last 438 0 R /Next 288 0 R /Parent 75 0 R /Prev 439 0 R /Title <feff005300450047004d0045004e0054005f0045> >>
+endobj
+362 0 obj
+<< /JS (_FindWord\(0, "PIC401"\);) /S /JavaScript >>
+endobj
+363 0 obj
+<< /JS (_FindWord\(0, "PIC402"\);) /S /JavaScript >>
+endobj
+364 0 obj
+<< /JS (_FindWord\(0, "COC5"\);) /S /JavaScript >>
+endobj
+365 0 obj
+<< /D [ 9 0 R /FitR 266 595 519 331 ] /Next 440 0 R /S /GoTo >>
+endobj
+366 0 obj
+<< /D [ 9 0 R /FitR 266 582 519 323 ] /Next 441 0 R /S /GoTo >>
+endobj
+367 0 obj
+<< /D [ 9 0 R /FitR 220 593 510 323 ] /Next 442 0 R /S /GoTo >>
+endobj
+368 0 obj
+<< /A 443 0 R /Next 369 0 R /Parent 297 0 R /Title <feff00430036002d0031> >>
+endobj
+369 0 obj
+<< /A 444 0 R /Parent 297 0 R /Prev 368 0 R /Title <feff00430036002d0032> >>
+endobj
+370 0 obj
+<< /A 445 0 R /Count -2 /First 446 0 R /Last 447 0 R /Next 448 0 R /Parent 74 0 R /Prev 297 0 R /Title <feff00430037> >>
+endobj
+371 0 obj
+<< /JS (_FindWord\(0, "PIU10J202"\);) /S /JavaScript >>
+endobj
+372 0 obj
+<< /D [ 9 0 R /FitR 0 591 312 331 ] /Next 449 0 R /S /GoTo >>
+endobj
+373 0 obj
+<< /A 450 0 R /Next 451 0 R /Parent 152 0 R /Prev 301 0 R /Title <feff00550031002d004a0032002d0034> >>
+endobj
+374 0 obj
+<< /JS (_FindWord\(0, "PIU10J3018"\);) /S /JavaScript >>
+endobj
+375 0 obj
+<< /D [ 9 0 R /FitR 0 492 368 275 ] /Next 452 0 R /S /GoTo >>
+endobj
+376 0 obj
+<< /A 453 0 R /Next 304 0 R /Parent 152 0 R /Prev 454 0 R /Title <feff00550031002d004a0033002d00310036> >>
+endobj
+377 0 obj
+<< /JS (_FindWord\(0, "PISW201"\);) /S /JavaScript >>
+endobj
+378 0 obj
+<< /JS (_FindWord\(0, "PISW202"\);) /S /JavaScript >>
+endobj
+379 0 obj
+<< /JS (_FindWord\(0, "COSW1"\);) /S /JavaScript >>
+endobj
+380 0 obj
+<< /D [ 9 0 R /FitR 142 316 455 97 ] /Next 455 0 R /S /GoTo >>
+endobj
+381 0 obj
+<< /A 456 0 R /Next 383 0 R /Parent 246 0 R /Prev 309 0 R /Title <feff005300570031002d0032> >>
+endobj
+382 0 obj
+<< /D [ 9 0 R /FitR 184 308 479 83 ] /Next 457 0 R /S /GoTo >>
+endobj
+383 0 obj
+<< /A 458 0 R /Next 310 0 R /Parent 246 0 R /Prev 381 0 R /Title <feff005300570031002d0033> >>
+endobj
+384 0 obj
+<< /D [ 9 0 R /FitR 20 319 399 72 ] /Next 459 0 R /S /GoTo >>
+endobj
+385 0 obj
+<< /A 460 0 R /Next 461 0 R /Parent 311 0 R /Title <feff0053004500520056004f005f0032002d0031> >>
+endobj
+386 0 obj
+<< /A 462 0 R /Parent 311 0 R /Prev 461 0 R /Title <feff0053004500520056004f005f0032002d0033> >>
+endobj
+387 0 obj
+<< /A 463 0 R /Count -3 /First 464 0 R /Last 465 0 R /Next 311 0 R /Parent 74 0 R /Prev 466 0 R /Title <feff0053004500520056004f005f0031> >>
+endobj
+388 0 obj
+<< /JS (_FindWord\(0, "PIC701"\);) /S /JavaScript >>
+endobj
+389 0 obj
+<< /D [ 9 0 R /FitR 184 364 479 182 ] /Next 467 0 R /S /GoTo >>
+endobj
+390 0 obj
+<< /JS (_FindWord\(0, "PIU10J2019"\);) /S /JavaScript >>
+endobj
+391 0 obj
+<< /D [ 9 0 R /FitR 0 225 321 0 ] /Next 468 0 R /S /GoTo >>
+endobj
+392 0 obj
+<< /JS (_FindWord\(0, "NL5V"\);) /S /JavaScript >>
+endobj
+393 0 obj
+<< /JS (_FindWord\(0, "NL5V"\);) /S /JavaScript >>
+endobj
+394 0 obj
+<< /JS (_FindWord\(0, "PIC401"\);) /S /JavaScript >>
+endobj
+395 0 obj
+<< /D [ 9 0 R /FitR 266 595 519 331 ] /Next 469 0 R /S /GoTo >>
+endobj
+396 0 obj
+<< /A 470 0 R /Next 399 0 R /Parent 208 0 R /Prev 325 0 R /Title <feff00430038002d0031> >>
+endobj
+397 0 obj
+<< /JS (_FindWord\(0, "PIU301"\);) /S /JavaScript >>
+endobj
+398 0 obj
+<< /D [ 9 0 R /FitR 149 595 459 347 ] /Next 471 0 R /S /GoTo >>
+endobj
+399 0 obj
+<< /A 472 0 R /Next 327 0 R /Parent 208 0 R /Prev 396 0 R /Title <feff005300570032002d0032> >>
+endobj
+400 0 obj
+<< /JS (_FindWord\(0, "NL9V"\);) /S /JavaScript >>
+endobj
+401 0 obj
+<< /D [ 9 0 R /FitR 240 525 505 292 ] /Next 473 0 R /S /GoTo >>
+endobj
+402 0 obj
+<< /JS (_FindWord\(0, "NL9V"\);) /S /JavaScript >>
+endobj
+403 0 obj
+<< /D [ 9 0 R /FitR 204 316 487 97 ] /Next 474 0 R /S /GoTo >>
+endobj
+404 0 obj
+<< /A 475 0 R /Next 333 0 R /Parent 268 0 R /Prev 332 0 R /Title <feff005300570031002d0033> >>
+endobj
+405 0 obj
+<< /D [ 9 0 R /FitR 0 569 368 319 ] /Next 476 0 R /S /GoTo >>
+endobj
+406 0 obj
+<< /D [ 9 0 R /FitR 20 574 394 320 ] /Next 477 0 R /S /GoTo >>
+endobj
+407 0 obj
+<< /D [ 9 0 R /FitR 204 332 497 121 ] /Next 478 0 R /S /GoTo >>
+endobj
+408 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+409 0 obj
+<< /A 479 0 R /Next 410 0 R /Parent 338 0 R /Title <feff00520038002d0031> >>
+endobj
+410 0 obj
+<< /A 480 0 R /Parent 338 0 R /Prev 409 0 R /Title <feff00550031002d004a0033002d00310035> >>
+endobj
+411 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+412 0 obj
+<< /A 481 0 R /Next 413 0 R /Parent 339 0 R /Title <feff0047004c00450044> >>
+endobj
+413 0 obj
+<< /A 482 0 R /Parent 339 0 R /Prev 412 0 R /Title <feff0047004c00450044> >>
+endobj
+414 0 obj
+<< /D [ 9 0 R /FitR 0 507 558 44 ] /S /GoTo >>
+endobj
+415 0 obj
+<< /A 483 0 R /Count -25 /First 484 0 R /Last 485 0 R /Parent 340 0 R /Title <feff00500069006e0073> >>
+endobj
+416 0 obj
+<< /A 486 0 R /Count -2 /First 487 0 R /Last 488 0 R /Next 489 0 R /Parent 75 0 R /Prev 340 0 R /Title <feff004900520072006500630076005f00500057004d> >>
+endobj
+417 0 obj
+<< /JS (_FindWord\(0, "PIC101"\);) /S /JavaScript >>
+endobj
+418 0 obj
+<< /D [ 9 0 R /FitR 0 289 360 48 ] /Next 490 0 R /S /GoTo >>
+endobj
+419 0 obj
+<< /A 491 0 R /Next 422 0 R /Parent 222 0 R /Prev 346 0 R /Title <feff00430036002d0031> >>
+endobj
+420 0 obj
+<< /JS (_FindWord\(0, "PIU203"\);) /S /JavaScript >>
+endobj
+421 0 obj
+<< /D [ 9 0 R /FitR 14 308 384 83 ] /Next 492 0 R /S /GoTo >>
+endobj
+422 0 obj
+<< /A 493 0 R /Next 348 0 R /Parent 222 0 R /Prev 419 0 R /Title <feff0053004500520056004f005f0031002d0032> >>
+endobj
+423 0 obj
+<< /JS (_FindWord\(0, "NLSERVO05V"\);) /S /JavaScript >>
+endobj
+424 0 obj
+<< /D [ 9 0 R /FitR 0 359 360 170 ] /Next 494 0 R /S /GoTo >>
+endobj
+425 0 obj
+<< /JS (_FindWord\(0, "NLSERVO05V"\);) /S /JavaScript >>
+endobj
+426 0 obj
+<< /D [ 9 0 R /FitR 0 312 320 90 ] /Next 495 0 R /S /GoTo >>
+endobj
+427 0 obj
+<< /D [ 9 0 R /FitR 0 555 368 311 ] /Next 496 0 R /S /GoTo >>
+endobj
+428 0 obj
+<< /D [ 9 0 R /FitR 0 316 333 92 ] /Next 497 0 R /S /GoTo >>
+endobj
+429 0 obj
+<< /D [ 9 0 R /FitR 18 560 389 312 ] /Next 498 0 R /S /GoTo >>
+endobj
+430 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+431 0 obj
+<< /A 499 0 R /Next 432 0 R /Parent 359 0 R /Title <feff004400530031002d0039> >>
+endobj
+432 0 obj
+<< /A 500 0 R /Parent 359 0 R /Prev 431 0 R /Title <feff00550031002d004a0033002d0039> >>
+endobj
+433 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+434 0 obj
+<< /A 501 0 R /Next 435 0 R /Parent 360 0 R /Title <feff005300450047004d0045004e0054005f0046> >>
+endobj
+435 0 obj
+<< /A 502 0 R /Parent 360 0 R /Prev 434 0 R /Title <feff005300450047004d0045004e0054005f0046> >>
+endobj
+436 0 obj
+<< /D [ 9 0 R /FitR 1 519 375 292 ] /S /GoTo >>
+endobj
+437 0 obj
+<< /A 503 0 R /Count -2 /First 504 0 R /Last 505 0 R /Next 438 0 R /Parent 361 0 R /Title <feff00500069006e0073> >>
+endobj
+438 0 obj
+<< /A 506 0 R /Count -2 /First 507 0 R /Last 508 0 R /Parent 361 0 R /Prev 437 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+439 0 obj
+<< /A 509 0 R /Count -2 /First 510 0 R /Last 511 0 R /Next 361 0 R /Parent 75 0 R /Prev 512 0 R /Title <feff005300450047004d0045004e0054005f0044> >>
+endobj
+440 0 obj
+<< /JS (_FindWord\(0, "PIC501"\);) /S /JavaScript >>
+endobj
+441 0 obj
+<< /JS (_FindWord\(0, "PIC502"\);) /S /JavaScript >>
+endobj
+442 0 obj
+<< /JS (_FindWord\(0, "COC6"\);) /S /JavaScript >>
+endobj
+443 0 obj
+<< /D [ 9 0 R /FitR 216 595 491 331 ] /Next 513 0 R /S /GoTo >>
+endobj
+444 0 obj
+<< /D [ 9 0 R /FitR 216 582 491 323 ] /Next 514 0 R /S /GoTo >>
+endobj
+445 0 obj
+<< /D [ 9 0 R /FitR 319 593 599 323 ] /Next 515 0 R /S /GoTo >>
+endobj
+446 0 obj
+<< /A 516 0 R /Next 447 0 R /Parent 370 0 R /Title <feff00430037002d0031> >>
+endobj
+447 0 obj
+<< /A 517 0 R /Parent 370 0 R /Prev 446 0 R /Title <feff00430037002d0032> >>
+endobj
+448 0 obj
+<< /A 518 0 R /Count -2 /First 519 0 R /Last 520 0 R /Next 521 0 R /Parent 74 0 R /Prev 370 0 R /Title <feff00430038> >>
+endobj
+449 0 obj
+<< /JS (_FindWord\(0, "PIU10J203"\);) /S /JavaScript >>
+endobj
+450 0 obj
+<< /D [ 9 0 R /FitR 0 583 312 327 ] /Next 522 0 R /S /GoTo >>
+endobj
+451 0 obj
+<< /A 523 0 R /Next 524 0 R /Parent 152 0 R /Prev 373 0 R /Title <feff00550031002d004a0032002d0035> >>
+endobj
+452 0 obj
+<< /JS (_FindWord\(0, "PIU10J3017"\);) /S /JavaScript >>
+endobj
+453 0 obj
+<< /D [ 9 0 R /FitR 0 499 368 280 ] /Next 525 0 R /S /GoTo >>
+endobj
+454 0 obj
+<< /A 526 0 R /Next 376 0 R /Parent 152 0 R /Prev 527 0 R /Title <feff00550031002d004a0033002d00310035> >>
+endobj
+455 0 obj
+<< /JS (_FindWord\(0, "PISW101"\);) /S /JavaScript >>
+endobj
+456 0 obj
+<< /D [ 9 0 R /FitR 142 308 455 83 ] /Next 528 0 R /S /GoTo >>
+endobj
+457 0 obj
+<< /JS (_FindWord\(0, "PISW104"\);) /S /JavaScript >>
+endobj
+458 0 obj
+<< /D [ 9 0 R /FitR 184 316 479 97 ] /Next 529 0 R /S /GoTo >>
+endobj
+459 0 obj
+<< /JS (_FindWord\(0, "COSERVO02"\);) /S /JavaScript >>
+endobj
+460 0 obj
+<< /D [ 9 0 R /FitR 14 312 384 90 ] /Next 530 0 R /S /GoTo >>
+endobj
+461 0 obj
+<< /A 531 0 R /Next 386 0 R /Parent 311 0 R /Prev 385 0 R /Title <feff0053004500520056004f005f0032002d0032> >>
+endobj
+462 0 obj
+<< /D [ 9 0 R /FitR 14 304 384 76 ] /Next 532 0 R /S /GoTo >>
+endobj
+463 0 obj
+<< /D [ 9 0 R /FitR 20 367 399 157 ] /Next 533 0 R /S /GoTo >>
+endobj
+464 0 obj
+<< /A 534 0 R /Next 535 0 R /Parent 387 0 R /Title <feff0053004500520056004f005f0031002d0031> >>
+endobj
+465 0 obj
+<< /A 536 0 R /Parent 387 0 R /Prev 535 0 R /Title <feff0053004500520056004f005f0031002d0033> >>
+endobj
+466 0 obj
+<< /A 537 0 R /Count -2 /First 538 0 R /Last 539 0 R /Next 387 0 R /Parent 74 0 R /Prev 540 0 R /Title <feff00520038> >>
+endobj
+467 0 obj
+<< /JS (_FindWord\(0, "PIMOTION0101"\);) /S /JavaScript >>
+endobj
+468 0 obj
+<< /JS (_FindWord\(0, "PIR201"\);) /S /JavaScript >>
+endobj
+469 0 obj
+<< /JS (_FindWord\(0, "PIC501"\);) /S /JavaScript >>
+endobj
+470 0 obj
+<< /D [ 9 0 R /FitR 231 511 499 283 ] /Next 541 0 R /S /GoTo >>
+endobj
+471 0 obj
+<< /JS (_FindWord\(0, "PIU201"\);) /S /JavaScript >>
+endobj
+472 0 obj
+<< /D [ 9 0 R /FitR 213 520 495 291 ] /Next 542 0 R /S /GoTo >>
+endobj
+473 0 obj
+<< /JS (_FindWord\(0, "NL9V"\);) /S /JavaScript >>
+endobj
+474 0 obj
+<< /JS (_FindWord\(0, "PIR101"\);) /S /JavaScript >>
+endobj
+475 0 obj
+<< /D [ 9 0 R /FitR 184 316 479 97 ] /Next 543 0 R /S /GoTo >>
+endobj
+476 0 obj
+<< /JS (_FindWord\(0, "PIU10J306"\);) /S /JavaScript >>
+endobj
+477 0 obj
+<< /JS (_FindWord\(0, "NLBUTTON0INPUT"\);) /S /JavaScript >>
+endobj
+478 0 obj
+<< /JS (_FindWord\(0, "NLBUTTON0INPUT"\);) /S /JavaScript >>
+endobj
+479 0 obj
+<< /D [ 9 0 R /FitR 0 245 321 0 ] /Next 544 0 R /S /GoTo >>
+endobj
+480 0 obj
+<< /D [ 9 0 R /FitR 0 506 368 283 ] /Next 545 0 R /S /GoTo >>
+endobj
+481 0 obj
+<< /D [ 9 0 R /FitR 0 248 310 0 ] /Next 546 0 R /S /GoTo >>
+endobj
+482 0 obj
+<< /D [ 9 0 R /FitR 15 511 381 284 ] /Next 547 0 R /S /GoTo >>
+endobj
+483 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+484 0 obj
+<< /A 548 0 R /Next 549 0 R /Parent 415 0 R /Title <feff00430031002d0032> >>
+endobj
+485 0 obj
+<< /A 550 0 R /Parent 415 0 R /Prev 551 0 R /Title <feff00550033002d0032> >>
+endobj
+486 0 obj
+<< /D [ 9 0 R /FitR 0 527 542 196 ] /S /GoTo >>
+endobj
+487 0 obj
+<< /A 552 0 R /Count -2 /First 553 0 R /Last 554 0 R /Next 488 0 R /Parent 416 0 R /Title <feff00500069006e0073> >>
+endobj
+488 0 obj
+<< /A 555 0 R /Count -2 /First 556 0 R /Last 557 0 R /Parent 416 0 R /Prev 487 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+489 0 obj
+<< /A 558 0 R /Count -2 /First 559 0 R /Last 560 0 R /Next 561 0 R /Parent 75 0 R /Prev 416 0 R /Title <feff004d004f00540049004f004e005f00500057004d> >>
+endobj
+490 0 obj
+<< /JS (_FindWord\(0, "PIC201"\);) /S /JavaScript >>
+endobj
+491 0 obj
+<< /D [ 9 0 R /FitR 216 595 491 331 ] /Next 562 0 R /S /GoTo >>
+endobj
+492 0 obj
+<< /JS (_FindWord\(0, "PISERVO0202"\);) /S /JavaScript >>
+endobj
+493 0 obj
+<< /D [ 9 0 R /FitR 14 356 384 168 ] /Next 563 0 R /S /GoTo >>
+endobj
+494 0 obj
+<< /JS (_FindWord\(0, "NLSERVO05V"\);) /S /JavaScript >>
+endobj
+495 0 obj
+<< /JS (_FindWord\(0, "PIDS1010"\);) /S /JavaScript >>
+endobj
+496 0 obj
+<< /JS (_FindWord\(0, "PIU10J308"\);) /S /JavaScript >>
+endobj
+497 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0G"\);) /S /JavaScript >>
+endobj
+498 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0G"\);) /S /JavaScript >>
+endobj
+499 0 obj
+<< /D [ 9 0 R /FitR 0 320 320 104 ] /Next 564 0 R /S /GoTo >>
+endobj
+500 0 obj
+<< /D [ 9 0 R /FitR 0 548 368 307 ] /Next 565 0 R /S /GoTo >>
+endobj
+501 0 obj
+<< /D [ 9 0 R /FitR 0 324 333 106 ] /Next 566 0 R /S /GoTo >>
+endobj
+502 0 obj
+<< /D [ 9 0 R /FitR 18 553 389 308 ] /Next 567 0 R /S /GoTo >>
+endobj
+503 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+504 0 obj
+<< /A 568 0 R /Next 505 0 R /Parent 437 0 R /Title <feff004400530031002d0031> >>
+endobj
+505 0 obj
+<< /A 569 0 R /Parent 437 0 R /Prev 504 0 R /Title <feff00550031002d004a0033002d00310033> >>
+endobj
+506 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+507 0 obj
+<< /A 570 0 R /Next 508 0 R /Parent 438 0 R /Title <feff005300450047004d0045004e0054005f0045> >>
+endobj
+508 0 obj
+<< /A 571 0 R /Parent 438 0 R /Prev 507 0 R /Title <feff005300450047004d0045004e0054005f0045> >>
+endobj
+509 0 obj
+<< /D [ 9 0 R /FitR 1 512 375 288 ] /S /GoTo >>
+endobj
+510 0 obj
+<< /A 572 0 R /Count -2 /First 573 0 R /Last 574 0 R /Next 511 0 R /Parent 439 0 R /Title <feff00500069006e0073> >>
+endobj
+511 0 obj
+<< /A 575 0 R /Count -2 /First 576 0 R /Last 577 0 R /Parent 439 0 R /Prev 510 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+512 0 obj
+<< /A 578 0 R /Count -2 /First 579 0 R /Last 580 0 R /Next 439 0 R /Parent 75 0 R /Prev 581 0 R /Title <feff005300450047004d0045004e0054005f0043> >>
+endobj
+513 0 obj
+<< /JS (_FindWord\(0, "PIC601"\);) /S /JavaScript >>
+endobj
+514 0 obj
+<< /JS (_FindWord\(0, "PIC602"\);) /S /JavaScript >>
+endobj
+515 0 obj
+<< /JS (_FindWord\(0, "COC7"\);) /S /JavaScript >>
+endobj
+516 0 obj
+<< /D [ 9 0 R /FitR 321 595 574 331 ] /Next 582 0 R /S /GoTo >>
+endobj
+517 0 obj
+<< /D [ 9 0 R /FitR 321 582 574 323 ] /Next 583 0 R /S /GoTo >>
+endobj
+518 0 obj
+<< /D [ 9 0 R /FitR 230 508 505 275 ] /Next 584 0 R /S /GoTo >>
+endobj
+519 0 obj
+<< /A 585 0 R /Next 520 0 R /Parent 448 0 R /Title <feff00430038002d0031> >>
+endobj
+520 0 obj
+<< /A 586 0 R /Parent 448 0 R /Prev 519 0 R /Title <feff00430038002d0032> >>
+endobj
+521 0 obj
+<< /A 587 0 R /Count -2 /First 588 0 R /Last 589 0 R /Next 590 0 R /Parent 74 0 R /Prev 448 0 R /Title <feff00440031> >>
+endobj
+522 0 obj
+<< /JS (_FindWord\(0, "PIU10J204"\);) /S /JavaScript >>
+endobj
+523 0 obj
+<< /D [ 9 0 R /FitR 0 576 312 323 ] /Next 591 0 R /S /GoTo >>
+endobj
+524 0 obj
+<< /A 592 0 R /Next 593 0 R /Parent 152 0 R /Prev 451 0 R /Title <feff00550031002d004a0032002d0036> >>
+endobj
+525 0 obj
+<< /JS (_FindWord\(0, "PIU10J3016"\);) /S /JavaScript >>
+endobj
+526 0 obj
+<< /D [ 9 0 R /FitR 0 506 368 283 ] /Next 594 0 R /S /GoTo >>
+endobj
+527 0 obj
+<< /A 595 0 R /Next 454 0 R /Parent 152 0 R /Prev 596 0 R /Title <feff00550031002d004a0033002d00310034> >>
+endobj
+528 0 obj
+<< /JS (_FindWord\(0, "PISW102"\);) /S /JavaScript >>
+endobj
+529 0 obj
+<< /JS (_FindWord\(0, "PISW103"\);) /S /JavaScript >>
+endobj
+530 0 obj
+<< /JS (_FindWord\(0, "PISERVO0201"\);) /S /JavaScript >>
+endobj
+531 0 obj
+<< /D [ 9 0 R /FitR 14 308 384 83 ] /Next 597 0 R /S /GoTo >>
+endobj
+532 0 obj
+<< /JS (_FindWord\(0, "PISERVO0203"\);) /S /JavaScript >>
+endobj
+533 0 obj
+<< /JS (_FindWord\(0, "COSERVO01"\);) /S /JavaScript >>
+endobj
+534 0 obj
+<< /D [ 9 0 R /FitR 14 360 384 175 ] /Next 598 0 R /S /GoTo >>
+endobj
+535 0 obj
+<< /A 599 0 R /Next 465 0 R /Parent 387 0 R /Prev 464 0 R /Title <feff0053004500520056004f005f0031002d0032> >>
+endobj
+536 0 obj
+<< /D [ 9 0 R /FitR 14 352 384 161 ] /Next 600 0 R /S /GoTo >>
+endobj
+537 0 obj
+<< /D [ 9 0 R /FitR 0 249 332 0 ] /Next 601 0 R /S /GoTo >>
+endobj
+538 0 obj
+<< /A 602 0 R /Next 539 0 R /Parent 466 0 R /Title <feff00520038002d0031> >>
+endobj
+539 0 obj
+<< /A 603 0 R /Parent 466 0 R /Prev 538 0 R /Title <feff00520038002d0032> >>
+endobj
+540 0 obj
+<< /A 604 0 R /Count -2 /First 605 0 R /Last 606 0 R /Next 466 0 R /Parent 74 0 R /Prev 607 0 R /Title <feff00520037> >>
+endobj
+541 0 obj
+<< /JS (_FindWord\(0, "PIC801"\);) /S /JavaScript >>
+endobj
+542 0 obj
+<< /JS (_FindWord\(0, "PISW202"\);) /S /JavaScript >>
+endobj
+543 0 obj
+<< /JS (_FindWord\(0, "PISW103"\);) /S /JavaScript >>
+endobj
+544 0 obj
+<< /JS (_FindWord\(0, "PIR801"\);) /S /JavaScript >>
+endobj
+545 0 obj
+<< /JS (_FindWord\(0, "PIU10J3015"\);) /S /JavaScript >>
+endobj
+546 0 obj
+<< /JS (_FindWord\(0, "NLGLED"\);) /S /JavaScript >>
+endobj
+547 0 obj
+<< /JS (_FindWord\(0, "NLGLED"\);) /S /JavaScript >>
+endobj
+548 0 obj
+<< /D [ 9 0 R /FitR 0 336 372 132 ] /Next 608 0 R /S /GoTo >>
+endobj
+549 0 obj
+<< /A 609 0 R /Next 610 0 R /Parent 415 0 R /Prev 484 0 R /Title <feff00430032002d0032> >>
+endobj
+550 0 obj
+<< /D [ 9 0 R /FitR 306 595 546 331 ] /Next 611 0 R /S /GoTo >>
+endobj
+551 0 obj
+<< /A 612 0 R /Next 485 0 R /Parent 415 0 R /Prev 613 0 R /Title <feff00550032002d0032> >>
+endobj
+552 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+553 0 obj
+<< /A 614 0 R /Next 554 0 R /Parent 487 0 R /Title <feff004900520072006500630076002d0031> >>
+endobj
+554 0 obj
+<< /A 615 0 R /Parent 487 0 R /Prev 553 0 R /Title <feff00550031002d004a0032002d0035> >>
+endobj
+555 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+556 0 obj
+<< /A 616 0 R /Next 557 0 R /Parent 488 0 R /Title <feff004900520072006500630076005f00500057004d> >>
+endobj
+557 0 obj
+<< /A 617 0 R /Parent 488 0 R /Prev 556 0 R /Title <feff004900520072006500630076005f00500057004d> >>
+endobj
+558 0 obj
+<< /D [ 9 0 R /FitR 0 519 471 192 ] /S /GoTo >>
+endobj
+559 0 obj
+<< /A 618 0 R /Count -2 /First 619 0 R /Last 620 0 R /Next 560 0 R /Parent 489 0 R /Title <feff00500069006e0073> >>
+endobj
+560 0 obj
+<< /A 621 0 R /Count -2 /First 622 0 R /Last 623 0 R /Parent 489 0 R /Prev 559 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+561 0 obj
+<< /A 624 0 R /Count -1 /First 625 0 R /Last 625 0 R /Next 626 0 R /Parent 75 0 R /Prev 489 0 R /Title <feff004e0065007400440031005f0050004f0053> >>
+endobj
+562 0 obj
+<< /JS (_FindWord\(0, "PIC601"\);) /S /JavaScript >>
+endobj
+563 0 obj
+<< /JS (_FindWord\(0, "PISERVO0102"\);) /S /JavaScript >>
+endobj
+564 0 obj
+<< /JS (_FindWord\(0, "PIDS109"\);) /S /JavaScript >>
+endobj
+565 0 obj
+<< /JS (_FindWord\(0, "PIU10J309"\);) /S /JavaScript >>
+endobj
+566 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0F"\);) /S /JavaScript >>
+endobj
+567 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0F"\);) /S /JavaScript >>
+endobj
+568 0 obj
+<< /D [ 9 0 R /FitR 0 328 320 118 ] /Next 627 0 R /S /GoTo >>
+endobj
+569 0 obj
+<< /D [ 9 0 R /FitR 0 520 368 291 ] /Next 628 0 R /S /GoTo >>
+endobj
+570 0 obj
+<< /D [ 9 0 R /FitR 0 332 333 121 ] /Next 629 0 R /S /GoTo >>
+endobj
+571 0 obj
+<< /D [ 9 0 R /FitR 18 525 389 292 ] /Next 630 0 R /S /GoTo >>
+endobj
+572 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+573 0 obj
+<< /A 631 0 R /Next 574 0 R /Parent 510 0 R /Title <feff004400530031002d0032> >>
+endobj
+574 0 obj
+<< /A 632 0 R /Parent 510 0 R /Prev 573 0 R /Title <feff00550031002d004a0033002d00310034> >>
+endobj
+575 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+576 0 obj
+<< /A 633 0 R /Next 577 0 R /Parent 511 0 R /Title <feff005300450047004d0045004e0054005f0044> >>
+endobj
+577 0 obj
+<< /A 634 0 R /Parent 511 0 R /Prev 576 0 R /Title <feff005300450047004d0045004e0054005f0044> >>
+endobj
+578 0 obj
+<< /D [ 9 0 R /FitR 1 527 375 296 ] /S /GoTo >>
+endobj
+579 0 obj
+<< /A 635 0 R /Count -2 /First 636 0 R /Last 637 0 R /Next 580 0 R /Parent 512 0 R /Title <feff00500069006e0073> >>
+endobj
+580 0 obj
+<< /A 638 0 R /Count -2 /First 639 0 R /Last 640 0 R /Parent 512 0 R /Prev 579 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+581 0 obj
+<< /A 641 0 R /Count -2 /First 642 0 R /Last 643 0 R /Next 512 0 R /Parent 75 0 R /Prev 644 0 R /Title <feff005300450047004d0045004e0054005f0042> >>
+endobj
+582 0 obj
+<< /JS (_FindWord\(0, "PIC701"\);) /S /JavaScript >>
+endobj
+583 0 obj
+<< /JS (_FindWord\(0, "PIC702"\);) /S /JavaScript >>
+endobj
+584 0 obj
+<< /JS (_FindWord\(0, "COC8"\);) /S /JavaScript >>
+endobj
+585 0 obj
+<< /D [ 9 0 R /FitR 231 511 499 283 ] /Next 645 0 R /S /GoTo >>
+endobj
+586 0 obj
+<< /D [ 9 0 R /FitR 231 497 499 275 ] /Next 646 0 R /S /GoTo >>
+endobj
+587 0 obj
+<< /D [ 9 0 R /FitR 0 279 373 8 ] /Next 647 0 R /S /GoTo >>
+endobj
+588 0 obj
+<< /A 648 0 R /Next 589 0 R /Parent 521 0 R /Title <feff00440031002d004e00450047> >>
+endobj
+589 0 obj
+<< /A 649 0 R /Parent 521 0 R /Prev 588 0 R /Title <feff00440031002d0050004f0053> >>
+endobj
+590 0 obj
+<< /A 650 0 R /Count -2 /First 651 0 R /Last 652 0 R /Next 653 0 R /Parent 74 0 R /Prev 521 0 R /Title <feff00440032> >>
+endobj
+591 0 obj
+<< /JS (_FindWord\(0, "PIU10J205"\);) /S /JavaScript >>
+endobj
+592 0 obj
+<< /D [ 9 0 R /FitR 0 569 312 319 ] /Next 654 0 R /S /GoTo >>
+endobj
+593 0 obj
+<< /A 655 0 R /Next 656 0 R /Parent 152 0 R /Prev 524 0 R /Title <feff00550031002d004a0032002d0037> >>
+endobj
+594 0 obj
+<< /JS (_FindWord\(0, "PIU10J3015"\);) /S /JavaScript >>
+endobj
+595 0 obj
+<< /D [ 9 0 R /FitR 0 513 368 287 ] /Next 657 0 R /S /GoTo >>
+endobj
+596 0 obj
+<< /A 658 0 R /Next 527 0 R /Parent 152 0 R /Prev 659 0 R /Title <feff00550031002d004a0033002d00310033> >>
+endobj
+597 0 obj
+<< /JS (_FindWord\(0, "PISERVO0202"\);) /S /JavaScript >>
+endobj
+598 0 obj
+<< /JS (_FindWord\(0, "PISERVO0101"\);) /S /JavaScript >>
+endobj
+599 0 obj
+<< /D [ 9 0 R /FitR 14 356 384 168 ] /Next 660 0 R /S /GoTo >>
+endobj
+600 0 obj
+<< /JS (_FindWord\(0, "PISERVO0103"\);) /S /JavaScript >>
+endobj
+601 0 obj
+<< /JS (_FindWord\(0, "COR8"\);) /S /JavaScript >>
+endobj
+602 0 obj
+<< /D [ 9 0 R /FitR 0 245 321 0 ] /Next 661 0 R /S /GoTo >>
+endobj
+603 0 obj
+<< /D [ 9 0 R /FitR 0 245 332 0 ] /Next 662 0 R /S /GoTo >>
+endobj
+604 0 obj
+<< /D [ 9 0 R /FitR 0 273 332 4 ] /Next 663 0 R /S /GoTo >>
+endobj
+605 0 obj
+<< /A 664 0 R /Next 606 0 R /Parent 540 0 R /Title <feff00520037002d0031> >>
+endobj
+606 0 obj
+<< /A 665 0 R /Parent 540 0 R /Prev 605 0 R /Title <feff00520037002d0032> >>
+endobj
+607 0 obj
+<< /A 666 0 R /Count -2 /First 667 0 R /Last 668 0 R /Next 540 0 R /Parent 74 0 R /Prev 669 0 R /Title <feff00520036> >>
+endobj
+608 0 obj
+<< /JS (_FindWord\(0, "PIC102"\);) /S /JavaScript >>
+endobj
+609 0 obj
+<< /D [ 9 0 R /FitR 0 289 368 48 ] /Next 670 0 R /S /GoTo >>
+endobj
+610 0 obj
+<< /A 671 0 R /Next 672 0 R /Parent 415 0 R /Prev 549 0 R /Title <feff00430033002d0032> >>
+endobj
+611 0 obj
+<< /JS (_FindWord\(0, "PIU302"\);) /S /JavaScript >>
+endobj
+612 0 obj
+<< /D [ 9 0 R /FitR 181 595 471 331 ] /Next 673 0 R /S /GoTo >>
+endobj
+613 0 obj
+<< /A 674 0 R /Next 551 0 R /Parent 415 0 R /Prev 675 0 R /Title <feff00550031002d004a0033002d0037> >>
+endobj
+614 0 obj
+<< /D [ 9 0 R /FitR 306 364 557 182 ] /Next 676 0 R /S /GoTo >>
+endobj
+615 0 obj
+<< /D [ 9 0 R /FitR 0 576 312 323 ] /Next 677 0 R /S /GoTo >>
+endobj
+616 0 obj
+<< /D [ 9 0 R /FitR 0 581 287 324 ] /Next 678 0 R /S /GoTo >>
+endobj
+617 0 obj
+<< /D [ 9 0 R /FitR 266 367 530 184 ] /Next 679 0 R /S /GoTo >>
+endobj
+618 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+619 0 obj
+<< /A 680 0 R /Next 620 0 R /Parent 559 0 R /Title <feff004d004f00540049004f004e005f0031002d0032> >>
+endobj
+620 0 obj
+<< /A 681 0 R /Parent 559 0 R /Prev 619 0 R /Title <feff00550031002d004a0032002d0036> >>
+endobj
+621 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+622 0 obj
+<< /A 682 0 R /Next 623 0 R /Parent 560 0 R /Title <feff004d004f00540049004f004e005f00500057004d> >>
+endobj
+623 0 obj
+<< /A 683 0 R /Parent 560 0 R /Prev 622 0 R /Title <feff004d004f00540049004f004e005f00500057004d> >>
+endobj
+624 0 obj
+<< /D [ 9 0 R /FitR 0 268 344 12 ] /S /GoTo >>
+endobj
+625 0 obj
+<< /A 684 0 R /Count -2 /First 685 0 R /Last 686 0 R /Parent 561 0 R /Title <feff00500069006e0073> >>
+endobj
+626 0 obj
+<< /A 687 0 R /Count -1 /First 688 0 R /Last 688 0 R /Next 689 0 R /Parent 75 0 R /Prev 561 0 R /Title <feff004e0065007400440032005f0050004f0053> >>
+endobj
+627 0 obj
+<< /JS (_FindWord\(0, "PIDS101"\);) /S /JavaScript >>
+endobj
+628 0 obj
+<< /JS (_FindWord\(0, "PIU10J3013"\);) /S /JavaScript >>
+endobj
+629 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0E"\);) /S /JavaScript >>
+endobj
+630 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0E"\);) /S /JavaScript >>
+endobj
+631 0 obj
+<< /D [ 9 0 R /FitR 0 336 320 132 ] /Next 690 0 R /S /GoTo >>
+endobj
+632 0 obj
+<< /D [ 9 0 R /FitR 0 513 368 287 ] /Next 691 0 R /S /GoTo >>
+endobj
+633 0 obj
+<< /D [ 9 0 R /FitR 0 340 333 135 ] /Next 692 0 R /S /GoTo >>
+endobj
+634 0 obj
+<< /D [ 9 0 R /FitR 18 518 389 288 ] /Next 693 0 R /S /GoTo >>
+endobj
+635 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+636 0 obj
+<< /A 694 0 R /Next 637 0 R /Parent 579 0 R /Title <feff004400530031002d0034> >>
+endobj
+637 0 obj
+<< /A 695 0 R /Parent 579 0 R /Prev 636 0 R /Title <feff00550031002d004a0033002d00310032> >>
+endobj
+638 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+639 0 obj
+<< /A 696 0 R /Next 640 0 R /Parent 580 0 R /Title <feff005300450047004d0045004e0054005f0043> >>
+endobj
+640 0 obj
+<< /A 697 0 R /Parent 580 0 R /Prev 639 0 R /Title <feff005300450047004d0045004e0054005f0043> >>
+endobj
+641 0 obj
+<< /D [ 9 0 R /FitR 1 534 375 300 ] /S /GoTo >>
+endobj
+642 0 obj
+<< /A 698 0 R /Count -2 /First 699 0 R /Last 700 0 R /Next 643 0 R /Parent 581 0 R /Title <feff00500069006e0073> >>
+endobj
+643 0 obj
+<< /A 701 0 R /Count -2 /First 702 0 R /Last 703 0 R /Parent 581 0 R /Prev 642 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+644 0 obj
+<< /A 704 0 R /Count -2 /First 705 0 R /Last 706 0 R /Next 581 0 R /Parent 75 0 R /Prev 707 0 R /Title <feff005300450047004d0045004e0054005f0041> >>
+endobj
+645 0 obj
+<< /JS (_FindWord\(0, "PIC801"\);) /S /JavaScript >>
+endobj
+646 0 obj
+<< /JS (_FindWord\(0, "PIC802"\);) /S /JavaScript >>
+endobj
+647 0 obj
+<< /JS (_FindWord\(0, "COD1"\);) /S /JavaScript >>
+endobj
+648 0 obj
+<< /D [ 9 0 R /FitR 0 269 360 12 ] /Next 708 0 R /S /GoTo >>
+endobj
+649 0 obj
+<< /D [ 9 0 R /FitR 0 269 344 12 ] /Next 709 0 R /S /GoTo >>
+endobj
+650 0 obj
+<< /D [ 9 0 R /FitR 0 255 376 0 ] /Next 710 0 R /S /GoTo >>
+endobj
+651 0 obj
+<< /A 711 0 R /Next 652 0 R /Parent 590 0 R /Title <feff00440032002d004e00450047> >>
+endobj
+652 0 obj
+<< /A 712 0 R /Parent 590 0 R /Prev 651 0 R /Title <feff00440032002d0050004f0053> >>
+endobj
+653 0 obj
+<< /A 713 0 R /Count -2 /First 714 0 R /Last 715 0 R /Next 716 0 R /Parent 74 0 R /Prev 590 0 R /Title <feff00440033> >>
+endobj
+654 0 obj
+<< /JS (_FindWord\(0, "PIU10J206"\);) /S /JavaScript >>
+endobj
+655 0 obj
+<< /D [ 9 0 R /FitR 0 562 312 315 ] /Next 717 0 R /S /GoTo >>
+endobj
+656 0 obj
+<< /A 718 0 R /Next 719 0 R /Parent 152 0 R /Prev 593 0 R /Title <feff00550031002d004a0032002d0038> >>
+endobj
+657 0 obj
+<< /JS (_FindWord\(0, "PIU10J3014"\);) /S /JavaScript >>
+endobj
+658 0 obj
+<< /D [ 9 0 R /FitR 0 520 368 291 ] /Next 720 0 R /S /GoTo >>
+endobj
+659 0 obj
+<< /A 721 0 R /Next 596 0 R /Parent 152 0 R /Prev 722 0 R /Title <feff00550031002d004a0033002d00310032> >>
+endobj
+660 0 obj
+<< /JS (_FindWord\(0, "PISERVO0102"\);) /S /JavaScript >>
+endobj
+661 0 obj
+<< /JS (_FindWord\(0, "PIR801"\);) /S /JavaScript >>
+endobj
+662 0 obj
+<< /JS (_FindWord\(0, "PIR802"\);) /S /JavaScript >>
+endobj
+663 0 obj
+<< /JS (_FindWord\(0, "COR7"\);) /S /JavaScript >>
+endobj
+664 0 obj
+<< /D [ 9 0 R /FitR 0 269 321 12 ] /Next 723 0 R /S /GoTo >>
+endobj
+665 0 obj
+<< /D [ 9 0 R /FitR 0 269 332 12 ] /Next 724 0 R /S /GoTo >>
+endobj
+666 0 obj
+<< /D [ 9 0 R /FitR 0 297 285 34 ] /Next 725 0 R /S /GoTo >>
+endobj
+667 0 obj
+<< /A 726 0 R /Next 668 0 R /Parent 607 0 R /Title <feff00520036002d0031> >>
+endobj
+668 0 obj
+<< /A 727 0 R /Parent 607 0 R /Prev 667 0 R /Title <feff00520036002d0032> >>
+endobj
+669 0 obj
+<< /A 728 0 R /Count -2 /First 729 0 R /Last 730 0 R /Next 607 0 R /Parent 74 0 R /Prev 731 0 R /Title <feff00520035> >>
+endobj
+670 0 obj
+<< /JS (_FindWord\(0, "PIC202"\);) /S /JavaScript >>
+endobj
+671 0 obj
+<< /D [ 9 0 R /FitR 0 449 296 252 ] /Next 732 0 R /S /GoTo >>
+endobj
+672 0 obj
+<< /A 733 0 R /Next 734 0 R /Parent 415 0 R /Prev 610 0 R /Title <feff00430034002d0032> >>
+endobj
+673 0 obj
+<< /JS (_FindWord\(0, "PIU202"\);) /S /JavaScript >>
+endobj
+674 0 obj
+<< /D [ 9 0 R /FitR 0 562 368 315 ] /Next 735 0 R /S /GoTo >>
+endobj
+675 0 obj
+<< /A 736 0 R /Next 613 0 R /Parent 415 0 R /Prev 737 0 R /Title <feff00550031002d004a0033002d0031> >>
+endobj
+676 0 obj
+<< /JS (_FindWord\(0, "PIIRrecv01"\);) /S /JavaScript >>
+endobj
+677 0 obj
+<< /JS (_FindWord\(0, "PIU10J205"\);) /S /JavaScript >>
+endobj
+678 0 obj
+<< /JS (_FindWord\(0, "NLIRrecv0PWM"\);) /S /JavaScript >>
+endobj
+679 0 obj
+<< /JS (_FindWord\(0, "NLIRrecv0PWM"\);) /S /JavaScript >>
+endobj
+680 0 obj
+<< /D [ 9 0 R /FitR 184 360 479 175 ] /Next 738 0 R /S /GoTo >>
+endobj
+681 0 obj
+<< /D [ 9 0 R /FitR 0 569 312 319 ] /Next 739 0 R /S /GoTo >>
+endobj
+682 0 obj
+<< /D [ 9 0 R /FitR 0 574 287 320 ] /Next 740 0 R /S /GoTo >>
+endobj
+683 0 obj
+<< /D [ 9 0 R /FitR 139 363 458 177 ] /Next 741 0 R /S /GoTo >>
+endobj
+684 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+685 0 obj
+<< /A 742 0 R /Next 686 0 R /Parent 625 0 R /Title <feff00440031002d0050004f0053> >>
+endobj
+686 0 obj
+<< /A 743 0 R /Parent 625 0 R /Prev 685 0 R /Title <feff00520037002d0032> >>
+endobj
+687 0 obj
+<< /D [ 9 0 R /FitR 0 244 344 0 ] /S /GoTo >>
+endobj
+688 0 obj
+<< /A 744 0 R /Count -2 /First 745 0 R /Last 746 0 R /Parent 626 0 R /Title <feff00500069006e0073> >>
+endobj
+689 0 obj
+<< /A 747 0 R /Count -1 /First 748 0 R /Last 748 0 R /Next 749 0 R /Parent 75 0 R /Prev 626 0 R /Title <feff004e0065007400440033005f0050004f0053> >>
+endobj
+690 0 obj
+<< /JS (_FindWord\(0, "PIDS102"\);) /S /JavaScript >>
+endobj
+691 0 obj
+<< /JS (_FindWord\(0, "PIU10J3014"\);) /S /JavaScript >>
+endobj
+692 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0D"\);) /S /JavaScript >>
+endobj
+693 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0D"\);) /S /JavaScript >>
+endobj
+694 0 obj
+<< /D [ 9 0 R /FitR 0 344 320 147 ] /Next 750 0 R /S /GoTo >>
+endobj
+695 0 obj
+<< /D [ 9 0 R /FitR 0 527 368 295 ] /Next 751 0 R /S /GoTo >>
+endobj
+696 0 obj
+<< /D [ 9 0 R /FitR 0 347 333 149 ] /Next 752 0 R /S /GoTo >>
+endobj
+697 0 obj
+<< /D [ 9 0 R /FitR 18 532 389 296 ] /Next 753 0 R /S /GoTo >>
+endobj
+698 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+699 0 obj
+<< /A 754 0 R /Next 700 0 R /Parent 642 0 R /Title <feff004400530031002d0036> >>
+endobj
+700 0 obj
+<< /A 755 0 R /Parent 642 0 R /Prev 699 0 R /Title <feff00550031002d004a0033002d00310031> >>
+endobj
+701 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+702 0 obj
+<< /A 756 0 R /Next 703 0 R /Parent 643 0 R /Title <feff005300450047004d0045004e0054005f0042> >>
+endobj
+703 0 obj
+<< /A 757 0 R /Parent 643 0 R /Prev 702 0 R /Title <feff005300450047004d0045004e0054005f0042> >>
+endobj
+704 0 obj
+<< /D [ 9 0 R /FitR 1 541 375 304 ] /S /GoTo >>
+endobj
+705 0 obj
+<< /A 758 0 R /Count -2 /First 759 0 R /Last 760 0 R /Next 706 0 R /Parent 644 0 R /Title <feff00500069006e0073> >>
+endobj
+706 0 obj
+<< /A 761 0 R /Count -2 /First 762 0 R /Last 763 0 R /Parent 644 0 R /Prev 705 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+707 0 obj
+<< /A 764 0 R /Count -2 /First 765 0 R /Last 766 0 R /Next 644 0 R /Parent 75 0 R /Prev 767 0 R /Title <feff0052004c00450044> >>
+endobj
+708 0 obj
+<< /JS (_FindWord\(0, "PID10NEG"\);) /S /JavaScript >>
+endobj
+709 0 obj
+<< /JS (_FindWord\(0, "PID10POS"\);) /S /JavaScript >>
+endobj
+710 0 obj
+<< /JS (_FindWord\(0, "COD2"\);) /S /JavaScript >>
+endobj
+711 0 obj
+<< /D [ 9 0 R /FitR 0 245 360 0 ] /Next 768 0 R /S /GoTo >>
+endobj
+712 0 obj
+<< /D [ 9 0 R /FitR 0 245 344 0 ] /Next 769 0 R /S /GoTo >>
+endobj
+713 0 obj
+<< /D [ 9 0 R /FitR 0 235 376 0 ] /Next 770 0 R /S /GoTo >>
+endobj
+714 0 obj
+<< /A 771 0 R /Next 715 0 R /Parent 653 0 R /Title <feff00440033002d004e00450047> >>
+endobj
+715 0 obj
+<< /A 772 0 R /Parent 653 0 R /Prev 714 0 R /Title <feff00440033002d0050004f0053> >>
+endobj
+716 0 obj
+<< /A 773 0 R /Count -10 /First 774 0 R /Last 775 0 R /Next 776 0 R /Parent 74 0 R /Prev 653 0 R /Title <feff004400530031> >>
+endobj
+717 0 obj
+<< /JS (_FindWord\(0, "PIU10J207"\);) /S /JavaScript >>
+endobj
+718 0 obj
+<< /D [ 9 0 R /FitR 0 555 312 311 ] /Next 777 0 R /S /GoTo >>
+endobj
+719 0 obj
+<< /A 778 0 R /Next 779 0 R /Parent 152 0 R /Prev 656 0 R /Title <feff00550031002d004a0032002d0039> >>
+endobj
+720 0 obj
+<< /JS (_FindWord\(0, "PIU10J3013"\);) /S /JavaScript >>
+endobj
+721 0 obj
+<< /D [ 9 0 R /FitR 0 527 368 295 ] /Next 780 0 R /S /GoTo >>
+endobj
+722 0 obj
+<< /A 781 0 R /Next 659 0 R /Parent 152 0 R /Prev 782 0 R /Title <feff00550031002d004a0033002d00310031> >>
+endobj
+723 0 obj
+<< /JS (_FindWord\(0, "PIR701"\);) /S /JavaScript >>
+endobj
+724 0 obj
+<< /JS (_FindWord\(0, "PIR702"\);) /S /JavaScript >>
+endobj
+725 0 obj
+<< /JS (_FindWord\(0, "COR6"\);) /S /JavaScript >>
+endobj
+726 0 obj
+<< /D [ 9 0 R /FitR 0 285 280 35 ] /Next 783 0 R /S /GoTo >>
+endobj
+727 0 obj
+<< /D [ 9 0 R /FitR 0 297 280 55 ] /Next 784 0 R /S /GoTo >>
+endobj
+728 0 obj
+<< /D [ 9 0 R /FitR 0 297 277 34 ] /Next 785 0 R /S /GoTo >>
+endobj
+729 0 obj
+<< /A 786 0 R /Next 730 0 R /Parent 669 0 R /Title <feff00520035002d0031> >>
+endobj
+730 0 obj
+<< /A 787 0 R /Parent 669 0 R /Prev 729 0 R /Title <feff00520035002d0032> >>
+endobj
+731 0 obj
+<< /A 788 0 R /Count -2 /First 789 0 R /Last 790 0 R /Next 669 0 R /Parent 74 0 R /Prev 791 0 R /Title <feff00520032> >>
+endobj
+732 0 obj
+<< /JS (_FindWord\(0, "PIC302"\);) /S /JavaScript >>
+endobj
+733 0 obj
+<< /D [ 9 0 R /FitR 139 582 447 323 ] /Next 792 0 R /S /GoTo >>
+endobj
+734 0 obj
+<< /A 793 0 R /Next 794 0 R /Parent 415 0 R /Prev 672 0 R /Title <feff00430035002d0032> >>
+endobj
+735 0 obj
+<< /JS (_FindWord\(0, "PIU10J307"\);) /S /JavaScript >>
+endobj
+736 0 obj
+<< /D [ 9 0 R /FitR 0 595 368 339 ] /Next 795 0 R /S /GoTo >>
+endobj
+737 0 obj
+<< /A 796 0 R /Next 675 0 R /Parent 415 0 R /Prev 797 0 R /Title <feff00550031002d004a0032002d00310034> >>
+endobj
+738 0 obj
+<< /JS (_FindWord\(0, "PIMOTION0102"\);) /S /JavaScript >>
+endobj
+739 0 obj
+<< /JS (_FindWord\(0, "PIU10J206"\);) /S /JavaScript >>
+endobj
+740 0 obj
+<< /JS (_FindWord\(0, "NLMOTION0PWM"\);) /S /JavaScript >>
+endobj
+741 0 obj
+<< /JS (_FindWord\(0, "NLMOTION0PWM"\);) /S /JavaScript >>
+endobj
+742 0 obj
+<< /D [ 9 0 R /FitR 0 269 344 12 ] /Next 798 0 R /S /GoTo >>
+endobj
+743 0 obj
+<< /D [ 9 0 R /FitR 0 269 332 12 ] /Next 799 0 R /S /GoTo >>
+endobj
+744 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+745 0 obj
+<< /A 800 0 R /Next 746 0 R /Parent 688 0 R /Title <feff00440032002d0050004f0053> >>
+endobj
+746 0 obj
+<< /A 801 0 R /Parent 688 0 R /Prev 745 0 R /Title <feff00520038002d0032> >>
+endobj
+747 0 obj
+<< /D [ 9 0 R /FitR 0 224 344 0 ] /S /GoTo >>
+endobj
+748 0 obj
+<< /A 802 0 R /Count -2 /First 803 0 R /Last 804 0 R /Parent 689 0 R /Title <feff00500069006e0073> >>
+endobj
+749 0 obj
+<< /A 805 0 R /Count -1 /First 806 0 R /Last 806 0 R /Next 807 0 R /Parent 75 0 R /Prev 689 0 R /Title <feff004e00650074004400530031005f0033> >>
+endobj
+750 0 obj
+<< /JS (_FindWord\(0, "PIDS104"\);) /S /JavaScript >>
+endobj
+751 0 obj
+<< /JS (_FindWord\(0, "PIU10J3012"\);) /S /JavaScript >>
+endobj
+752 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0C"\);) /S /JavaScript >>
+endobj
+753 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0C"\);) /S /JavaScript >>
+endobj
+754 0 obj
+<< /D [ 9 0 R /FitR 0 352 320 161 ] /Next 808 0 R /S /GoTo >>
+endobj
+755 0 obj
+<< /D [ 9 0 R /FitR 0 534 368 299 ] /Next 809 0 R /S /GoTo >>
+endobj
+756 0 obj
+<< /D [ 9 0 R /FitR 0 355 333 163 ] /Next 810 0 R /S /GoTo >>
+endobj
+757 0 obj
+<< /D [ 9 0 R /FitR 18 539 389 300 ] /Next 811 0 R /S /GoTo >>
+endobj
+758 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+759 0 obj
+<< /A 812 0 R /Next 760 0 R /Parent 705 0 R /Title <feff004400530031002d0037> >>
+endobj
+760 0 obj
+<< /A 813 0 R /Parent 705 0 R /Prev 759 0 R /Title <feff00550031002d004a0033002d00310030> >>
+endobj
+761 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+762 0 obj
+<< /A 814 0 R /Next 763 0 R /Parent 706 0 R /Title <feff005300450047004d0045004e0054005f0041> >>
+endobj
+763 0 obj
+<< /A 815 0 R /Parent 706 0 R /Prev 762 0 R /Title <feff005300450047004d0045004e0054005f0041> >>
+endobj
+764 0 obj
+<< /D [ 9 0 R /FitR 0 447 375 82 ] /S /GoTo >>
+endobj
+765 0 obj
+<< /A 816 0 R /Count -2 /First 817 0 R /Last 818 0 R /Next 766 0 R /Parent 707 0 R /Title <feff00500069006e0073> >>
+endobj
+766 0 obj
+<< /A 819 0 R /Count -2 /First 820 0 R /Last 821 0 R /Parent 707 0 R /Prev 765 0 R /Title <feff004e00650074004c006100620065006c0073> >>
+endobj
+767 0 obj
+<< /A 822 0 R /Count -1 /First 823 0 R /Last 823 0 R /Next 707 0 R /Parent 75 0 R /Prev 824 0 R /Title <feff004e0065007400550031005f004a0033002d00310039> >>
+endobj
+768 0 obj
+<< /JS (_FindWord\(0, "PID20NEG"\);) /S /JavaScript >>
+endobj
+769 0 obj
+<< /JS (_FindWord\(0, "PID20POS"\);) /S /JavaScript >>
+endobj
+770 0 obj
+<< /JS (_FindWord\(0, "COD3"\);) /S /JavaScript >>
+endobj
+771 0 obj
+<< /D [ 9 0 R /FitR 0 225 360 0 ] /Next 825 0 R /S /GoTo >>
+endobj
+772 0 obj
+<< /D [ 9 0 R /FitR 0 225 344 0 ] /Next 826 0 R /S /GoTo >>
+endobj
+773 0 obj
+<< /D [ 9 0 R /FitR 0 371 320 81 ] /Next 827 0 R /S /GoTo >>
+endobj
+774 0 obj
+<< /A 828 0 R /Next 829 0 R /Parent 716 0 R /Title <feff004400530031002d0031> >>
+endobj
+775 0 obj
+<< /A 830 0 R /Parent 716 0 R /Prev 831 0 R /Title <feff004400530031002d00310030> >>
+endobj
+776 0 obj
+<< /A 832 0 R /Count -3 /First 833 0 R /Last 834 0 R /Next 835 0 R /Parent 74 0 R /Prev 716 0 R /Title <feff004900520072006500630076> >>
+endobj
+777 0 obj
+<< /JS (_FindWord\(0, "PIU10J208"\);) /S /JavaScript >>
+endobj
+778 0 obj
+<< /D [ 9 0 R /FitR 0 548 312 307 ] /Next 836 0 R /S /GoTo >>
+endobj
+779 0 obj
+<< /A 837 0 R /Next 838 0 R /Parent 152 0 R /Prev 719 0 R /Title <feff00550031002d004a0032002d00310030> >>
+endobj
+780 0 obj
+<< /JS (_FindWord\(0, "PIU10J3012"\);) /S /JavaScript >>
+endobj
+781 0 obj
+<< /D [ 9 0 R /FitR 0 534 368 299 ] /Next 839 0 R /S /GoTo >>
+endobj
+782 0 obj
+<< /A 840 0 R /Next 722 0 R /Parent 152 0 R /Prev 841 0 R /Title <feff00550031002d004a0033002d00310030> >>
+endobj
+783 0 obj
+<< /JS (_FindWord\(0, "PIR601"\);) /S /JavaScript >>
+endobj
+784 0 obj
+<< /JS (_FindWord\(0, "PIR602"\);) /S /JavaScript >>
+endobj
+785 0 obj
+<< /JS (_FindWord\(0, "COR5"\);) /S /JavaScript >>
+endobj
+786 0 obj
+<< /D [ 9 0 R /FitR 0 285 272 35 ] /Next 842 0 R /S /GoTo >>
+endobj
+787 0 obj
+<< /D [ 9 0 R /FitR 0 297 272 55 ] /Next 843 0 R /S /GoTo >>
+endobj
+788 0 obj
+<< /D [ 9 0 R /FitR 0 229 332 0 ] /Next 844 0 R /S /GoTo >>
+endobj
+789 0 obj
+<< /A 845 0 R /Next 790 0 R /Parent 731 0 R /Title <feff00520032002d0031> >>
+endobj
+790 0 obj
+<< /A 846 0 R /Parent 731 0 R /Prev 789 0 R /Title <feff00520032002d0032> >>
+endobj
+791 0 obj
+<< /A 847 0 R /Count -2 /First 848 0 R /Last 849 0 R /Next 731 0 R /Parent 74 0 R /Prev 850 0 R /Title <feff00520031> >>
+endobj
+792 0 obj
+<< /JS (_FindWord\(0, "PIC402"\);) /S /JavaScript >>
+endobj
+793 0 obj
+<< /D [ 9 0 R /FitR 266 582 519 323 ] /Next 851 0 R /S /GoTo >>
+endobj
+794 0 obj
+<< /A 852 0 R /Next 853 0 R /Parent 415 0 R /Prev 734 0 R /Title <feff00430036002d0032> >>
+endobj
+795 0 obj
+<< /JS (_FindWord\(0, "PIU10J301"\);) /S /JavaScript >>
+endobj
+796 0 obj
+<< /D [ 9 0 R /FitR 0 513 312 287 ] /Next 854 0 R /S /GoTo >>
+endobj
+797 0 obj
+<< /A 855 0 R /Next 737 0 R /Parent 415 0 R /Prev 856 0 R /Title <feff0053004500520056004f005f0032002d0033> >>
+endobj
+798 0 obj
+<< /JS (_FindWord\(0, "PID10POS"\);) /S /JavaScript >>
+endobj
+799 0 obj
+<< /JS (_FindWord\(0, "PIR702"\);) /S /JavaScript >>
+endobj
+800 0 obj
+<< /D [ 9 0 R /FitR 0 245 344 0 ] /Next 857 0 R /S /GoTo >>
+endobj
+801 0 obj
+<< /D [ 9 0 R /FitR 0 245 332 0 ] /Next 858 0 R /S /GoTo >>
+endobj
+802 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+803 0 obj
+<< /A 859 0 R /Next 804 0 R /Parent 748 0 R /Title <feff00440033002d0050004f0053> >>
+endobj
+804 0 obj
+<< /A 860 0 R /Parent 748 0 R /Prev 803 0 R /Title <feff00520032002d0032> >>
+endobj
+805 0 obj
+<< /D [ 9 0 R /FitR 0 300 280 64 ] /S /GoTo >>
+endobj
+806 0 obj
+<< /A 861 0 R /Count -2 /First 862 0 R /Last 863 0 R /Parent 749 0 R /Title <feff00500069006e0073> >>
+endobj
+807 0 obj
+<< /A 864 0 R /Count -1 /First 865 0 R /Last 865 0 R /Next 866 0 R /Parent 75 0 R /Prev 749 0 R /Title <feff004e00650074004400530031005f0038> >>
+endobj
+808 0 obj
+<< /JS (_FindWord\(0, "PIDS106"\);) /S /JavaScript >>
+endobj
+809 0 obj
+<< /JS (_FindWord\(0, "PIU10J3011"\);) /S /JavaScript >>
+endobj
+810 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0B"\);) /S /JavaScript >>
+endobj
+811 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0B"\);) /S /JavaScript >>
+endobj
+812 0 obj
+<< /D [ 9 0 R /FitR 0 360 320 175 ] /Next 867 0 R /S /GoTo >>
+endobj
+813 0 obj
+<< /D [ 9 0 R /FitR 0 541 368 303 ] /Next 868 0 R /S /GoTo >>
+endobj
+814 0 obj
+<< /D [ 9 0 R /FitR 0 363 333 177 ] /Next 869 0 R /S /GoTo >>
+endobj
+815 0 obj
+<< /D [ 9 0 R /FitR 18 546 389 304 ] /Next 870 0 R /S /GoTo >>
+endobj
+816 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+817 0 obj
+<< /A 871 0 R /Next 818 0 R /Parent 765 0 R /Title <feff00520037002d0031> >>
+endobj
+818 0 obj
+<< /A 872 0 R /Parent 765 0 R /Prev 817 0 R /Title <feff00550031002d004a0033002d00310036> >>
+endobj
+819 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+820 0 obj
+<< /A 873 0 R /Next 821 0 R /Parent 766 0 R /Title <feff0052004c00450044> >>
+endobj
+821 0 obj
+<< /A 874 0 R /Parent 766 0 R /Prev 820 0 R /Title <feff0052004c00450044> >>
+endobj
+822 0 obj
+<< /D [ 9 0 R /FitR 0 477 368 268 ] /S /GoTo >>
+endobj
+823 0 obj
+<< /A 875 0 R /Count -1 /First 876 0 R /Last 876 0 R /Parent 767 0 R /Title <feff00500069006e0073> >>
+endobj
+824 0 obj
+<< /A 877 0 R /Count -1 /First 878 0 R /Last 878 0 R /Next 767 0 R /Parent 75 0 R /Prev 879 0 R /Title <feff004e0065007400550031005f004a0033002d00310038> >>
+endobj
+825 0 obj
+<< /JS (_FindWord\(0, "PID30NEG"\);) /S /JavaScript >>
+endobj
+826 0 obj
+<< /JS (_FindWord\(0, "PID30POS"\);) /S /JavaScript >>
+endobj
+827 0 obj
+<< /JS (_FindWord\(0, "CODS1"\);) /S /JavaScript >>
+endobj
+828 0 obj
+<< /D [ 9 0 R /FitR 0 328 320 118 ] /Next 880 0 R /S /GoTo >>
+endobj
+829 0 obj
+<< /A 881 0 R /Next 882 0 R /Parent 716 0 R /Prev 774 0 R /Title <feff004400530031002d0032> >>
+endobj
+830 0 obj
+<< /D [ 9 0 R /FitR 0 312 320 90 ] /Next 883 0 R /S /GoTo >>
+endobj
+831 0 obj
+<< /A 884 0 R /Next 775 0 R /Parent 716 0 R /Prev 885 0 R /Title <feff004400530031002d0039> >>
+endobj
+832 0 obj
+<< /D [ 9 0 R /FitR 306 371 578 164 ] /Next 886 0 R /S /GoTo >>
+endobj
+833 0 obj
+<< /A 887 0 R /Next 888 0 R /Parent 776 0 R /Title <feff004900520072006500630076002d0031> >>
+endobj
+834 0 obj
+<< /A 889 0 R /Parent 776 0 R /Prev 888 0 R /Title <feff004900520072006500630076002d0033> >>
+endobj
+835 0 obj
+<< /A 890 0 R /Count -3 /First 891 0 R /Last 892 0 R /Next 850 0 R /Parent 74 0 R /Prev 776 0 R /Title <feff004a0031> >>
+endobj
+836 0 obj
+<< /JS (_FindWord\(0, "PIU10J209"\);) /S /JavaScript >>
+endobj
+837 0 obj
+<< /D [ 9 0 R /FitR 0 541 312 303 ] /Next 893 0 R /S /GoTo >>
+endobj
+838 0 obj
+<< /A 894 0 R /Next 895 0 R /Parent 152 0 R /Prev 779 0 R /Title <feff00550031002d004a0032002d00310031> >>
+endobj
+839 0 obj
+<< /JS (_FindWord\(0, "PIU10J3011"\);) /S /JavaScript >>
+endobj
+840 0 obj
+<< /D [ 9 0 R /FitR 0 541 368 303 ] /Next 896 0 R /S /GoTo >>
+endobj
+841 0 obj
+<< /A 897 0 R /Next 782 0 R /Parent 152 0 R /Prev 898 0 R /Title <feff00550031002d004a0033002d0039> >>
+endobj
+842 0 obj
+<< /JS (_FindWord\(0, "PIR501"\);) /S /JavaScript >>
+endobj
+843 0 obj
+<< /JS (_FindWord\(0, "PIR502"\);) /S /JavaScript >>
+endobj
+844 0 obj
+<< /JS (_FindWord\(0, "COR2"\);) /S /JavaScript >>
+endobj
+845 0 obj
+<< /D [ 9 0 R /FitR 0 225 321 0 ] /Next 899 0 R /S /GoTo >>
+endobj
+846 0 obj
+<< /D [ 9 0 R /FitR 0 225 332 0 ] /Next 900 0 R /S /GoTo >>
+endobj
+847 0 obj
+<< /D [ 9 0 R /FitR 208 321 499 93 ] /Next 901 0 R /S /GoTo >>
+endobj
+848 0 obj
+<< /A 902 0 R /Next 849 0 R /Parent 791 0 R /Title <feff00520031002d0031> >>
+endobj
+849 0 obj
+<< /A 903 0 R /Parent 791 0 R /Prev 848 0 R /Title <feff00520031002d0032> >>
+endobj
+850 0 obj
+<< /A 904 0 R /Count -3 /First 905 0 R /Last 906 0 R /Next 791 0 R /Parent 74 0 R /Prev 835 0 R /Title <feff004d004f00540049004f004e005f0031> >>
+endobj
+851 0 obj
+<< /JS (_FindWord\(0, "PIC502"\);) /S /JavaScript >>
+endobj
+852 0 obj
+<< /D [ 9 0 R /FitR 216 582 491 323 ] /Next 907 0 R /S /GoTo >>
+endobj
+853 0 obj
+<< /A 908 0 R /Next 909 0 R /Parent 415 0 R /Prev 794 0 R /Title <feff00430037002d0032> >>
+endobj
+854 0 obj
+<< /JS (_FindWord\(0, "PIU10J2014"\);) /S /JavaScript >>
+endobj
+855 0 obj
+<< /D [ 9 0 R /FitR 14 304 384 76 ] /Next 910 0 R /S /GoTo >>
+endobj
+856 0 obj
+<< /A 911 0 R /Next 797 0 R /Parent 415 0 R /Prev 912 0 R /Title <feff0053004500520056004f005f0031002d0033> >>
+endobj
+857 0 obj
+<< /JS (_FindWord\(0, "PID20POS"\);) /S /JavaScript >>
+endobj
+858 0 obj
+<< /JS (_FindWord\(0, "PIR802"\);) /S /JavaScript >>
+endobj
+859 0 obj
+<< /D [ 9 0 R /FitR 0 225 344 0 ] /Next 913 0 R /S /GoTo >>
+endobj
+860 0 obj
+<< /D [ 9 0 R /FitR 0 225 332 0 ] /Next 914 0 R /S /GoTo >>
+endobj
+861 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+862 0 obj
+<< /A 915 0 R /Next 863 0 R /Parent 806 0 R /Title <feff004400530031002d0033> >>
+endobj
+863 0 obj
+<< /A 916 0 R /Parent 806 0 R /Prev 862 0 R /Title <feff00520035002d0032> >>
+endobj
+864 0 obj
+<< /D [ 9 0 R /FitR 0 297 288 55 ] /S /GoTo >>
+endobj
+865 0 obj
+<< /A 917 0 R /Count -2 /First 918 0 R /Last 919 0 R /Parent 807 0 R /Title <feff00500069006e0073> >>
+endobj
+866 0 obj
+<< /A 920 0 R /Count -1 /First 921 0 R /Last 921 0 R /Next 922 0 R /Parent 75 0 R /Prev 807 0 R /Title <feff004e00650074004a0031005f0031> >>
+endobj
+867 0 obj
+<< /JS (_FindWord\(0, "PIDS107"\);) /S /JavaScript >>
+endobj
+868 0 obj
+<< /JS (_FindWord\(0, "PIU10J3010"\);) /S /JavaScript >>
+endobj
+869 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0A"\);) /S /JavaScript >>
+endobj
+870 0 obj
+<< /JS (_FindWord\(0, "NLSEGMENT0A"\);) /S /JavaScript >>
+endobj
+871 0 obj
+<< /D [ 9 0 R /FitR 0 269 321 12 ] /Next 923 0 R /S /GoTo >>
+endobj
+872 0 obj
+<< /D [ 9 0 R /FitR 0 499 368 280 ] /Next 924 0 R /S /GoTo >>
+endobj
+873 0 obj
+<< /D [ 9 0 R /FitR 0 272 310 14 ] /Next 925 0 R /S /GoTo >>
+endobj
+874 0 obj
+<< /D [ 9 0 R /FitR 15 503 381 280 ] /Next 926 0 R /S /GoTo >>
+endobj
+875 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+876 0 obj
+<< /A 927 0 R /Parent 823 0 R /Title <feff00550031002d004a0033002d00310039> >>
+endobj
+877 0 obj
+<< /D [ 9 0 R /FitR 0 484 368 272 ] /S /GoTo >>
+endobj
+878 0 obj
+<< /A 928 0 R /Count -1 /First 929 0 R /Last 929 0 R /Parent 824 0 R /Title <feff00500069006e0073> >>
+endobj
+879 0 obj
+<< /A 930 0 R /Count -1 /First 931 0 R /Last 931 0 R /Next 824 0 R /Parent 75 0 R /Prev 932 0 R /Title <feff004e0065007400550031005f004a0033002d00310037> >>
+endobj
+880 0 obj
+<< /JS (_FindWord\(0, "PIDS101"\);) /S /JavaScript >>
+endobj
+881 0 obj
+<< /D [ 9 0 R /FitR 0 336 320 132 ] /Next 933 0 R /S /GoTo >>
+endobj
+882 0 obj
+<< /A 934 0 R /Next 935 0 R /Parent 716 0 R /Prev 829 0 R /Title <feff004400530031002d0033> >>
+endobj
+883 0 obj
+<< /JS (_FindWord\(0, "PIDS1010"\);) /S /JavaScript >>
+endobj
+884 0 obj
+<< /D [ 9 0 R /FitR 0 320 320 104 ] /Next 936 0 R /S /GoTo >>
+endobj
+885 0 obj
+<< /A 937 0 R /Next 831 0 R /Parent 716 0 R /Prev 938 0 R /Title <feff004400530031002d0038> >>
+endobj
+886 0 obj
+<< /JS (_FindWord\(0, "COIRrecv"\);) /S /JavaScript >>
+endobj
+887 0 obj
+<< /D [ 9 0 R /FitR 306 364 557 182 ] /Next 939 0 R /S /GoTo >>
+endobj
+888 0 obj
+<< /A 940 0 R /Next 834 0 R /Parent 776 0 R /Prev 833 0 R /Title <feff004900520072006500630076002d0032> >>
+endobj
+889 0 obj
+<< /D [ 9 0 R /FitR 306 356 557 168 ] /Next 941 0 R /S /GoTo >>
+endobj
+890 0 obj
+<< /D [ 9 0 R /FitR 131 532 468 283 ] /Next 942 0 R /S /GoTo >>
+endobj
+891 0 obj
+<< /A 943 0 R /Next 944 0 R /Parent 835 0 R /Title <feff004a0031002d0031> >>
+endobj
+892 0 obj
+<< /A 945 0 R /Parent 835 0 R /Prev 944 0 R /Title <feff004a0031002d0033> >>
+endobj
+893 0 obj
+<< /JS (_FindWord\(0, "PIU10J2010"\);) /S /JavaScript >>
+endobj
+894 0 obj
+<< /D [ 9 0 R /FitR 0 534 312 299 ] /Next 946 0 R /S /GoTo >>
+endobj
+895 0 obj
+<< /A 947 0 R /Next 948 0 R /Parent 152 0 R /Prev 838 0 R /Title <feff00550031002d004a0032002d00310032> >>
+endobj
+896 0 obj
+<< /JS (_FindWord\(0, "PIU10J3010"\);) /S /JavaScript >>
+endobj
+897 0 obj
+<< /D [ 9 0 R /FitR 0 548 368 307 ] /Next 949 0 R /S /GoTo >>
+endobj
+898 0 obj
+<< /A 950 0 R /Next 841 0 R /Parent 152 0 R /Prev 951 0 R /Title <feff00550031002d004a0033002d0038> >>
+endobj
+899 0 obj
+<< /JS (_FindWord\(0, "PIR201"\);) /S /JavaScript >>
+endobj
+900 0 obj
+<< /JS (_FindWord\(0, "PIR202"\);) /S /JavaScript >>
+endobj
+901 0 obj
+<< /JS (_FindWord\(0, "COR1"\);) /S /JavaScript >>
+endobj
+902 0 obj
+<< /D [ 9 0 R /FitR 204 316 487 97 ] /Next 952 0 R /S /GoTo >>
+endobj
+903 0 obj
+<< /D [ 9 0 R /FitR 225 316 499 97 ] /Next 953 0 R /S /GoTo >>
+endobj
+904 0 obj
+<< /D [ 9 0 R /FitR 190 371 494 164 ] /Next 954 0 R /S /GoTo >>
+endobj
+905 0 obj
+<< /A 955 0 R /Next 956 0 R /Parent 850 0 R /Title <feff004d004f00540049004f004e005f0031002d0031> >>
+endobj
+906 0 obj
+<< /A 957 0 R /Parent 850 0 R /Prev 956 0 R /Title <feff004d004f00540049004f004e005f0031002d0033> >>
+endobj
+907 0 obj
+<< /JS (_FindWord\(0, "PIC602"\);) /S /JavaScript >>
+endobj
+908 0 obj
+<< /D [ 9 0 R /FitR 321 582 574 323 ] /Next 958 0 R /S /GoTo >>
+endobj
+909 0 obj
+<< /A 959 0 R /Next 960 0 R /Parent 415 0 R /Prev 853 0 R /Title <feff00430038002d0032> >>
+endobj
+910 0 obj
+<< /JS (_FindWord\(0, "PISERVO0203"\);) /S /JavaScript >>
+endobj
+911 0 obj
+<< /D [ 9 0 R /FitR 14 352 384 161 ] /Next 961 0 R /S /GoTo >>
+endobj
+912 0 obj
+<< /A 962 0 R /Next 856 0 R /Parent 415 0 R /Prev 963 0 R /Title <feff00520036002d0031> >>
+endobj
+913 0 obj
+<< /JS (_FindWord\(0, "PID30POS"\);) /S /JavaScript >>
+endobj
+914 0 obj
+<< /JS (_FindWord\(0, "PIR202"\);) /S /JavaScript >>
+endobj
+915 0 obj
+<< /D [ 9 0 R /FitR 0 300 288 69 ] /Next 964 0 R /S /GoTo >>
+endobj
+916 0 obj
+<< /D [ 9 0 R /FitR 0 297 272 55 ] /Next 965 0 R /S /GoTo >>
+endobj
+917 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+918 0 obj
+<< /A 966 0 R /Next 919 0 R /Parent 865 0 R /Title <feff004400530031002d0038> >>
+endobj
+919 0 obj
+<< /A 967 0 R /Parent 865 0 R /Prev 918 0 R /Title <feff00520036002d0032> >>
+endobj
+920 0 obj
+<< /D [ 9 0 R /FitR 171 519 471 292 ] /S /GoTo >>
+endobj
+921 0 obj
+<< /A 968 0 R /Count -2 /First 969 0 R /Last 970 0 R /Parent 866 0 R /Title <feff00500069006e0073> >>
+endobj
+922 0 obj
+<< /A 971 0 R /Count -1 /First 972 0 R /Last 972 0 R /Next 973 0 R /Parent 75 0 R /Prev 866 0 R /Title <feff004e00650074004a0031005f0033> >>
+endobj
+923 0 obj
+<< /JS (_FindWord\(0, "PIR701"\);) /S /JavaScript >>
+endobj
+924 0 obj
+<< /JS (_FindWord\(0, "PIU10J3016"\);) /S /JavaScript >>
+endobj
+925 0 obj
+<< /JS (_FindWord\(0, "NLRLED"\);) /S /JavaScript >>
+endobj
+926 0 obj
+<< /JS (_FindWord\(0, "NLRLED"\);) /S /JavaScript >>
+endobj
+927 0 obj
+<< /D [ 9 0 R /FitR 0 477 368 268 ] /Next 974 0 R /S /GoTo >>
+endobj
+928 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+929 0 obj
+<< /A 975 0 R /Parent 878 0 R /Title <feff00550031002d004a0033002d00310038> >>
+endobj
+930 0 obj
+<< /D [ 9 0 R /FitR 0 492 368 275 ] /S /GoTo >>
+endobj
+931 0 obj
+<< /A 976 0 R /Count -1 /First 977 0 R /Last 977 0 R /Parent 879 0 R /Title <feff00500069006e0073> >>
+endobj
+932 0 obj
+<< /A 978 0 R /Count -1 /First 979 0 R /Last 979 0 R /Next 879 0 R /Parent 75 0 R /Prev 980 0 R /Title <feff004e0065007400550031005f004a0033002d0035> >>
+endobj
+933 0 obj
+<< /JS (_FindWord\(0, "PIDS102"\);) /S /JavaScript >>
+endobj
+934 0 obj
+<< /D [ 9 0 R /FitR 0 300 288 69 ] /Next 981 0 R /S /GoTo >>
+endobj
+935 0 obj
+<< /A 982 0 R /Next 983 0 R /Parent 716 0 R /Prev 882 0 R /Title <feff004400530031002d0034> >>
+endobj
+936 0 obj
+<< /JS (_FindWord\(0, "PIDS109"\);) /S /JavaScript >>
+endobj
+937 0 obj
+<< /D [ 9 0 R /FitR 0 297 288 62 ] /Next 984 0 R /S /GoTo >>
+endobj
+938 0 obj
+<< /A 985 0 R /Next 885 0 R /Parent 716 0 R /Prev 986 0 R /Title <feff004400530031002d0037> >>
+endobj
+939 0 obj
+<< /JS (_FindWord\(0, "PIIRrecv01"\);) /S /JavaScript >>
+endobj
+940 0 obj
+<< /D [ 9 0 R /FitR 306 360 557 175 ] /Next 987 0 R /S /GoTo >>
+endobj
+941 0 obj
+<< /JS (_FindWord\(0, "PIIRrecv03"\);) /S /JavaScript >>
+endobj
+942 0 obj
+<< /JS (_FindWord\(0, "COJ1"\);) /S /JavaScript >>
+endobj
+943 0 obj
+<< /D [ 9 0 R /FitR 156 520 463 291 ] /Next 988 0 R /S /GoTo >>
+endobj
+944 0 obj
+<< /A 989 0 R /Next 892 0 R /Parent 835 0 R /Prev 891 0 R /Title <feff004a0031002d0032> >>
+endobj
+945 0 obj
+<< /D [ 9 0 R /FitR 156 513 463 287 ] /Next 990 0 R /S /GoTo >>
+endobj
+946 0 obj
+<< /JS (_FindWord\(0, "PIU10J2011"\);) /S /JavaScript >>
+endobj
+947 0 obj
+<< /D [ 9 0 R /FitR 0 527 312 295 ] /Next 991 0 R /S /GoTo >>
+endobj
+948 0 obj
+<< /A 992 0 R /Next 993 0 R /Parent 152 0 R /Prev 895 0 R /Title <feff00550031002d004a0032002d00310033> >>
+endobj
+949 0 obj
+<< /JS (_FindWord\(0, "PIU10J309"\);) /S /JavaScript >>
+endobj
+950 0 obj
+<< /D [ 9 0 R /FitR 0 555 368 311 ] /Next 994 0 R /S /GoTo >>
+endobj
+951 0 obj
+<< /A 995 0 R /Next 898 0 R /Parent 152 0 R /Prev 996 0 R /Title <feff00550031002d004a0033002d0037> >>
+endobj
+952 0 obj
+<< /JS (_FindWord\(0, "PIR101"\);) /S /JavaScript >>
+endobj
+953 0 obj
+<< /JS (_FindWord\(0, "PIR102"\);) /S /JavaScript >>
+endobj
+954 0 obj
+<< /JS (_FindWord\(0, "COMOTION01"\);) /S /JavaScript >>
+endobj
+955 0 obj
+<< /D [ 9 0 R /FitR 184 364 479 182 ] /Next 997 0 R /S /GoTo >>
+endobj
+956 0 obj
+<< /A 998 0 R /Next 906 0 R /Parent 850 0 R /Prev 905 0 R /Title <feff004d004f00540049004f004e005f0031002d0032> >>
+endobj
+957 0 obj
+<< /D [ 9 0 R /FitR 184 356 479 168 ] /Next 999 0 R /S /GoTo >>
+endobj
+958 0 obj
+<< /JS (_FindWord\(0, "PIC702"\);) /S /JavaScript >>
+endobj
+959 0 obj
+<< /D [ 9 0 R /FitR 231 497 499 275 ] /Next 1000 0 R /S /GoTo >>
+endobj
+960 0 obj
+<< /A 1001 0 R /Next 1002 0 R /Parent 415 0 R /Prev 909 0 R /Title <feff00440031002d004e00450047> >>
+endobj
+961 0 obj
+<< /JS (_FindWord\(0, "PISERVO0103"\);) /S /JavaScript >>
+endobj
+962 0 obj
+<< /D [ 9 0 R /FitR 0 285 280 35 ] /Next 1003 0 R /S /GoTo >>
+endobj
+963 0 obj
+<< /A 1004 0 R /Next 912 0 R /Parent 415 0 R /Prev 1005 0 R /Title <feff00520035002d0031> >>
+endobj
+964 0 obj
+<< /JS (_FindWord\(0, "PIDS103"\);) /S /JavaScript >>
+endobj
+965 0 obj
+<< /JS (_FindWord\(0, "PIR502"\);) /S /JavaScript >>
+endobj
+966 0 obj
+<< /D [ 9 0 R /FitR 0 297 288 62 ] /Next 1006 0 R /S /GoTo >>
+endobj
+967 0 obj
+<< /D [ 9 0 R /FitR 0 297 280 55 ] /Next 1007 0 R /S /GoTo >>
+endobj
+968 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+969 0 obj
+<< /A 1008 0 R /Next 970 0 R /Parent 921 0 R /Title <feff004a0031002d0031> >>
+endobj
+970 0 obj
+<< /A 1009 0 R /Parent 921 0 R /Prev 969 0 R /Title <feff005300570032002d0031> >>
+endobj
+971 0 obj
+<< /D [ 9 0 R /FitR 156 513 463 287 ] /S /GoTo >>
+endobj
+972 0 obj
+<< /A 1010 0 R /Count -1 /First 1011 0 R /Last 1011 0 R /Parent 922 0 R /Title <feff00500069006e0073> >>
+endobj
+973 0 obj
+<< /A 1012 0 R /Count -1 /First 1013 0 R /Last 1013 0 R /Next 1014 0 R /Parent 75 0 R /Prev 922 0 R /Title <feff004e00650074005300570031005f0031> >>
+endobj
+974 0 obj
+<< /JS (_FindWord\(0, "PIU10J3019"\);) /S /JavaScript >>
+endobj
+975 0 obj
+<< /D [ 9 0 R /FitR 0 484 368 272 ] /Next 1015 0 R /S /GoTo >>
+endobj
+976 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+977 0 obj
+<< /A 1016 0 R /Parent 931 0 R /Title <feff00550031002d004a0033002d00310037> >>
+endobj
+978 0 obj
+<< /D [ 9 0 R /FitR 0 576 368 323 ] /S /GoTo >>
+endobj
+979 0 obj
+<< /A 1017 0 R /Count -1 /First 1018 0 R /Last 1018 0 R /Parent 932 0 R /Title <feff00500069006e0073> >>
+endobj
+980 0 obj
+<< /A 1019 0 R /Count -1 /First 1020 0 R /Last 1020 0 R /Next 932 0 R /Parent 75 0 R /Prev 1021 0 R /Title <feff004e0065007400550031005f004a0033002d0034> >>
+endobj
+981 0 obj
+<< /JS (_FindWord\(0, "PIDS103"\);) /S /JavaScript >>
+endobj
+982 0 obj
+<< /D [ 9 0 R /FitR 0 344 320 147 ] /Next 1022 0 R /S /GoTo >>
+endobj
+983 0 obj
+<< /A 1023 0 R /Next 986 0 R /Parent 716 0 R /Prev 935 0 R /Title <feff004400530031002d0035> >>
+endobj
+984 0 obj
+<< /JS (_FindWord\(0, "PIDS108"\);) /S /JavaScript >>
+endobj
+985 0 obj
+<< /D [ 9 0 R /FitR 0 360 320 175 ] /Next 1024 0 R /S /GoTo >>
+endobj
+986 0 obj
+<< /A 1025 0 R /Next 938 0 R /Parent 716 0 R /Prev 983 0 R /Title <feff004400530031002d0036> >>
+endobj
+987 0 obj
+<< /JS (_FindWord\(0, "PIIRrecv02"\);) /S /JavaScript >>
+endobj
+988 0 obj
+<< /JS (_FindWord\(0, "PIJ101"\);) /S /JavaScript >>
+endobj
+989 0 obj
+<< /D [ 9 0 R /FitR 156 506 463 283 ] /Next 1026 0 R /S /GoTo >>
+endobj
+990 0 obj
+<< /JS (_FindWord\(0, "PIJ103"\);) /S /JavaScript >>
+endobj
+991 0 obj
+<< /JS (_FindWord\(0, "PIU10J2012"\);) /S /JavaScript >>
+endobj
+992 0 obj
+<< /D [ 9 0 R /FitR 0 520 312 291 ] /Next 1027 0 R /S /GoTo >>
+endobj
+993 0 obj
+<< /A 1028 0 R /Next 1029 0 R /Parent 152 0 R /Prev 948 0 R /Title <feff00550031002d004a0032002d00310034> >>
+endobj
+994 0 obj
+<< /JS (_FindWord\(0, "PIU10J308"\);) /S /JavaScript >>
+endobj
+995 0 obj
+<< /D [ 9 0 R /FitR 0 562 368 315 ] /Next 1030 0 R /S /GoTo >>
+endobj
+996 0 obj
+<< /A 1031 0 R /Next 951 0 R /Parent 152 0 R /Prev 1032 0 R /Title <feff00550031002d004a0033002d0036> >>
+endobj
+997 0 obj
+<< /JS (_FindWord\(0, "PIMOTION0101"\);) /S /JavaScript >>
+endobj
+998 0 obj
+<< /D [ 9 0 R /FitR 184 360 479 175 ] /Next 1033 0 R /S /GoTo >>
+endobj
+999 0 obj
+<< /JS (_FindWord\(0, "PIMOTION0103"\);) /S /JavaScript >>
+endobj
+1000 0 obj
+<< /JS (_FindWord\(0, "PIC802"\);) /S /JavaScript >>
+endobj
+1001 0 obj
+<< /D [ 9 0 R /FitR 0 269 360 12 ] /Next 1034 0 R /S /GoTo >>
+endobj
+1002 0 obj
+<< /A 1035 0 R /Next 1036 0 R /Parent 415 0 R /Prev 960 0 R /Title <feff00440032002d004e00450047> >>
+endobj
+1003 0 obj
+<< /JS (_FindWord\(0, "PIR601"\);) /S /JavaScript >>
+endobj
+1004 0 obj
+<< /D [ 9 0 R /FitR 0 285 272 35 ] /Next 1037 0 R /S /GoTo >>
+endobj
+1005 0 obj
+<< /A 1038 0 R /Next 963 0 R /Parent 415 0 R /Prev 1039 0 R /Title <feff00520031002d0032> >>
+endobj
+1006 0 obj
+<< /JS (_FindWord\(0, "PIDS108"\);) /S /JavaScript >>
+endobj
+1007 0 obj
+<< /JS (_FindWord\(0, "PIR602"\);) /S /JavaScript >>
+endobj
+1008 0 obj
+<< /D [ 9 0 R /FitR 156 520 463 291 ] /Next 1040 0 R /S /GoTo >>
+endobj
+1009 0 obj
+<< /D [ 9 0 R /FitR 184 520 477 291 ] /Next 1041 0 R /S /GoTo >>
+endobj
+1010 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1011 0 obj
+<< /A 1042 0 R /Parent 972 0 R /Title <feff004a0031002d0033> >>
+endobj
+1012 0 obj
+<< /D [ 9 0 R /FitR 142 316 455 97 ] /S /GoTo >>
+endobj
+1013 0 obj
+<< /A 1043 0 R /Count -1 /First 1044 0 R /Last 1044 0 R /Parent 973 0 R /Title <feff00500069006e0073> >>
+endobj
+1014 0 obj
+<< /A 1045 0 R /Count -1 /First 1046 0 R /Last 1046 0 R /Next 1047 0 R /Parent 75 0 R /Prev 973 0 R /Title <feff004e00650074005300570031005f0034> >>
+endobj
+1015 0 obj
+<< /JS (_FindWord\(0, "PIU10J3018"\);) /S /JavaScript >>
+endobj
+1016 0 obj
+<< /D [ 9 0 R /FitR 0 492 368 275 ] /Next 1048 0 R /S /GoTo >>
+endobj
+1017 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1018 0 obj
+<< /A 1049 0 R /Parent 979 0 R /Title <feff00550031002d004a0033002d0035> >>
+endobj
+1019 0 obj
+<< /D [ 9 0 R /FitR 0 583 368 327 ] /S /GoTo >>
+endobj
+1020 0 obj
+<< /A 1050 0 R /Count -1 /First 1051 0 R /Last 1051 0 R /Parent 980 0 R /Title <feff00500069006e0073> >>
+endobj
+1021 0 obj
+<< /A 1052 0 R /Count -1 /First 1053 0 R /Last 1053 0 R /Next 980 0 R /Parent 75 0 R /Prev 1054 0 R /Title <feff004e0065007400550031005f004a0033002d0033> >>
+endobj
+1022 0 obj
+<< /JS (_FindWord\(0, "PIDS104"\);) /S /JavaScript >>
+endobj
+1023 0 obj
+<< /D [ 9 0 R /FitR 0 300 320 69 ] /Next 1055 0 R /S /GoTo >>
+endobj
+1024 0 obj
+<< /JS (_FindWord\(0, "PIDS107"\);) /S /JavaScript >>
+endobj
+1025 0 obj
+<< /D [ 9 0 R /FitR 0 352 320 161 ] /Next 1056 0 R /S /GoTo >>
+endobj
+1026 0 obj
+<< /JS (_FindWord\(0, "PIJ102"\);) /S /JavaScript >>
+endobj
+1027 0 obj
+<< /JS (_FindWord\(0, "PIU10J2013"\);) /S /JavaScript >>
+endobj
+1028 0 obj
+<< /D [ 9 0 R /FitR 0 513 312 287 ] /Next 1057 0 R /S /GoTo >>
+endobj
+1029 0 obj
+<< /A 1058 0 R /Next 1059 0 R /Parent 152 0 R /Prev 993 0 R /Title <feff00550031002d004a0032002d00310035> >>
+endobj
+1030 0 obj
+<< /JS (_FindWord\(0, "PIU10J307"\);) /S /JavaScript >>
+endobj
+1031 0 obj
+<< /D [ 9 0 R /FitR 0 569 368 319 ] /Next 1060 0 R /S /GoTo >>
+endobj
+1032 0 obj
+<< /A 1061 0 R /Next 996 0 R /Parent 152 0 R /Prev 1062 0 R /Title <feff00550031002d004a0033002d0035> >>
+endobj
+1033 0 obj
+<< /JS (_FindWord\(0, "PIMOTION0102"\);) /S /JavaScript >>
+endobj
+1034 0 obj
+<< /JS (_FindWord\(0, "PID10NEG"\);) /S /JavaScript >>
+endobj
+1035 0 obj
+<< /D [ 9 0 R /FitR 0 245 360 0 ] /Next 1063 0 R /S /GoTo >>
+endobj
+1036 0 obj
+<< /A 1064 0 R /Next 1065 0 R /Parent 415 0 R /Prev 1002 0 R /Title <feff00440033002d004e00450047> >>
+endobj
+1037 0 obj
+<< /JS (_FindWord\(0, "PIR501"\);) /S /JavaScript >>
+endobj
+1038 0 obj
+<< /D [ 9 0 R /FitR 225 316 499 97 ] /Next 1066 0 R /S /GoTo >>
+endobj
+1039 0 obj
+<< /A 1067 0 R /Next 1005 0 R /Parent 415 0 R /Prev 1068 0 R /Title <feff004d004f00540049004f004e005f0031002d0033> >>
+endobj
+1040 0 obj
+<< /JS (_FindWord\(0, "PIJ101"\);) /S /JavaScript >>
+endobj
+1041 0 obj
+<< /JS (_FindWord\(0, "PISW201"\);) /S /JavaScript >>
+endobj
+1042 0 obj
+<< /D [ 9 0 R /FitR 156 513 463 287 ] /Next 1069 0 R /S /GoTo >>
+endobj
+1043 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1044 0 obj
+<< /A 1070 0 R /Parent 1013 0 R /Title <feff005300570031002d0031> >>
+endobj
+1045 0 obj
+<< /D [ 9 0 R /FitR 184 308 479 83 ] /S /GoTo >>
+endobj
+1046 0 obj
+<< /A 1071 0 R /Count -1 /First 1072 0 R /Last 1072 0 R /Parent 1014 0 R /Title <feff00500069006e0073> >>
+endobj
+1047 0 obj
+<< /A 1073 0 R /Count -1 /First 1074 0 R /Last 1074 0 R /Next 1075 0 R /Parent 75 0 R /Prev 1014 0 R /Title <feff004e0065007400550031005f004a0032002d0032> >>
+endobj
+1048 0 obj
+<< /JS (_FindWord\(0, "PIU10J3017"\);) /S /JavaScript >>
+endobj
+1049 0 obj
+<< /D [ 9 0 R /FitR 0 576 368 323 ] /Next 1076 0 R /S /GoTo >>
+endobj
+1050 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1051 0 obj
+<< /A 1077 0 R /Parent 1020 0 R /Title <feff00550031002d004a0033002d0034> >>
+endobj
+1052 0 obj
+<< /D [ 9 0 R /FitR 0 591 368 331 ] /S /GoTo >>
+endobj
+1053 0 obj
+<< /A 1078 0 R /Count -1 /First 1079 0 R /Last 1079 0 R /Parent 1021 0 R /Title <feff00500069006e0073> >>
+endobj
+1054 0 obj
+<< /A 1080 0 R /Count -1 /First 1081 0 R /Last 1081 0 R /Next 1021 0 R /Parent 75 0 R /Prev 1082 0 R /Title <feff004e0065007400550031005f004a0033002d0032> >>
+endobj
+1055 0 obj
+<< /JS (_FindWord\(0, "PIDS105"\);) /S /JavaScript >>
+endobj
+1056 0 obj
+<< /JS (_FindWord\(0, "PIDS106"\);) /S /JavaScript >>
+endobj
+1057 0 obj
+<< /JS (_FindWord\(0, "PIU10J2014"\);) /S /JavaScript >>
+endobj
+1058 0 obj
+<< /D [ 9 0 R /FitR 0 506 312 283 ] /Next 1083 0 R /S /GoTo >>
+endobj
+1059 0 obj
+<< /A 1084 0 R /Next 1085 0 R /Parent 152 0 R /Prev 1029 0 R /Title <feff00550031002d004a0032002d00310036> >>
+endobj
+1060 0 obj
+<< /JS (_FindWord\(0, "PIU10J306"\);) /S /JavaScript >>
+endobj
+1061 0 obj
+<< /D [ 9 0 R /FitR 0 576 368 323 ] /Next 1086 0 R /S /GoTo >>
+endobj
+1062 0 obj
+<< /A 1087 0 R /Next 1032 0 R /Parent 152 0 R /Prev 1088 0 R /Title <feff00550031002d004a0033002d0034> >>
+endobj
+1063 0 obj
+<< /JS (_FindWord\(0, "PID20NEG"\);) /S /JavaScript >>
+endobj
+1064 0 obj
+<< /D [ 9 0 R /FitR 0 225 360 0 ] /Next 1089 0 R /S /GoTo >>
+endobj
+1065 0 obj
+<< /A 1090 0 R /Next 1091 0 R /Parent 415 0 R /Prev 1036 0 R /Title <feff004400530031002d0035> >>
+endobj
+1066 0 obj
+<< /JS (_FindWord\(0, "PIR102"\);) /S /JavaScript >>
+endobj
+1067 0 obj
+<< /D [ 9 0 R /FitR 184 356 479 168 ] /Next 1092 0 R /S /GoTo >>
+endobj
+1068 0 obj
+<< /A 1093 0 R /Next 1039 0 R /Parent 415 0 R /Prev 1091 0 R /Title <feff004a0031002d0032> >>
+endobj
+1069 0 obj
+<< /JS (_FindWord\(0, "PIJ103"\);) /S /JavaScript >>
+endobj
+1070 0 obj
+<< /D [ 9 0 R /FitR 142 316 455 97 ] /Next 1094 0 R /S /GoTo >>
+endobj
+1071 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1072 0 obj
+<< /A 1095 0 R /Parent 1046 0 R /Title <feff005300570031002d0034> >>
+endobj
+1073 0 obj
+<< /D [ 9 0 R /FitR 0 595 312 335 ] /S /GoTo >>
+endobj
+1074 0 obj
+<< /A 1096 0 R /Count -1 /First 1097 0 R /Last 1097 0 R /Parent 1047 0 R /Title <feff00500069006e0073> >>
+endobj
+1075 0 obj
+<< /A 1098 0 R /Count -1 /First 1099 0 R /Last 1099 0 R /Next 1100 0 R /Parent 75 0 R /Prev 1047 0 R /Title <feff004e0065007400550031005f004a0032002d0033> >>
+endobj
+1076 0 obj
+<< /JS (_FindWord\(0, "PIU10J305"\);) /S /JavaScript >>
+endobj
+1077 0 obj
+<< /D [ 9 0 R /FitR 0 583 368 327 ] /Next 1101 0 R /S /GoTo >>
+endobj
+1078 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1079 0 obj
+<< /A 1102 0 R /Parent 1053 0 R /Title <feff00550031002d004a0033002d0033> >>
+endobj
+1080 0 obj
+<< /D [ 9 0 R /FitR 0 595 368 335 ] /S /GoTo >>
+endobj
+1081 0 obj
+<< /A 1103 0 R /Count -1 /First 1104 0 R /Last 1104 0 R /Parent 1054 0 R /Title <feff00500069006e0073> >>
+endobj
+1082 0 obj
+<< /A 1105 0 R /Count -1 /First 1106 0 R /Last 1106 0 R /Next 1054 0 R /Parent 75 0 R /Prev 1107 0 R /Title <feff004e0065007400550031005f004a0032002d00310038> >>
+endobj
+1083 0 obj
+<< /JS (_FindWord\(0, "PIU10J2015"\);) /S /JavaScript >>
+endobj
+1084 0 obj
+<< /D [ 9 0 R /FitR 0 499 312 280 ] /Next 1108 0 R /S /GoTo >>
+endobj
+1085 0 obj
+<< /A 1109 0 R /Next 1110 0 R /Parent 152 0 R /Prev 1059 0 R /Title <feff00550031002d004a0032002d00310037> >>
+endobj
+1086 0 obj
+<< /JS (_FindWord\(0, "PIU10J305"\);) /S /JavaScript >>
+endobj
+1087 0 obj
+<< /D [ 9 0 R /FitR 0 583 368 327 ] /Next 1111 0 R /S /GoTo >>
+endobj
+1088 0 obj
+<< /A 1112 0 R /Next 1062 0 R /Parent 152 0 R /Prev 1113 0 R /Title <feff00550031002d004a0033002d0033> >>
+endobj
+1089 0 obj
+<< /JS (_FindWord\(0, "PID30NEG"\);) /S /JavaScript >>
+endobj
+1090 0 obj
+<< /D [ 9 0 R /FitR 0 300 320 69 ] /Next 1114 0 R /S /GoTo >>
+endobj
+1091 0 obj
+<< /A 1115 0 R /Next 1068 0 R /Parent 415 0 R /Prev 1065 0 R /Title <feff004900520072006500630076002d0033> >>
+endobj
+1092 0 obj
+<< /JS (_FindWord\(0, "PIMOTION0103"\);) /S /JavaScript >>
+endobj
+1093 0 obj
+<< /D [ 9 0 R /FitR 156 506 463 283 ] /Next 1116 0 R /S /GoTo >>
+endobj
+1094 0 obj
+<< /JS (_FindWord\(0, "PISW101"\);) /S /JavaScript >>
+endobj
+1095 0 obj
+<< /D [ 9 0 R /FitR 184 308 479 83 ] /Next 1117 0 R /S /GoTo >>
+endobj
+1096 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1097 0 obj
+<< /A 1118 0 R /Parent 1074 0 R /Title <feff00550031002d004a0032002d0032> >>
+endobj
+1098 0 obj
+<< /D [ 9 0 R /FitR 0 591 312 331 ] /S /GoTo >>
+endobj
+1099 0 obj
+<< /A 1119 0 R /Count -1 /First 1120 0 R /Last 1120 0 R /Parent 1075 0 R /Title <feff00500069006e0073> >>
+endobj
+1100 0 obj
+<< /A 1121 0 R /Count -1 /First 1122 0 R /Last 1122 0 R /Next 1123 0 R /Parent 75 0 R /Prev 1075 0 R /Title <feff004e0065007400550031005f004a0032002d0034> >>
+endobj
+1101 0 obj
+<< /JS (_FindWord\(0, "PIU10J304"\);) /S /JavaScript >>
+endobj
+1102 0 obj
+<< /D [ 9 0 R /FitR 0 591 368 331 ] /Next 1124 0 R /S /GoTo >>
+endobj
+1103 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1104 0 obj
+<< /A 1125 0 R /Parent 1081 0 R /Title <feff00550031002d004a0033002d0032> >>
+endobj
+1105 0 obj
+<< /D [ 9 0 R /FitR 0 484 312 272 ] /S /GoTo >>
+endobj
+1106 0 obj
+<< /A 1126 0 R /Count -1 /First 1127 0 R /Last 1127 0 R /Parent 1082 0 R /Title <feff00500069006e0073> >>
+endobj
+1107 0 obj
+<< /A 1128 0 R /Count -1 /First 1129 0 R /Last 1129 0 R /Next 1082 0 R /Parent 75 0 R /Prev 1130 0 R /Title <feff004e0065007400550031005f004a0032002d00310037> >>
+endobj
+1108 0 obj
+<< /JS (_FindWord\(0, "PIU10J2016"\);) /S /JavaScript >>
+endobj
+1109 0 obj
+<< /D [ 9 0 R /FitR 0 492 312 275 ] /Next 1131 0 R /S /GoTo >>
+endobj
+1110 0 obj
+<< /A 1132 0 R /Next 1133 0 R /Parent 152 0 R /Prev 1085 0 R /Title <feff00550031002d004a0032002d00310038> >>
+endobj
+1111 0 obj
+<< /JS (_FindWord\(0, "PIU10J304"\);) /S /JavaScript >>
+endobj
+1112 0 obj
+<< /D [ 9 0 R /FitR 0 591 368 331 ] /Next 1134 0 R /S /GoTo >>
+endobj
+1113 0 obj
+<< /A 1135 0 R /Next 1088 0 R /Parent 152 0 R /Prev 1136 0 R /Title <feff00550031002d004a0033002d0032> >>
+endobj
+1114 0 obj
+<< /JS (_FindWord\(0, "PIDS105"\);) /S /JavaScript >>
+endobj
+1115 0 obj
+<< /D [ 9 0 R /FitR 306 356 557 168 ] /Next 1137 0 R /S /GoTo >>
+endobj
+1116 0 obj
+<< /JS (_FindWord\(0, "PIJ102"\);) /S /JavaScript >>
+endobj
+1117 0 obj
+<< /JS (_FindWord\(0, "PISW104"\);) /S /JavaScript >>
+endobj
+1118 0 obj
+<< /D [ 9 0 R /FitR 0 595 312 335 ] /Next 1138 0 R /S /GoTo >>
+endobj
+1119 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1120 0 obj
+<< /A 1139 0 R /Parent 1099 0 R /Title <feff00550031002d004a0032002d0033> >>
+endobj
+1121 0 obj
+<< /D [ 9 0 R /FitR 0 583 312 327 ] /S /GoTo >>
+endobj
+1122 0 obj
+<< /A 1140 0 R /Count -1 /First 1141 0 R /Last 1141 0 R /Parent 1100 0 R /Title <feff00500069006e0073> >>
+endobj
+1123 0 obj
+<< /A 1142 0 R /Count -1 /First 1143 0 R /Last 1143 0 R /Next 1144 0 R /Parent 75 0 R /Prev 1100 0 R /Title <feff004e0065007400550031005f004a0032002d0039> >>
+endobj
+1124 0 obj
+<< /JS (_FindWord\(0, "PIU10J303"\);) /S /JavaScript >>
+endobj
+1125 0 obj
+<< /D [ 9 0 R /FitR 0 595 368 335 ] /Next 1145 0 R /S /GoTo >>
+endobj
+1126 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1127 0 obj
+<< /A 1146 0 R /Parent 1106 0 R /Title <feff00550031002d004a0032002d00310038> >>
+endobj
+1128 0 obj
+<< /D [ 9 0 R /FitR 0 492 312 275 ] /S /GoTo >>
+endobj
+1129 0 obj
+<< /A 1147 0 R /Count -1 /First 1148 0 R /Last 1148 0 R /Parent 1107 0 R /Title <feff00500069006e0073> >>
+endobj
+1130 0 obj
+<< /A 1149 0 R /Count -1 /First 1150 0 R /Last 1150 0 R /Next 1107 0 R /Parent 75 0 R /Prev 1151 0 R /Title <feff004e0065007400550031005f004a0032002d00310036> >>
+endobj
+1131 0 obj
+<< /JS (_FindWord\(0, "PIU10J2017"\);) /S /JavaScript >>
+endobj
+1132 0 obj
+<< /D [ 9 0 R /FitR 0 484 312 272 ] /Next 1152 0 R /S /GoTo >>
+endobj
+1133 0 obj
+<< /A 1153 0 R /Next 1136 0 R /Parent 152 0 R /Prev 1110 0 R /Title <feff00550031002d004a0032002d00310039> >>
+endobj
+1134 0 obj
+<< /JS (_FindWord\(0, "PIU10J303"\);) /S /JavaScript >>
+endobj
+1135 0 obj
+<< /D [ 9 0 R /FitR 0 595 368 335 ] /Next 1154 0 R /S /GoTo >>
+endobj
+1136 0 obj
+<< /A 1155 0 R /Next 1113 0 R /Parent 152 0 R /Prev 1133 0 R /Title <feff00550031002d004a0033002d0031> >>
+endobj
+1137 0 obj
+<< /JS (_FindWord\(0, "PIIRrecv03"\);) /S /JavaScript >>
+endobj
+1138 0 obj
+<< /JS (_FindWord\(0, "PIU10J202"\);) /S /JavaScript >>
+endobj
+1139 0 obj
+<< /D [ 9 0 R /FitR 0 591 312 331 ] /Next 1156 0 R /S /GoTo >>
+endobj
+1140 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1141 0 obj
+<< /A 1157 0 R /Parent 1122 0 R /Title <feff00550031002d004a0032002d0034> >>
+endobj
+1142 0 obj
+<< /D [ 9 0 R /FitR 0 548 312 307 ] /S /GoTo >>
+endobj
+1143 0 obj
+<< /A 1158 0 R /Count -1 /First 1159 0 R /Last 1159 0 R /Parent 1123 0 R /Title <feff00500069006e0073> >>
+endobj
+1144 0 obj
+<< /A 1160 0 R /Count -1 /First 1161 0 R /Last 1161 0 R /Next 1162 0 R /Parent 75 0 R /Prev 1123 0 R /Title <feff004e0065007400550031005f004a0032002d00310030> >>
+endobj
+1145 0 obj
+<< /JS (_FindWord\(0, "PIU10J302"\);) /S /JavaScript >>
+endobj
+1146 0 obj
+<< /D [ 9 0 R /FitR 0 484 312 272 ] /Next 1163 0 R /S /GoTo >>
+endobj
+1147 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1148 0 obj
+<< /A 1164 0 R /Parent 1129 0 R /Title <feff00550031002d004a0032002d00310037> >>
+endobj
+1149 0 obj
+<< /D [ 9 0 R /FitR 0 499 312 280 ] /S /GoTo >>
+endobj
+1150 0 obj
+<< /A 1165 0 R /Count -1 /First 1166 0 R /Last 1166 0 R /Parent 1130 0 R /Title <feff00500069006e0073> >>
+endobj
+1151 0 obj
+<< /A 1167 0 R /Count -1 /First 1168 0 R /Last 1168 0 R /Next 1130 0 R /Parent 75 0 R /Prev 1169 0 R /Title <feff004e0065007400550031005f004a0032002d00310035> >>
+endobj
+1152 0 obj
+<< /JS (_FindWord\(0, "PIU10J2018"\);) /S /JavaScript >>
+endobj
+1153 0 obj
+<< /D [ 9 0 R /FitR 0 477 312 268 ] /Next 1170 0 R /S /GoTo >>
+endobj
+1154 0 obj
+<< /JS (_FindWord\(0, "PIU10J302"\);) /S /JavaScript >>
+endobj
+1155 0 obj
+<< /D [ 9 0 R /FitR 0 595 368 339 ] /Next 1171 0 R /S /GoTo >>
+endobj
+1156 0 obj
+<< /JS (_FindWord\(0, "PIU10J203"\);) /S /JavaScript >>
+endobj
+1157 0 obj
+<< /D [ 9 0 R /FitR 0 583 312 327 ] /Next 1172 0 R /S /GoTo >>
+endobj
+1158 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1159 0 obj
+<< /A 1173 0 R /Parent 1143 0 R /Title <feff00550031002d004a0032002d0039> >>
+endobj
+1160 0 obj
+<< /D [ 9 0 R /FitR 0 541 312 303 ] /S /GoTo >>
+endobj
+1161 0 obj
+<< /A 1174 0 R /Count -1 /First 1175 0 R /Last 1175 0 R /Parent 1144 0 R /Title <feff00500069006e0073> >>
+endobj
+1162 0 obj
+<< /A 1176 0 R /Count -1 /First 1177 0 R /Last 1177 0 R /Next 1178 0 R /Parent 75 0 R /Prev 1144 0 R /Title <feff004e0065007400550031005f004a0032002d00310031> >>
+endobj
+1163 0 obj
+<< /JS (_FindWord\(0, "PIU10J2018"\);) /S /JavaScript >>
+endobj
+1164 0 obj
+<< /D [ 9 0 R /FitR 0 492 312 275 ] /Next 1179 0 R /S /GoTo >>
+endobj
+1165 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1166 0 obj
+<< /A 1180 0 R /Parent 1150 0 R /Title <feff00550031002d004a0032002d00310036> >>
+endobj
+1167 0 obj
+<< /D [ 9 0 R /FitR 0 506 312 283 ] /S /GoTo >>
+endobj
+1168 0 obj
+<< /A 1181 0 R /Count -1 /First 1182 0 R /Last 1182 0 R /Parent 1151 0 R /Title <feff00500069006e0073> >>
+endobj
+1169 0 obj
+<< /A 1183 0 R /Count -1 /First 1184 0 R /Last 1184 0 R /Next 1151 0 R /Parent 75 0 R /Prev 1178 0 R /Title <feff004e0065007400550031005f004a0032002d00310033> >>
+endobj
+1170 0 obj
+<< /JS (_FindWord\(0, "PIU10J2019"\);) /S /JavaScript >>
+endobj
+1171 0 obj
+<< /JS (_FindWord\(0, "PIU10J301"\);) /S /JavaScript >>
+endobj
+1172 0 obj
+<< /JS (_FindWord\(0, "PIU10J204"\);) /S /JavaScript >>
+endobj
+1173 0 obj
+<< /D [ 9 0 R /FitR 0 548 312 307 ] /Next 1185 0 R /S /GoTo >>
+endobj
+1174 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1175 0 obj
+<< /A 1186 0 R /Parent 1161 0 R /Title <feff00550031002d004a0032002d00310030> >>
+endobj
+1176 0 obj
+<< /D [ 9 0 R /FitR 0 534 312 299 ] /S /GoTo >>
+endobj
+1177 0 obj
+<< /A 1187 0 R /Count -1 /First 1188 0 R /Last 1188 0 R /Parent 1162 0 R /Title <feff00500069006e0073> >>
+endobj
+1178 0 obj
+<< /A 1189 0 R /Count -1 /First 1190 0 R /Last 1190 0 R /Next 1169 0 R /Parent 75 0 R /Prev 1162 0 R /Title <feff004e0065007400550031005f004a0032002d00310032> >>
+endobj
+1179 0 obj
+<< /JS (_FindWord\(0, "PIU10J2017"\);) /S /JavaScript >>
+endobj
+1180 0 obj
+<< /D [ 9 0 R /FitR 0 499 312 280 ] /Next 1191 0 R /S /GoTo >>
+endobj
+1181 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1182 0 obj
+<< /A 1192 0 R /Parent 1168 0 R /Title <feff00550031002d004a0032002d00310035> >>
+endobj
+1183 0 obj
+<< /D [ 9 0 R /FitR 0 520 312 291 ] /S /GoTo >>
+endobj
+1184 0 obj
+<< /A 1193 0 R /Count -1 /First 1194 0 R /Last 1194 0 R /Parent 1169 0 R /Title <feff00500069006e0073> >>
+endobj
+1185 0 obj
+<< /JS (_FindWord\(0, "PIU10J209"\);) /S /JavaScript >>
+endobj
+1186 0 obj
+<< /D [ 9 0 R /FitR 0 541 312 303 ] /Next 1195 0 R /S /GoTo >>
+endobj
+1187 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1188 0 obj
+<< /A 1196 0 R /Parent 1177 0 R /Title <feff00550031002d004a0032002d00310031> >>
+endobj
+1189 0 obj
+<< /D [ 9 0 R /FitR 0 527 312 295 ] /S /GoTo >>
+endobj
+1190 0 obj
+<< /A 1197 0 R /Count -1 /First 1198 0 R /Last 1198 0 R /Parent 1178 0 R /Title <feff00500069006e0073> >>
+endobj
+1191 0 obj
+<< /JS (_FindWord\(0, "PIU10J2016"\);) /S /JavaScript >>
+endobj
+1192 0 obj
+<< /D [ 9 0 R /FitR 0 506 312 283 ] /Next 1199 0 R /S /GoTo >>
+endobj
+1193 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1194 0 obj
+<< /A 1200 0 R /Parent 1184 0 R /Title <feff00550031002d004a0032002d00310033> >>
+endobj
+1195 0 obj
+<< /JS (_FindWord\(0, "PIU10J2010"\);) /S /JavaScript >>
+endobj
+1196 0 obj
+<< /D [ 9 0 R /FitR 0 534 312 299 ] /Next 1201 0 R /S /GoTo >>
+endobj
+1197 0 obj
+<< /D [ 9 0 R /FitR 0 595 842 0 ] /S /GoTo >>
+endobj
+1198 0 obj
+<< /A 1202 0 R /Parent 1190 0 R /Title <feff00550031002d004a0032002d00310032> >>
+endobj
+1199 0 obj
+<< /JS (_FindWord\(0, "PIU10J2015"\);) /S /JavaScript >>
+endobj
+1200 0 obj
+<< /D [ 9 0 R /FitR 0 520 312 291 ] /Next 1203 0 R /S /GoTo >>
+endobj
+1201 0 obj
+<< /JS (_FindWord\(0, "PIU10J2011"\);) /S /JavaScript >>
+endobj
+1202 0 obj
+<< /D [ 9 0 R /FitR 0 527 312 295 ] /Next 1204 0 R /S /GoTo >>
+endobj
+1203 0 obj
+<< /JS (_FindWord\(0, "PIU10J2013"\);) /S /JavaScript >>
+endobj
+1204 0 obj
+<< /JS (_FindWord\(0, "PIU10J2012"\);) /S /JavaScript >>
+endobj
+xref
+0 1205
+0000000000 65535 f 
+0000000015 00000 n 
+0000000140 00000 n 
+0000000323 00000 n 
+0000000362 00000 n 
+0000000435 00000 n 
+0000000494 00000 n 
+0000002137 00000 n 
+0000002485 00000 n 
+0000002624 00000 n 
+0000002989 00000 n 
+0000003462 00000 n 
+0000005528 00000 n 
+0000006485 00000 n 
+0000007442 00000 n 
+0000008399 00000 n 
+0000009356 00000 n 
+0000010313 00000 n 
+0000011270 00000 n 
+0000012227 00000 n 
+0000013190 00000 n 
+0000014284 00000 n 
+0000015247 00000 n 
+0000016210 00000 n 
+0000017414 00000 n 
+0000019154 00000 n 
+0000020388 00000 n 
+0000022128 00000 n 
+0000023142 00000 n 
+0000024130 00000 n 
+0000025118 00000 n 
+0000026106 00000 n 
+0000027138 00000 n 
+0000028170 00000 n 
+0000029910 00000 n 
+0000031650 00000 n 
+0000033120 00000 n 
+0000034050 00000 n 
+0000035244 00000 n 
+0000036859 00000 n 
+0000038474 00000 n 
+0000038536 00000 n 
+0000038709 00000 n 
+0000038772 00000 n 
+0000038888 00000 n 
+0000039004 00000 n 
+0000039118 00000 n 
+0000039234 00000 n 
+0000039350 00000 n 
+0000039466 00000 n 
+0000039582 00000 n 
+0000039698 00000 n 
+0000039814 00000 n 
+0000039930 00000 n 
+0000040044 00000 n 
+0000040159 00000 n 
+0000040275 00000 n 
+0000040391 00000 n 
+0000040507 00000 n 
+0000040623 00000 n 
+0000040737 00000 n 
+0000040851 00000 n 
+0000040965 00000 n 
+0000041081 00000 n 
+0000041197 00000 n 
+0000041313 00000 n 
+0000041429 00000 n 
+0000041546 00000 n 
+0000041663 00000 n 
+0000041779 00000 n 
+0000041896 00000 n 
+0000042013 00000 n 
+0000044484 00000 n 
+0000044664 00000 n 
+0000044726 00000 n 
+0000044881 00000 n 
+0000045012 00000 n 
+0000045033 00000 n 
+0000045128 00000 n 
+0000045223 00000 n 
+0000045318 00000 n 
+0000045413 00000 n 
+0000045508 00000 n 
+0000045603 00000 n 
+0000045698 00000 n 
+0000045793 00000 n 
+0000045888 00000 n 
+0000045983 00000 n 
+0000046078 00000 n 
+0000046173 00000 n 
+0000046268 00000 n 
+0000046363 00000 n 
+0000046458 00000 n 
+0000046553 00000 n 
+0000046648 00000 n 
+0000046743 00000 n 
+0000046838 00000 n 
+0000046933 00000 n 
+0000047028 00000 n 
+0000047123 00000 n 
+0000047218 00000 n 
+0000047314 00000 n 
+0000047410 00000 n 
+0000047506 00000 n 
+0000047602 00000 n 
+0000047698 00000 n 
+0000047750 00000 n 
+0000047808 00000 n 
+0000047858 00000 n 
+0000047983 00000 n 
+0000066820 00000 n 
+0000066883 00000 n 
+0000067007 00000 n 
+0000067131 00000 n 
+0000067194 00000 n 
+0000067322 00000 n 
+0000067482 00000 n 
+0000067649 00000 n 
+0000067728 00000 n 
+0000067822 00000 n 
+0000067916 00000 n 
+0000068054 00000 n 
+0000068135 00000 n 
+0000068229 00000 n 
+0000068323 00000 n 
+0000068461 00000 n 
+0000068526 00000 n 
+0000068659 00000 n 
+0000068812 00000 n 
+0000068950 00000 n 
+0000069015 00000 n 
+0000069148 00000 n 
+0000069301 00000 n 
+0000069475 00000 n 
+0000069527 00000 n 
+0000069585 00000 n 
+0000069635 00000 n 
+0000070089 00000 n 
+0000070469 00000 n 
+0000070537 00000 n 
+0000070616 00000 n 
+0000070695 00000 n 
+0000070773 00000 n 
+0000070867 00000 n 
+0000070961 00000 n 
+0000071099 00000 n 
+0000071167 00000 n 
+0000071248 00000 n 
+0000071356 00000 n 
+0000071437 00000 n 
+0000071518 00000 n 
+0000071612 00000 n 
+0000071706 00000 n 
+0000071845 00000 n 
+0000071908 00000 n 
+0000072018 00000 n 
+0000072124 00000 n 
+0000072187 00000 n 
+0000072277 00000 n 
+0000072367 00000 n 
+0000072431 00000 n 
+0000072564 00000 n 
+0000072717 00000 n 
+0000072855 00000 n 
+0000072918 00000 n 
+0000073032 00000 n 
+0000073138 00000 n 
+0000073201 00000 n 
+0000073323 00000 n 
+0000073445 00000 n 
+0000073510 00000 n 
+0000073643 00000 n 
+0000073796 00000 n 
+0000073958 00000 n 
+0000074144 00000 n 
+0000074316 00000 n 
+0000074386 00000 n 
+0000074456 00000 n 
+0000074524 00000 n 
+0000074602 00000 n 
+0000074680 00000 n 
+0000074759 00000 n 
+0000074853 00000 n 
+0000074947 00000 n 
+0000075085 00000 n 
+0000075155 00000 n 
+0000075236 00000 n 
+0000075306 00000 n 
+0000075374 00000 n 
+0000075455 00000 n 
+0000075563 00000 n 
+0000075644 00000 n 
+0000075723 00000 n 
+0000075829 00000 n 
+0000075939 00000 n 
+0000076081 00000 n 
+0000076162 00000 n 
+0000076274 00000 n 
+0000076353 00000 n 
+0000076432 00000 n 
+0000076536 00000 n 
+0000076617 00000 n 
+0000076680 00000 n 
+0000076774 00000 n 
+0000076868 00000 n 
+0000076931 00000 n 
+0000077017 00000 n 
+0000077103 00000 n 
+0000077170 00000 n 
+0000077303 00000 n 
+0000077456 00000 n 
+0000077634 00000 n 
+0000077714 00000 n 
+0000077793 00000 n 
+0000077872 00000 n 
+0000077951 00000 n 
+0000078014 00000 n 
+0000078128 00000 n 
+0000078234 00000 n 
+0000078297 00000 n 
+0000078419 00000 n 
+0000078541 00000 n 
+0000078607 00000 n 
+0000078740 00000 n 
+0000078893 00000 n 
+0000079059 00000 n 
+0000079129 00000 n 
+0000079199 00000 n 
+0000079267 00000 n 
+0000079346 00000 n 
+0000079425 00000 n 
+0000079506 00000 n 
+0000079600 00000 n 
+0000079694 00000 n 
+0000079832 00000 n 
+0000079902 00000 n 
+0000079972 00000 n 
+0000080053 00000 n 
+0000080123 00000 n 
+0000080191 00000 n 
+0000080270 00000 n 
+0000080390 00000 n 
+0000080469 00000 n 
+0000080593 00000 n 
+0000080674 00000 n 
+0000080772 00000 n 
+0000080870 00000 n 
+0000081012 00000 n 
+0000081086 00000 n 
+0000081166 00000 n 
+0000081239 00000 n 
+0000081308 00000 n 
+0000081388 00000 n 
+0000081457 00000 n 
+0000081536 00000 n 
+0000081644 00000 n 
+0000081725 00000 n 
+0000081849 00000 n 
+0000081928 00000 n 
+0000082028 00000 n 
+0000082109 00000 n 
+0000082209 00000 n 
+0000082272 00000 n 
+0000082366 00000 n 
+0000082460 00000 n 
+0000082523 00000 n 
+0000082609 00000 n 
+0000082695 00000 n 
+0000082761 00000 n 
+0000082894 00000 n 
+0000083047 00000 n 
+0000083193 00000 n 
+0000083268 00000 n 
+0000083341 00000 n 
+0000083418 00000 n 
+0000083495 00000 n 
+0000083574 00000 n 
+0000083653 00000 n 
+0000083732 00000 n 
+0000083810 00000 n 
+0000083873 00000 n 
+0000083967 00000 n 
+0000084061 00000 n 
+0000084124 00000 n 
+0000084234 00000 n 
+0000084344 00000 n 
+0000084409 00000 n 
+0000084542 00000 n 
+0000084695 00000 n 
+0000084861 00000 n 
+0000084931 00000 n 
+0000085001 00000 n 
+0000085069 00000 n 
+0000085150 00000 n 
+0000085231 00000 n 
+0000085312 00000 n 
+0000085406 00000 n 
+0000085500 00000 n 
+0000085638 00000 n 
+0000085708 00000 n 
+0000085781 00000 n 
+0000085860 00000 n 
+0000085980 00000 n 
+0000086054 00000 n 
+0000086133 00000 n 
+0000086257 00000 n 
+0000086326 00000 n 
+0000086407 00000 n 
+0000086488 00000 n 
+0000086568 00000 n 
+0000086666 00000 n 
+0000086764 00000 n 
+0000086922 00000 n 
+0000086993 00000 n 
+0000087062 00000 n 
+0000087132 00000 n 
+0000087213 00000 n 
+0000087345 00000 n 
+0000087415 00000 n 
+0000087494 00000 n 
+0000087602 00000 n 
+0000087670 00000 n 
+0000087747 00000 n 
+0000087815 00000 n 
+0000087896 00000 n 
+0000087977 00000 n 
+0000088085 00000 n 
+0000088166 00000 n 
+0000088274 00000 n 
+0000088355 00000 n 
+0000088455 00000 n 
+0000088536 00000 n 
+0000088599 00000 n 
+0000088693 00000 n 
+0000088799 00000 n 
+0000088862 00000 n 
+0000088988 00000 n 
+0000089114 00000 n 
+0000089178 00000 n 
+0000089311 00000 n 
+0000089464 00000 n 
+0000089606 00000 n 
+0000089681 00000 n 
+0000089754 00000 n 
+0000089831 00000 n 
+0000089908 00000 n 
+0000089987 00000 n 
+0000090095 00000 n 
+0000090176 00000 n 
+0000090304 00000 n 
+0000090382 00000 n 
+0000090506 00000 n 
+0000090587 00000 n 
+0000090650 00000 n 
+0000090752 00000 n 
+0000090858 00000 n 
+0000090921 00000 n 
+0000091035 00000 n 
+0000091149 00000 n 
+0000091214 00000 n 
+0000091347 00000 n 
+0000091500 00000 n 
+0000091666 00000 n 
+0000091736 00000 n 
+0000091806 00000 n 
+0000091874 00000 n 
+0000091955 00000 n 
+0000092036 00000 n 
+0000092117 00000 n 
+0000092211 00000 n 
+0000092305 00000 n 
+0000092443 00000 n 
+0000092516 00000 n 
+0000092595 00000 n 
+0000092715 00000 n 
+0000092789 00000 n 
+0000092868 00000 n 
+0000092992 00000 n 
+0000093063 00000 n 
+0000093134 00000 n 
+0000093203 00000 n 
+0000093283 00000 n 
+0000093395 00000 n 
+0000093475 00000 n 
+0000093587 00000 n 
+0000093666 00000 n 
+0000093780 00000 n 
+0000093894 00000 n 
+0000094052 00000 n 
+0000094122 00000 n 
+0000094203 00000 n 
+0000094277 00000 n 
+0000094354 00000 n 
+0000094422 00000 n 
+0000094490 00000 n 
+0000094560 00000 n 
+0000094641 00000 n 
+0000094749 00000 n 
+0000094819 00000 n 
+0000094900 00000 n 
+0000095012 00000 n 
+0000095080 00000 n 
+0000095161 00000 n 
+0000095229 00000 n 
+0000095309 00000 n 
+0000095421 00000 n 
+0000095500 00000 n 
+0000095580 00000 n 
+0000095661 00000 n 
+0000095724 00000 n 
+0000095818 00000 n 
+0000095928 00000 n 
+0000095991 00000 n 
+0000096085 00000 n 
+0000096179 00000 n 
+0000096243 00000 n 
+0000096363 00000 n 
+0000096533 00000 n 
+0000096603 00000 n 
+0000096681 00000 n 
+0000096789 00000 n 
+0000096859 00000 n 
+0000096938 00000 n 
+0000097066 00000 n 
+0000097140 00000 n 
+0000097219 00000 n 
+0000097293 00000 n 
+0000097371 00000 n 
+0000097450 00000 n 
+0000097528 00000 n 
+0000097608 00000 n 
+0000097671 00000 n 
+0000097769 00000 n 
+0000097875 00000 n 
+0000097938 00000 n 
+0000098052 00000 n 
+0000098166 00000 n 
+0000098231 00000 n 
+0000098364 00000 n 
+0000098517 00000 n 
+0000098683 00000 n 
+0000098753 00000 n 
+0000098823 00000 n 
+0000098891 00000 n 
+0000098972 00000 n 
+0000099053 00000 n 
+0000099134 00000 n 
+0000099228 00000 n 
+0000099322 00000 n 
+0000099460 00000 n 
+0000099533 00000 n 
+0000099612 00000 n 
+0000099732 00000 n 
+0000099806 00000 n 
+0000099885 00000 n 
+0000100009 00000 n 
+0000100080 00000 n 
+0000100160 00000 n 
+0000100231 00000 n 
+0000100311 00000 n 
+0000100384 00000 n 
+0000100463 00000 n 
+0000100591 00000 n 
+0000100670 00000 n 
+0000100750 00000 n 
+0000100864 00000 n 
+0000100978 00000 n 
+0000101116 00000 n 
+0000101192 00000 n 
+0000101262 00000 n 
+0000101332 00000 n 
+0000101413 00000 n 
+0000101483 00000 n 
+0000101564 00000 n 
+0000101632 00000 n 
+0000101702 00000 n 
+0000101782 00000 n 
+0000101855 00000 n 
+0000101933 00000 n 
+0000102011 00000 n 
+0000102088 00000 n 
+0000102167 00000 n 
+0000102244 00000 n 
+0000102324 00000 n 
+0000102387 00000 n 
+0000102481 00000 n 
+0000102575 00000 n 
+0000102640 00000 n 
+0000102773 00000 n 
+0000102926 00000 n 
+0000103096 00000 n 
+0000103166 00000 n 
+0000103247 00000 n 
+0000103322 00000 n 
+0000103402 00000 n 
+0000103476 00000 n 
+0000103548 00000 n 
+0000103621 00000 n 
+0000103696 00000 n 
+0000103771 00000 n 
+0000103850 00000 n 
+0000103929 00000 n 
+0000104008 00000 n 
+0000104088 00000 n 
+0000104151 00000 n 
+0000104249 00000 n 
+0000104359 00000 n 
+0000104422 00000 n 
+0000104536 00000 n 
+0000104650 00000 n 
+0000104715 00000 n 
+0000104848 00000 n 
+0000105001 00000 n 
+0000105167 00000 n 
+0000105237 00000 n 
+0000105307 00000 n 
+0000105375 00000 n 
+0000105456 00000 n 
+0000105537 00000 n 
+0000105618 00000 n 
+0000105712 00000 n 
+0000105806 00000 n 
+0000105944 00000 n 
+0000106017 00000 n 
+0000106096 00000 n 
+0000106216 00000 n 
+0000106290 00000 n 
+0000106369 00000 n 
+0000106493 00000 n 
+0000106564 00000 n 
+0000106635 00000 n 
+0000106710 00000 n 
+0000106789 00000 n 
+0000106864 00000 n 
+0000106937 00000 n 
+0000107017 00000 n 
+0000107145 00000 n 
+0000107225 00000 n 
+0000107302 00000 n 
+0000107396 00000 n 
+0000107490 00000 n 
+0000107628 00000 n 
+0000107698 00000 n 
+0000107769 00000 n 
+0000107840 00000 n 
+0000107910 00000 n 
+0000107984 00000 n 
+0000108054 00000 n 
+0000108124 00000 n 
+0000108203 00000 n 
+0000108311 00000 n 
+0000108392 00000 n 
+0000108500 00000 n 
+0000108563 00000 n 
+0000108673 00000 n 
+0000108779 00000 n 
+0000108842 00000 n 
+0000108960 00000 n 
+0000109078 00000 n 
+0000109143 00000 n 
+0000109276 00000 n 
+0000109429 00000 n 
+0000109595 00000 n 
+0000109665 00000 n 
+0000109740 00000 n 
+0000109811 00000 n 
+0000109884 00000 n 
+0000109959 00000 n 
+0000110034 00000 n 
+0000110113 00000 n 
+0000110192 00000 n 
+0000110271 00000 n 
+0000110351 00000 n 
+0000110414 00000 n 
+0000110512 00000 n 
+0000110622 00000 n 
+0000110685 00000 n 
+0000110799 00000 n 
+0000110913 00000 n 
+0000110978 00000 n 
+0000111111 00000 n 
+0000111264 00000 n 
+0000111430 00000 n 
+0000111500 00000 n 
+0000111570 00000 n 
+0000111638 00000 n 
+0000111719 00000 n 
+0000111800 00000 n 
+0000111877 00000 n 
+0000111979 00000 n 
+0000112081 00000 n 
+0000112219 00000 n 
+0000112292 00000 n 
+0000112371 00000 n 
+0000112491 00000 n 
+0000112565 00000 n 
+0000112644 00000 n 
+0000112768 00000 n 
+0000112843 00000 n 
+0000112918 00000 n 
+0000112998 00000 n 
+0000113073 00000 n 
+0000113141 00000 n 
+0000113218 00000 n 
+0000113295 00000 n 
+0000113372 00000 n 
+0000113466 00000 n 
+0000113560 00000 n 
+0000113698 00000 n 
+0000113768 00000 n 
+0000113846 00000 n 
+0000113954 00000 n 
+0000114024 00000 n 
+0000114105 00000 n 
+0000114225 00000 n 
+0000114306 00000 n 
+0000114385 00000 n 
+0000114464 00000 n 
+0000114545 00000 n 
+0000114608 00000 n 
+0000114726 00000 n 
+0000114832 00000 n 
+0000114895 00000 n 
+0000115013 00000 n 
+0000115131 00000 n 
+0000115195 00000 n 
+0000115314 00000 n 
+0000115480 00000 n 
+0000115551 00000 n 
+0000115625 00000 n 
+0000115700 00000 n 
+0000115775 00000 n 
+0000115854 00000 n 
+0000115933 00000 n 
+0000116012 00000 n 
+0000116092 00000 n 
+0000116155 00000 n 
+0000116253 00000 n 
+0000116363 00000 n 
+0000116426 00000 n 
+0000116540 00000 n 
+0000116654 00000 n 
+0000116719 00000 n 
+0000116852 00000 n 
+0000117005 00000 n 
+0000117171 00000 n 
+0000117241 00000 n 
+0000117311 00000 n 
+0000117379 00000 n 
+0000117457 00000 n 
+0000117535 00000 n 
+0000117612 00000 n 
+0000117714 00000 n 
+0000117816 00000 n 
+0000117954 00000 n 
+0000118027 00000 n 
+0000118106 00000 n 
+0000118226 00000 n 
+0000118300 00000 n 
+0000118379 00000 n 
+0000118503 00000 n 
+0000118578 00000 n 
+0000118648 00000 n 
+0000118718 00000 n 
+0000118786 00000 n 
+0000118864 00000 n 
+0000118942 00000 n 
+0000119020 00000 n 
+0000119114 00000 n 
+0000119208 00000 n 
+0000119346 00000 n 
+0000119416 00000 n 
+0000119495 00000 n 
+0000119603 00000 n 
+0000119673 00000 n 
+0000119752 00000 n 
+0000119872 00000 n 
+0000119946 00000 n 
+0000120019 00000 n 
+0000120095 00000 n 
+0000120171 00000 n 
+0000120252 00000 n 
+0000120331 00000 n 
+0000120410 00000 n 
+0000120491 00000 n 
+0000120554 00000 n 
+0000120656 00000 n 
+0000120750 00000 n 
+0000120813 00000 n 
+0000120932 00000 n 
+0000121098 00000 n 
+0000121169 00000 n 
+0000121243 00000 n 
+0000121318 00000 n 
+0000121393 00000 n 
+0000121472 00000 n 
+0000121551 00000 n 
+0000121630 00000 n 
+0000121710 00000 n 
+0000121773 00000 n 
+0000121871 00000 n 
+0000121981 00000 n 
+0000122044 00000 n 
+0000122158 00000 n 
+0000122272 00000 n 
+0000122337 00000 n 
+0000122470 00000 n 
+0000122623 00000 n 
+0000122769 00000 n 
+0000122841 00000 n 
+0000122913 00000 n 
+0000122981 00000 n 
+0000123058 00000 n 
+0000123135 00000 n 
+0000123212 00000 n 
+0000123314 00000 n 
+0000123416 00000 n 
+0000123559 00000 n 
+0000123632 00000 n 
+0000123711 00000 n 
+0000123831 00000 n 
+0000123905 00000 n 
+0000123984 00000 n 
+0000124108 00000 n 
+0000124178 00000 n 
+0000124248 00000 n 
+0000124316 00000 n 
+0000124394 00000 n 
+0000124472 00000 n 
+0000124550 00000 n 
+0000124644 00000 n 
+0000124738 00000 n 
+0000124876 00000 n 
+0000124946 00000 n 
+0000125027 00000 n 
+0000125135 00000 n 
+0000125208 00000 n 
+0000125287 00000 n 
+0000125411 00000 n 
+0000125487 00000 n 
+0000125560 00000 n 
+0000125636 00000 n 
+0000125712 00000 n 
+0000125790 00000 n 
+0000125868 00000 n 
+0000125931 00000 n 
+0000126033 00000 n 
+0000126127 00000 n 
+0000126190 00000 n 
+0000126309 00000 n 
+0000126471 00000 n 
+0000126542 00000 n 
+0000126616 00000 n 
+0000126691 00000 n 
+0000126766 00000 n 
+0000126845 00000 n 
+0000126924 00000 n 
+0000127003 00000 n 
+0000127083 00000 n 
+0000127146 00000 n 
+0000127244 00000 n 
+0000127354 00000 n 
+0000127417 00000 n 
+0000127531 00000 n 
+0000127645 00000 n 
+0000127709 00000 n 
+0000127842 00000 n 
+0000127995 00000 n 
+0000128169 00000 n 
+0000128241 00000 n 
+0000128313 00000 n 
+0000128381 00000 n 
+0000128458 00000 n 
+0000128535 00000 n 
+0000128613 00000 n 
+0000128711 00000 n 
+0000128813 00000 n 
+0000128967 00000 n 
+0000129040 00000 n 
+0000129119 00000 n 
+0000129243 00000 n 
+0000129317 00000 n 
+0000129396 00000 n 
+0000129520 00000 n 
+0000129590 00000 n 
+0000129660 00000 n 
+0000129728 00000 n 
+0000129806 00000 n 
+0000129884 00000 n 
+0000129961 00000 n 
+0000130055 00000 n 
+0000130149 00000 n 
+0000130287 00000 n 
+0000130357 00000 n 
+0000130438 00000 n 
+0000130546 00000 n 
+0000130619 00000 n 
+0000130698 00000 n 
+0000130826 00000 n 
+0000130898 00000 n 
+0000130968 00000 n 
+0000131045 00000 n 
+0000131122 00000 n 
+0000131185 00000 n 
+0000131287 00000 n 
+0000131381 00000 n 
+0000131445 00000 n 
+0000131564 00000 n 
+0000131726 00000 n 
+0000131797 00000 n 
+0000131871 00000 n 
+0000131946 00000 n 
+0000132021 00000 n 
+0000132100 00000 n 
+0000132179 00000 n 
+0000132258 00000 n 
+0000132338 00000 n 
+0000132401 00000 n 
+0000132495 00000 n 
+0000132605 00000 n 
+0000132668 00000 n 
+0000132762 00000 n 
+0000132856 00000 n 
+0000132921 00000 n 
+0000133040 00000 n 
+0000133214 00000 n 
+0000133286 00000 n 
+0000133358 00000 n 
+0000133427 00000 n 
+0000133506 00000 n 
+0000133618 00000 n 
+0000133696 00000 n 
+0000133808 00000 n 
+0000133889 00000 n 
+0000133999 00000 n 
+0000134109 00000 n 
+0000134247 00000 n 
+0000134320 00000 n 
+0000134399 00000 n 
+0000134523 00000 n 
+0000134597 00000 n 
+0000134676 00000 n 
+0000134796 00000 n 
+0000134866 00000 n 
+0000134936 00000 n 
+0000135004 00000 n 
+0000135081 00000 n 
+0000135158 00000 n 
+0000135238 00000 n 
+0000135332 00000 n 
+0000135426 00000 n 
+0000135588 00000 n 
+0000135658 00000 n 
+0000135739 00000 n 
+0000135847 00000 n 
+0000135921 00000 n 
+0000136000 00000 n 
+0000136128 00000 n 
+0000136200 00000 n 
+0000136270 00000 n 
+0000136347 00000 n 
+0000136424 00000 n 
+0000136487 00000 n 
+0000136585 00000 n 
+0000136679 00000 n 
+0000136743 00000 n 
+0000136862 00000 n 
+0000137020 00000 n 
+0000137091 00000 n 
+0000137165 00000 n 
+0000137240 00000 n 
+0000137315 00000 n 
+0000137393 00000 n 
+0000137472 00000 n 
+0000137550 00000 n 
+0000137630 00000 n 
+0000137693 00000 n 
+0000137789 00000 n 
+0000137854 00000 n 
+0000137973 00000 n 
+0000138147 00000 n 
+0000138218 00000 n 
+0000138297 00000 n 
+0000138409 00000 n 
+0000138481 00000 n 
+0000138560 00000 n 
+0000138672 00000 n 
+0000138744 00000 n 
+0000138825 00000 n 
+0000138949 00000 n 
+0000139030 00000 n 
+0000139111 00000 n 
+0000139205 00000 n 
+0000139299 00000 n 
+0000139373 00000 n 
+0000139452 00000 n 
+0000139576 00000 n 
+0000139650 00000 n 
+0000139729 00000 n 
+0000139849 00000 n 
+0000139919 00000 n 
+0000139989 00000 n 
+0000140057 00000 n 
+0000140137 00000 n 
+0000140217 00000 n 
+0000140298 00000 n 
+0000140416 00000 n 
+0000140534 00000 n 
+0000140604 00000 n 
+0000140685 00000 n 
+0000140793 00000 n 
+0000140868 00000 n 
+0000140948 00000 n 
+0000141056 00000 n 
+0000141128 00000 n 
+0000141198 00000 n 
+0000141276 00000 n 
+0000141354 00000 n 
+0000141417 00000 n 
+0000141515 00000 n 
+0000141609 00000 n 
+0000141676 00000 n 
+0000141795 00000 n 
+0000141953 00000 n 
+0000142023 00000 n 
+0000142097 00000 n 
+0000142167 00000 n 
+0000142237 00000 n 
+0000142316 00000 n 
+0000142379 00000 n 
+0000142475 00000 n 
+0000142540 00000 n 
+0000142659 00000 n 
+0000142829 00000 n 
+0000142900 00000 n 
+0000142978 00000 n 
+0000143090 00000 n 
+0000143161 00000 n 
+0000143239 00000 n 
+0000143351 00000 n 
+0000143425 00000 n 
+0000143506 00000 n 
+0000143580 00000 n 
+0000143648 00000 n 
+0000143729 00000 n 
+0000143837 00000 n 
+0000143918 00000 n 
+0000143992 00000 n 
+0000144071 00000 n 
+0000144195 00000 n 
+0000144268 00000 n 
+0000144347 00000 n 
+0000144467 00000 n 
+0000144537 00000 n 
+0000144607 00000 n 
+0000144681 00000 n 
+0000144762 00000 n 
+0000144894 00000 n 
+0000144975 00000 n 
+0000145045 00000 n 
+0000145127 00000 n 
+0000145245 00000 n 
+0000145320 00000 n 
+0000145399 00000 n 
+0000145509 00000 n 
+0000145580 00000 n 
+0000145650 00000 n 
+0000145729 00000 n 
+0000145808 00000 n 
+0000145871 00000 n 
+0000145966 00000 n 
+0000146065 00000 n 
+0000146132 00000 n 
+0000146254 00000 n 
+0000146420 00000 n 
+0000146494 00000 n 
+0000146574 00000 n 
+0000146637 00000 n 
+0000146734 00000 n 
+0000146799 00000 n 
+0000146921 00000 n 
+0000147095 00000 n 
+0000147166 00000 n 
+0000147246 00000 n 
+0000147359 00000 n 
+0000147430 00000 n 
+0000147510 00000 n 
+0000147623 00000 n 
+0000147697 00000 n 
+0000147767 00000 n 
+0000147849 00000 n 
+0000147919 00000 n 
+0000147993 00000 n 
+0000148073 00000 n 
+0000148199 00000 n 
+0000148272 00000 n 
+0000148352 00000 n 
+0000148474 00000 n 
+0000148550 00000 n 
+0000148632 00000 n 
+0000148708 00000 n 
+0000148779 00000 n 
+0000148859 00000 n 
+0000148978 00000 n 
+0000149049 00000 n 
+0000149129 00000 n 
+0000149240 00000 n 
+0000149312 00000 n 
+0000149383 00000 n 
+0000149466 00000 n 
+0000149549 00000 n 
+0000149613 00000 n 
+0000149695 00000 n 
+0000149762 00000 n 
+0000149885 00000 n 
+0000150052 00000 n 
+0000150127 00000 n 
+0000150208 00000 n 
+0000150272 00000 n 
+0000150366 00000 n 
+0000150432 00000 n 
+0000150555 00000 n 
+0000150730 00000 n 
+0000150802 00000 n 
+0000150882 00000 n 
+0000150954 00000 n 
+0000151035 00000 n 
+0000151106 00000 n 
+0000151181 00000 n 
+0000151262 00000 n 
+0000151389 00000 n 
+0000151463 00000 n 
+0000151544 00000 n 
+0000151667 00000 n 
+0000151744 00000 n 
+0000151817 00000 n 
+0000151896 00000 n 
+0000152016 00000 n 
+0000152087 00000 n 
+0000152169 00000 n 
+0000152305 00000 n 
+0000152376 00000 n 
+0000152448 00000 n 
+0000152531 00000 n 
+0000152595 00000 n 
+0000152682 00000 n 
+0000152749 00000 n 
+0000152873 00000 n 
+0000153049 00000 n 
+0000153124 00000 n 
+0000153205 00000 n 
+0000153269 00000 n 
+0000153364 00000 n 
+0000153430 00000 n 
+0000153554 00000 n 
+0000153730 00000 n 
+0000153802 00000 n 
+0000153874 00000 n 
+0000153949 00000 n 
+0000154030 00000 n 
+0000154158 00000 n 
+0000154232 00000 n 
+0000154313 00000 n 
+0000154437 00000 n 
+0000154510 00000 n 
+0000154589 00000 n 
+0000154705 00000 n 
+0000154776 00000 n 
+0000154859 00000 n 
+0000154971 00000 n 
+0000155042 00000 n 
+0000155124 00000 n 
+0000155188 00000 n 
+0000155275 00000 n 
+0000155341 00000 n 
+0000155465 00000 n 
+0000155641 00000 n 
+0000155715 00000 n 
+0000155796 00000 n 
+0000155860 00000 n 
+0000155955 00000 n 
+0000156021 00000 n 
+0000156145 00000 n 
+0000156325 00000 n 
+0000156400 00000 n 
+0000156481 00000 n 
+0000156609 00000 n 
+0000156683 00000 n 
+0000156764 00000 n 
+0000156888 00000 n 
+0000156961 00000 n 
+0000157041 00000 n 
+0000157169 00000 n 
+0000157246 00000 n 
+0000157329 00000 n 
+0000157401 00000 n 
+0000157483 00000 n 
+0000157547 00000 n 
+0000157642 00000 n 
+0000157708 00000 n 
+0000157832 00000 n 
+0000158008 00000 n 
+0000158082 00000 n 
+0000158163 00000 n 
+0000158227 00000 n 
+0000158322 00000 n 
+0000158388 00000 n 
+0000158512 00000 n 
+0000158692 00000 n 
+0000158767 00000 n 
+0000158848 00000 n 
+0000158976 00000 n 
+0000159050 00000 n 
+0000159131 00000 n 
+0000159255 00000 n 
+0000159327 00000 n 
+0000159410 00000 n 
+0000159481 00000 n 
+0000159553 00000 n 
+0000159634 00000 n 
+0000159698 00000 n 
+0000159793 00000 n 
+0000159859 00000 n 
+0000159983 00000 n 
+0000160159 00000 n 
+0000160233 00000 n 
+0000160314 00000 n 
+0000160378 00000 n 
+0000160477 00000 n 
+0000160543 00000 n 
+0000160667 00000 n 
+0000160847 00000 n 
+0000160922 00000 n 
+0000161003 00000 n 
+0000161131 00000 n 
+0000161205 00000 n 
+0000161286 00000 n 
+0000161410 00000 n 
+0000161485 00000 n 
+0000161559 00000 n 
+0000161640 00000 n 
+0000161704 00000 n 
+0000161799 00000 n 
+0000161865 00000 n 
+0000161989 00000 n 
+0000162169 00000 n 
+0000162243 00000 n 
+0000162324 00000 n 
+0000162388 00000 n 
+0000162487 00000 n 
+0000162553 00000 n 
+0000162677 00000 n 
+0000162857 00000 n 
+0000162932 00000 n 
+0000163013 00000 n 
+0000163087 00000 n 
+0000163168 00000 n 
+0000163242 00000 n 
+0000163323 00000 n 
+0000163387 00000 n 
+0000163482 00000 n 
+0000163548 00000 n 
+0000163672 00000 n 
+0000163852 00000 n 
+0000163927 00000 n 
+0000164008 00000 n 
+0000164072 00000 n 
+0000164171 00000 n 
+0000164237 00000 n 
+0000164361 00000 n 
+0000164541 00000 n 
+0000164616 00000 n 
+0000164690 00000 n 
+0000164764 00000 n 
+0000164845 00000 n 
+0000164909 00000 n 
+0000165008 00000 n 
+0000165074 00000 n 
+0000165198 00000 n 
+0000165378 00000 n 
+0000165453 00000 n 
+0000165534 00000 n 
+0000165598 00000 n 
+0000165697 00000 n 
+0000165763 00000 n 
+0000165887 00000 n 
+0000165961 00000 n 
+0000166042 00000 n 
+0000166106 00000 n 
+0000166205 00000 n 
+0000166271 00000 n 
+0000166395 00000 n 
+0000166470 00000 n 
+0000166551 00000 n 
+0000166615 00000 n 
+0000166714 00000 n 
+0000166789 00000 n 
+0000166870 00000 n 
+0000166934 00000 n 
+0000167033 00000 n 
+0000167108 00000 n 
+0000167189 00000 n 
+0000167264 00000 n 
+0000167345 00000 n 
+0000167420 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 1205 /ID [<fb2e0d502bd22a6a7c15f491e33b89d8><f6696cf8eedb4007187ead171c95bc63>] >>
+startxref
+167495
+%%EOF
