@@ -1,5 +1,5 @@
-#define WIFI_SSID     "YOUR_WIFI_SSID"
-#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+#define WIFI_SSID     ""
+#define WIFI_PASSWORD ""
 
 #include <ESP32Servo.h>
 #include <IRremote.h>
@@ -39,6 +39,9 @@ Servo acServo;
 bool lightOn;
 bool inRoom;
 bool acOn;
+unsigned long lastACPress = 0;
+bool acPending = false;                     // a toggle was sent and the AC hasn't applied it yet
+const unsigned long AC_DELAY_MS = 3300;     // how long the AC takes to apply a toggle
 
 //WIFI
 const char* ssid = WIFI_SSID;
@@ -272,16 +275,40 @@ void systemOn() {
     inRoom = 0;
     turnOffLight();
 
-    for (int countdown = 9; countdown >= 0; countdown--) {
+    // Wait for the first press to be released so it isn't mistaken for the abort press
+    while (digitalRead(button))
+      delay(10);
+    delay(50);  // debounce
+
+    bool aborted = false;
+    for (int countdown = 9; countdown >= 0 && !aborted; countdown--) {
       printNum(countdown);
-      delay(1000);
+
+      unsigned long start = millis();
+      while (millis() - start < 1000) {
+        if (digitalRead(button)) {
+          aborted = true;
+          break;
+        }
+        delay(10);
+      }
     }
 
     printNum(-1);  // clear the 7 segment
+
+    if (aborted) {
+      inRoom = 1;
+      turnOnLight();
+
+      while (digitalRead(button))
+        delay(10);
+      delay(50);
+    }
   }
 
   // Motion sensing logic
-  if (!inRoom && digitalRead(motionSensor)) {
+  if (!inRoom && digitalRead(motionSensor))
+  {
     inRoom = 1;
     turnOnLight();
   }
@@ -344,14 +371,27 @@ void turnOffLight() {
 }
 
 //Toggles AC
+void pressACServo() {
+  acServo.write(75);
+  delay(100);
+  acServo.write(110);
+}
+
 void toggleAC() {
-  acServo.write(75);
-  delay(100);
-  acServo.write(110);
-  delay(200);
-  acServo.write(75);
-  delay(100);
-  acServo.write(110);
+  if (acPending && millis() - lastACPress < AC_DELAY_MS)
+  {
+    // Any toggle within 3.5s of the previous toggle is a single press
+    pressACServo();
+  }
+  else
+  {
+    // Fresh toggle: double press
+    pressACServo();
+    delay(200);
+    pressACServo();
+    acPending = true;
+  }
+  lastACPress = millis();  // restarts the 3.5s window on every toggle
   acOn = !acOn;
 }
 
