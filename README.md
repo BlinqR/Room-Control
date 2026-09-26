@@ -31,12 +31,9 @@ Everything below describes mk1.
 - 7-segment display (single digit)
 - Green and red LEDs
 
-### Schematic and parts
+### Schematic
 
 - [Schematic (PDF)](hardware/mk1/schematic.pdf)
-- [Bill of materials](hardware/mk1/bom.csv)
-
-![Schematic](hardware/mk1/schematic.png)
 
 ### Pin mapping
 
