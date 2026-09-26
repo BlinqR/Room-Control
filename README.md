@@ -53,7 +53,6 @@ An ESP32-based smart room controller. It switches the room light and the AC usin
    ```
 5. Upload the sketch and open the Serial Monitor at 9600 baud. Once the board connects to WiFi, use its IP address to open the web interface.
 
-> Don't commit your real WiFi password. Keep the placeholders in the repo, or move the credentials into a separate file that's listed in `.gitignore`.
 
 ## Usage
 
