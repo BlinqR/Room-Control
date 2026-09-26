@@ -2,6 +2,15 @@
 
 An ESP32-based smart room controller. It switches the room light and the AC using servos, and can be controlled from a web page, an IR remote, a physical button, a motion sensor, or a daily schedule.
 
+## Board versions
+
+| Version | Status | Firmware | Hardware |
+|---|---|---|---|
+| mk1 | Current | [firmware/mk1](firmware/mk1) | [hardware/mk1](hardware/mk1) |
+| mk2 | In development (adds a TFT display) | [firmware/mk2](firmware/mk2) | — |
+
+Everything below describes mk1.
+
 ## Features
 
 - **Web interface:** toggle the light and the AC from any device on your network, and set the daily auto-on time for the light.
@@ -22,6 +31,13 @@ An ESP32-based smart room controller. It switches the room light and the AC usin
 - 7-segment display (single digit)
 - Green and red LEDs
 
+### Schematic and parts
+
+- [Schematic (PDF)](hardware/mk1/schematic.pdf)
+- [Bill of materials](hardware/mk1/bom.csv)
+
+![Schematic](hardware/mk1/schematic.png)
+
 ### Pin mapping
 
 | Function | GPIO |
@@ -41,7 +57,7 @@ An ESP32-based smart room controller. It switches the room light and the AC usin
 2. Install these libraries from the Library Manager:
    - **ESP32Servo**
    - **IRremote**
-3. Open `Room_Control.ino` and set your WiFi credentials at the top of the file:
+3. Open `firmware/mk1/Room_Control_mk1/Room_Control_mk1.ino` and set your WiFi credentials at the top of the file:
    ```cpp
    #define WIFI_SSID     "YOUR_WIFI_SSID"
    #define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
@@ -52,7 +68,6 @@ An ESP32-based smart room controller. It switches the room light and the AC usin
    const int daylightOffset_sec = 0;   // no automatic DST handling
    ```
 5. Upload the sketch and open the Serial Monitor at 9600 baud. Once the board connects to WiFi, use its IP address to open the web interface.
-
 
 ## Usage
 
@@ -90,3 +105,4 @@ To use a different remote or button, call the `read()` helper in `loop()`, press
 - The web interface has no authentication, so anyone on your network can use it.
 - Motion sensors often hold their output high for a few seconds after the last movement. If the light turns back on right after the countdown ends, add a short `delay()` after the countdown finishes.
 - Daylight saving time isn't handled automatically. Change `gmtOffset_sec` by hand when it changes.
+- GPIO 35 (motion sensor) has no pull-down resistor on the mk1 board, and the ESP32 has no internal pull-downs on that pin. If the sensor wire loses contact, the pin floats and can trigger the light. Solder a 10 kΩ resistor between the signal and ground pads of the sensor connector to fix this.
